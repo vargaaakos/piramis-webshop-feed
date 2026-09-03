@@ -19,7 +19,6 @@
 
 import argparse
 import collections
-import datetime
 import html
 import json
 import pathlib
@@ -63,6 +62,8 @@ def betolt(forras):
     with urllib.request.urlopen(FEED_URL, timeout=180) as r:
         modositva = r.headers.get("last-modified")
         nyers = r.read()
+    if not modositva:
+        print("  FIGYELEM: a feed nem küldött Last-Modified fejlécet")
     print(f"  {len(nyers):,} bájt, a feed frissítve: {modositva}")
     return nyers.decode("utf-8", errors="replace"), modositva
 
@@ -148,8 +149,6 @@ def main():
 
     cel = pathlib.Path(a.cel)
     cel.mkdir(parents=True, exist_ok=True)
-    keszult = datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")
-
     index = []
     ures = []
     for (fo, al), lista in sorted(csoportok.items()):
@@ -163,7 +162,10 @@ def main():
                     "kategoria": al,
                     "fokategoria": fo,
                     "slug": slug,
-                    "keszult": keszult,
+                    # Szándékosan NINCS itt generálási időbélyeg. Ha lenne, minden napi
+                    # futás megváltoztatná mind a 47 fájlt, és a "csak akkor commitolj,
+                    # ha változott" feltétel sosem teljesülne. A futás ideje a git
+                    # commit dátumában amúgy is benne van.
                     "feed_frissitve": modositva,
                     "osszes_termek": len(lista),
                     "raktaron": len([t for t in lista if t["keszlet"] == "in_stock"]),
@@ -181,7 +183,7 @@ def main():
                       "osszes": len(lista), "kirakva": len(kivalasztott)})
 
     (cel / "index.json").write_text(
-        json.dumps({"keszult": keszult, "feed_frissitve": modositva,
+        json.dumps({"feed_frissitve": modositva,
                     "termek_osszesen": len(termekek), "kategoriak": index},
                    ensure_ascii=False, indent=1),
         encoding="utf-8",
