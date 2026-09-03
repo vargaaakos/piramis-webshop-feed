@@ -1,7 +1,7 @@
 {
- "keszult": "2026-09-03T11:10:11+00:00",
- "feed_frissitve": null,
- "termek_osszesen": 23897,
+ "keszult": "2026-09-03T11:21:23+00:00",
+ "feed_frissitve": "Thu, 03 Sep 2026 10:50:15 GMT",
+ "termek_osszesen": 23896,
  "kategoriak": [
   {
    "kategoria": "Egyéb barkácsáru",
@@ -21,7 +21,7 @@
    "kategoria": "Kerti- és kéziszerszám",
    "fokategoria": "Barkács",
    "slug": "kerti-es-keziszerszam",
-   "osszes": 364,
+   "osszes": 363,
    "kirakva": 12
   },
   {
