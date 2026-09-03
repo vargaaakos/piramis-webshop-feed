@@ -1,0 +1,56 @@
+{
+ "kategoria": "Fürdőszoba, szaniter",
+ "fokategoria": "Belsőépítészet",
+ "slug": "furdoszoba-szaniter",
+ "keszult": "2026-09-03T11:10:11+00:00",
+ "feed_frissitve": null,
+ "osszes_termek": 28,
+ "raktaron": 5,
+ "termekek": [
+  {
+   "id": "UH-342710",
+   "nev": "Alföldi Bázis mosdó, 57x47 cm, fehér",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-342710-2_1yt4xp4y.jpg?v=2",
+   "link": "https://epitoanyag.hu/alfoldi-bazis-mosdo-57x47-cm-feher-pVUgtMzQyNzEw",
+   "ar": "17 790 Ft",
+   "akcios_ar": "",
+   "marka": "Alföldi"
+  },
+  {
+   "id": "UH-195102",
+   "nev": "Hansgrohe iBox universal alaptest, DN15/DN20",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-195102_6onqmyox.png?v=2",
+   "link": "https://epitoanyag.hu/hansgrohe-ibox-universal-alaptest-dn15dn20-pVUgtMTk1MTAy",
+   "ar": "61 400 Ft",
+   "akcios_ar": "",
+   "marka": "Hansgrohe"
+  },
+  {
+   "id": "UH-351031",
+   "nev": "Roca The Gap Clean Rim fali wc-csésze",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-351031_k1qwlxal.jpeg?v=2",
+   "link": "https://epitoanyag.hu/roca-the-gap-clean-rim-fali-wc-csesze-pVUgtMzUxMDMx",
+   "ar": "72 290 Ft",
+   "akcios_ar": "",
+   "marka": "Roca"
+  },
+  {
+   "id": "UH-195249",
+   "nev": "Hansgrohe Logis egykaros kádcsaptelep, falsík alatti szereléshez",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/154-hpa01429-tif_t88z7zrh.png?v=2",
+   "link": "https://epitoanyag.hu/hansgrohe-logis-egykaros-kadcsaptelep-falsik-alatti-szereleshez-pVUgtMTk1MjQ5",
+   "ar": "17 670 Ft",
+   "akcios_ar": "",
+   "marka": "Hansgrohe"
+  },
+  {
+   "id": "UH-185801",
+   "nev": "Roca The Gap fehér WC ülőke, fedéllel, krómozott zsanérokkal",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-185801_qw59ikkp.jpeg?v=2",
+   "link": "https://epitoanyag.hu/roca-the-gap-feher-wc-uloke-fedellel-kromozott-zsanerokkal-pVUgtMTg1ODAx",
+   "ar": "22 760 Ft",
+   "akcios_ar": "",
+   "marka": "Roca"
+  }
+ ]
+}

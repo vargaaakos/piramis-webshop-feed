@@ -1,0 +1,119 @@
+{
+ "kategoria": "Növényápolás, kertgondozás",
+ "fokategoria": "Kert",
+ "slug": "novenyapolas-kertgondozas",
+ "keszult": "2026-09-03T11:10:11+00:00",
+ "feed_frissitve": null,
+ "osszes_termek": 58,
+ "raktaron": 49,
+ "termekek": [
+  {
+   "id": "UH-851846",
+   "nev": "Agro-Largo Hobby Garden Zöldsziget általános fűmagkeverék, 5 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-851846_253ral5i.jpg?v=1",
+   "link": "https://epitoanyag.hu/agro-largo-hobby-garden-zoldsziget-altalanos-fumagkeverek-5-kg-pVUgtODUxODQ2",
+   "ar": "8 290 Ft",
+   "akcios_ar": "",
+   "marka": "Agro-Largo"
+  },
+  {
+   "id": "UH-767873",
+   "nev": "LandForce muskátliföld 50 l",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-804817_5zx1kqv2.jpg?v=2",
+   "link": "https://epitoanyag.hu/landforce-muskatlifold-50-l-pVUgtNzY3ODcz",
+   "ar": "1 790 Ft",
+   "akcios_ar": "",
+   "marka": "ÚjHáz"
+  },
+  {
+   "id": "UH-779684",
+   "nev": "Bambusz növénytámasz szett, natúr, 10-12 mmx120 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-779682_eint3ogu.png?v=1",
+   "link": "https://epitoanyag.hu/bambusz-novenytamasz-szett-natur-10-12-mmx120-cm-pVUgtNzc5Njg0",
+   "ar": "490 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-851876",
+   "nev": "Agro-Largo Magic Garden Biliárd Sport intenzív használatra fűmagkeverék, 10 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-851876_cpmalzm6.jpg?v=1",
+   "link": "https://epitoanyag.hu/agro-largo-magic-garden-biliard-sport-intenziv-hasznalatra-fumagkeverek-10-kg-pVUgtODUxODc2",
+   "ar": "17 990 Ft",
+   "akcios_ar": "",
+   "marka": "Agro-Largo"
+  },
+  {
+   "id": "UH-851843",
+   "nev": "ÚjHáz Kertvarázs általános fűmagkeverék, 1 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-851843_4cqnrmjh.jpg?v=1",
+   "link": "https://epitoanyag.hu/ujhaz-kertvarazs-altalanos-fumagkeverek-1-kg-pVUgtODUxODQz",
+   "ar": "1 690 Ft",
+   "akcios_ar": "",
+   "marka": "ÚjHáz"
+  },
+  {
+   "id": "UH-779685",
+   "nev": "Bambusz növénytámasz szett, natúr, 12-14 mmx150 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-779682_14ppw6o8.png?v=1",
+   "link": "https://epitoanyag.hu/bambusz-novenytamasz-szett-natur-12-14-mmx150-cm-pVUgtNzc5Njg1",
+   "ar": "650 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-851875",
+   "nev": "Agro-Largo Magic Garden Biliárd Sport intenzív használatra fűmagkeverék, 5 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-851875_3hczc33j.jpg?v=1",
+   "link": "https://epitoanyag.hu/agro-largo-magic-garden-biliard-sport-intenziv-hasznalatra-fumagkeverek-5-kg-pVUgtODUxODc1",
+   "ar": "9 490 Ft",
+   "akcios_ar": "",
+   "marka": "Agro-Largo"
+  },
+  {
+   "id": "UH-804817",
+   "nev": "újHÁZ általános virágföld 50 l",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-804817_ppky4qg2.jpg?v=1",
+   "link": "https://epitoanyag.hu/ujhaz-altalanos-viragfold-50-l-pVUgtODA0ODE3",
+   "ar": "1 350 Ft",
+   "akcios_ar": "",
+   "marka": "ÚjHáz"
+  },
+  {
+   "id": "UH-779686",
+   "nev": "Bambusz növénytámasz szett, natúr, 14-16 mmx180 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-779682_nbtrhplv.png?v=1",
+   "link": "https://epitoanyag.hu/bambusz-novenytamasz-szett-natur-14-16-mmx180-cm-pVUgtNzc5Njg2",
+   "ar": "660 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-851862",
+   "nev": "Agro-Largo Magic Garden Kentaur szárazságtűrő fűmagkeverék, 1 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-851862_4ows9x8w.jpg?v=1",
+   "link": "https://epitoanyag.hu/agro-largo-magic-garden-kentaur-szarazsagturo-fumagkeverek-1-kg-pVUgtODUxODYy",
+   "ar": "2 390 Ft",
+   "akcios_ar": "",
+   "marka": "Agro-Largo"
+  },
+  {
+   "id": "UH-779687",
+   "nev": "Bambusz növénytámasz szett, natúr, 16-18 mmx210 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-779682_8qbel5ml.png?v=1",
+   "link": "https://epitoanyag.hu/bambusz-novenytamasz-szett-natur-16-18-mmx210-cm-pVUgtNzc5Njg3",
+   "ar": "1 050 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-851864",
+   "nev": "Agro-Largo Magic Garden Kentaur szárazságtűrő fűmagkeverék, 10 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-851864_nuig74v3.jpg?v=1",
+   "link": "https://epitoanyag.hu/agro-largo-magic-garden-kentaur-szarazsagturo-fumagkeverek-10-kg-pVUgtODUxODY0",
+   "ar": "20 990 Ft",
+   "akcios_ar": "",
+   "marka": "Agro-Largo"
+  }
+ ]
+}

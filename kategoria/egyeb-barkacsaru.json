@@ -1,0 +1,74 @@
+{
+ "kategoria": "Egyéb barkácsáru",
+ "fokategoria": "Barkács",
+ "slug": "egyeb-barkacsaru",
+ "keszult": "2026-09-03T11:10:11+00:00",
+ "feed_frissitve": null,
+ "osszes_termek": 7,
+ "raktaron": 7,
+ "termekek": [
+  {
+   "id": "UH-229893",
+   "nev": "Csempemágnes",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-229893_zkicp8mj.png?v=2",
+   "link": "https://epitoanyag.hu/csempemagnes-pVUgtMjI5ODkz",
+   "ar": "2 140 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "FS240",
+   "nev": "Hullámpapír 1 m széles",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/hullampapir_a12r0eub.png?v=2",
+   "link": "https://epitoanyag.hu/hullampapir-1-m-szeles-pRlMyNDA_eq1",
+   "ar": "4 750 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-130319",
+   "nev": "Műanyag záródugó zártszelvényhez fekete, 20x20 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-130319_545ctncr.png?v=2",
+   "link": "https://epitoanyag.hu/muanyag-zarodugo-zartszelvenyhez-fekete-20x20-mm-pVUgtMTMwMzE5",
+   "ar": "20 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-130325",
+   "nev": "Műanyag záródugó zártszelvényhez fekete, 30x30 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-130325_rydk26ra.png?v=2",
+   "link": "https://epitoanyag.hu/muanyag-zarodugo-zartszelvenyhez-fekete-30x30-mm-pVUgtMTMwMzI1",
+   "ar": "30 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-130329",
+   "nev": "Műanyag záródugó zártszelvényhez fekete, 40x20 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-130329_e00nmnix.png?v=2",
+   "link": "https://epitoanyag.hu/muanyag-zarodugo-zartszelvenyhez-fekete-40x20-mm-pVUgtMTMwMzI5",
+   "ar": "25 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-130333",
+   "nev": "Műanyag záródugó zártszelvényhez fekete, 40x40 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-130333_70x9ur6u.png?v=2",
+   "link": "https://epitoanyag.hu/muanyag-zarodugo-zartszelvenyhez-fekete-40x40-mm-pVUgtMTMwMzMz",
+   "ar": "55 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "MZ001",
+   "nev": "Sitteszsák 55x110 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mz001_kr8qf6h2.png?v=2",
+   "link": "https://epitoanyag.hu/sitteszsak-55x110-cm-pTVowMDE_eq1",
+   "ar": "190 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  }
+ ]
+}

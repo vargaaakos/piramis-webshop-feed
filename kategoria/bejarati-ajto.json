@@ -1,0 +1,119 @@
+{
+ "kategoria": "Bejárati ajtó",
+ "fokategoria": "Nyílászáró",
+ "slug": "bejarati-ajto",
+ "keszult": "2026-09-03T11:10:11+00:00",
+ "feed_frissitve": null,
+ "osszes_termek": 13,
+ "raktaron": 13,
+ "termekek": [
+  {
+   "id": "UH-744724",
+   "nev": "Delta Boszporusz balos műanyag bejárati ajtó 100x210 cm, fehér, 8 üveges",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-744724_r2anxxg2.png?v=2",
+   "link": "https://epitoanyag.hu/delta-boszporusz-balos-muanyag-bejarati-ajto-100x210-cm-feher-8-uveges-pVUgtNzQ0NzI0",
+   "ar": "114 000 Ft",
+   "akcios_ar": "",
+   "marka": "Delta"
+  },
+  {
+   "id": "UH-744747",
+   "nev": "Delta Hidas balos műanyag bejárati ajtó 100x210 cm, fehér, 5 üveges",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-744747_ndhfqoxv.png?v=2",
+   "link": "https://epitoanyag.hu/delta-hidas-balos-muanyag-bejarati-ajto-100x210-cm-feher-5-uveges-pVUgtNzQ0NzQ3",
+   "ar": "138 400 Ft",
+   "akcios_ar": "",
+   "marka": "Delta"
+  },
+  {
+   "id": "UH-744751",
+   "nev": "Delta Hidas balos műanyag bejárati ajtó 100x210 cm, fehér, 6 üveges",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-744751_qkkz40e6.png?v=2",
+   "link": "https://epitoanyag.hu/delta-hidas-balos-muanyag-bejarati-ajto-100x210-cm-feher-6-uveges-pVUgtNzQ0NzUx",
+   "ar": "138 400 Ft",
+   "akcios_ar": "",
+   "marka": "Delta"
+  },
+  {
+   "id": "UH-744748",
+   "nev": "Delta Hidas jobbos műanyag bejárati ajtó 100x210 cm, fehér, 5 üveges",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-744748_tm22p81l.png?v=2",
+   "link": "https://epitoanyag.hu/delta-hidas-jobbos-muanyag-bejarati-ajto-100x210-cm-feher-5-uveges-pVUgtNzQ0NzQ4",
+   "ar": "115 600 Ft",
+   "akcios_ar": "",
+   "marka": "Delta"
+  },
+  {
+   "id": "UH-744750",
+   "nev": "Delta Hidas jobbos műanyag bejárati ajtó 100x210 cm, fehér, 6 üveges",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-744750_9cazvz5d.png?v=2",
+   "link": "https://epitoanyag.hu/delta-hidas-jobbos-muanyag-bejarati-ajto-100x210-cm-feher-6-uveges-pVUgtNzQ0NzUw",
+   "ar": "122 000 Ft",
+   "akcios_ar": "",
+   "marka": "Delta"
+  },
+  {
+   "id": "UH-744753",
+   "nev": "Delta Ipoly balos műanyag bejárati ajtó 100x210 cm, fehér, üvegezett",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-744753_mdixa85v.png?v=2",
+   "link": "https://epitoanyag.hu/delta-ipoly-balos-muanyag-bejarati-ajto-100x210-cm-feher-uvegezett-pVUgtNzQ0NzUz",
+   "ar": "99 000 Ft",
+   "akcios_ar": "",
+   "marka": "Delta"
+  },
+  {
+   "id": "UH-744752",
+   "nev": "Delta Ipoly jobbos műanyag bejárati ajtó 100x210 cm, fehér, üvegezett",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-744752_f32y90vu.png?v=2",
+   "link": "https://epitoanyag.hu/delta-ipoly-jobbos-muanyag-bejarati-ajto-100x210-cm-feher-uvegezett-pVUgtNzQ0NzUy",
+   "ar": "99 000 Ft",
+   "akcios_ar": "",
+   "marka": "Delta"
+  },
+  {
+   "id": "UH-687137",
+   "nev": "Delta Rajna balos műanyag bejárati ajtó 100x210 cm, fehér, üvegezett",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-687137_jn7lj9wl.png?v=2",
+   "link": "https://epitoanyag.hu/delta-rajna-balos-muanyag-bejarati-ajto-100x210-cm-feher-uvegezett-pVUgtNjg3MTM3",
+   "ar": "109 400 Ft",
+   "akcios_ar": "",
+   "marka": "Delta"
+  },
+  {
+   "id": "UH-744728",
+   "nev": "Delta Rajna jobbos műanyag bejárati ajtó 100x210 cm, fehér, üvegezett",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-744728_9iall8oy.png?v=2",
+   "link": "https://epitoanyag.hu/delta-rajna-jobbos-muanyag-bejarati-ajto-100x210-cm-feher-uvegezett-pVUgtNzQ0NzI4",
+   "ar": "109 400 Ft",
+   "akcios_ar": "",
+   "marka": "Delta"
+  },
+  {
+   "id": "UH-629007",
+   "nev": "Delta Visztula balos műanyag bejárati ajtó 100x210 cm, fehér, 3 üveges",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-629007_i9k33xpr.png?v=2",
+   "link": "https://epitoanyag.hu/delta-visztula-balos-muanyag-bejarati-ajto-100x210-cm-feher-3-uveges-pVUgtNjI5MDA3",
+   "ar": "109 400 Ft",
+   "akcios_ar": "",
+   "marka": "Delta"
+  },
+  {
+   "id": "UH-744729",
+   "nev": "Delta Visztula jobbos műanyag bejárati ajtó 100x210 cm, fehér, 3 üveges",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-744729_awgncq4u.png?v=2",
+   "link": "https://epitoanyag.hu/delta-visztula-jobbos-muanyag-bejarati-ajto-100x210-cm-feher-3-uveges-pVUgtNzQ0NzI5",
+   "ar": "109 400 Ft",
+   "akcios_ar": "",
+   "marka": "Delta"
+  },
+  {
+   "id": "UH-744755",
+   "nev": "Delta Zebra balos műanyag bejárati ajtó 100x210 cm, fehér, 7 üveges",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-744755_rh8pss90.png?v=2",
+   "link": "https://epitoanyag.hu/delta-zebra-balos-muanyag-bejarati-ajto-100x210-cm-feher-7-uveges-pVUgtNzQ0NzU1",
+   "ar": "148 500 Ft",
+   "akcios_ar": "",
+   "marka": "Delta"
+  }
+ ]
+}

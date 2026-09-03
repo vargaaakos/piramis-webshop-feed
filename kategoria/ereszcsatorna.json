@@ -1,0 +1,119 @@
+{
+ "kategoria": "Ereszcsatorna",
+ "fokategoria": "Építőanyag",
+ "slug": "ereszcsatorna",
+ "keszult": "2026-09-03T11:10:11+00:00",
+ "feed_frissitve": null,
+ "osszes_termek": 581,
+ "raktaron": 125,
+ "termekek": [
+  {
+   "id": "CF120525-PR",
+   "nev": "Colorferr 25 horganyzott betorkollócsonk",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-csathor25betcsonk_2hxdyzq7.jpg?v=2",
+   "link": "https://epitoanyag.hu/colorferr-25-horganyzott-betorkollocsonk-pQ0YxMjA1MjUtUFI_eq1",
+   "ar": "1 110 Ft",
+   "akcios_ar": "",
+   "marka": "Colorferr"
+  },
+  {
+   "id": "GAL-SP050-V-MU",
+   "nev": "Galeco PVC 050 barna karmantyú",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/karmantyu-barna_su98s8i6.jpg?v=2",
+   "link": "https://epitoanyag.hu/galeco-pvc-050-barna-karmantyu-pR0FMLVNQMDUwLVYtTVU_eq1",
+   "ar": "805 Ft",
+   "akcios_ar": "",
+   "marka": "Galeco"
+  },
+  {
+   "id": "UH-739324",
+   "nev": "Csapadékvízszűrő szürke 80/100 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-349908_bbodc141.jpg?v=2",
+   "link": "https://epitoanyag.hu/csapadekvizszuro-szurke-80100-mm-pVUgtNzM5MzI0",
+   "ar": "2 400 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "CF124625-2000",
+   "nev": "Colorferr 25 horganyzott ereszcsatorna 2 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-csathorg25eresz2fm_snyn8pi6.jpg?v=2",
+   "link": "https://epitoanyag.hu/colorferr-25-horganyzott-ereszcsatorna-2-m-pQ0YxMjQ2MjUtMjAwMA_eq2",
+   "ar": "1 790 Ft",
+   "akcios_ar": "",
+   "marka": "Colorferr"
+  },
+  {
+   "id": "GAL-SP050-A-KO067",
+   "nev": "Galeco PVC 050 grafit csőív 67°",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/67-csoiv-grafit_dydr7kte.jpg?v=2",
+   "link": "https://epitoanyag.hu/galeco-pvc-050-grafit-csoiv-67-pR0FMLVNQMDUwLUEtS08wNjc_eq1",
+   "ar": "1 155 Ft",
+   "akcios_ar": "",
+   "marka": "Galeco"
+  },
+  {
+   "id": "UH-372760",
+   "nev": "Műanyag lombfogó kosár 60-120 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-372760_vnznhpz8.jpg?v=2",
+   "link": "https://epitoanyag.hu/muanyag-lombfogo-kosar-60-120-mm-pVUgtMzcyNzYw",
+   "ar": "390 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "CF123776",
+   "nev": "Colorferr 25 horganyzott hattyúnyak",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-csathorg25hattyu25_h7afpft1.jpg?v=2",
+   "link": "https://epitoanyag.hu/colorferr-25-horganyzott-hattyunyak-pQ0YxMjM3NzY_eq1",
+   "ar": "1 500 Ft",
+   "akcios_ar": "",
+   "marka": "Colorferr"
+  },
+  {
+   "id": "GAL-SP050-A-MU",
+   "nev": "Galeco PVC 050 grafit karmantyú",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/karmantyu-grafit_dp7lg49c.jpg?v=2",
+   "link": "https://epitoanyag.hu/galeco-pvc-050-grafit-karmantyu-pR0FMLVNQMDUwLUEtTVU_eq1",
+   "ar": "805 Ft",
+   "akcios_ar": "",
+   "marka": "Galeco"
+  },
+  {
+   "id": "CF123876",
+   "nev": "Colorferr 25 horganyzott kiköpő",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-csathorg25kikop_snvl03gw.jpg?v=2",
+   "link": "https://epitoanyag.hu/colorferr-25-horganyzott-kikopo-pQ0YxMjM4NzY_eq1",
+   "ar": "1 300 Ft",
+   "akcios_ar": "",
+   "marka": "Colorferr"
+  },
+  {
+   "id": "GAL-SP100-V-KO045",
+   "nev": "Galeco PVC 100 barna csőív 45°",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/csoiv-45barna_aa9lwei2.jpg?v=2",
+   "link": "https://epitoanyag.hu/galeco-pvc-100-barna-csoiv-45-pR0FMLVNQMTAwLVYtS08wNDU_eq1",
+   "ar": "1 800 Ft",
+   "akcios_ar": "",
+   "marka": "Galeco"
+  },
+  {
+   "id": "CF122435-GFM",
+   "nev": "Colorferr 25 horganyzott könyök 72°",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-csathorgkonyok7672_rnc3bn31.jpg?v=2",
+   "link": "https://epitoanyag.hu/colorferr-25-horganyzott-konyok-72-pQ0YxMjI0MzUtR0ZN",
+   "ar": "730 Ft",
+   "akcios_ar": "",
+   "marka": "Colorferr"
+  },
+  {
+   "id": "GAL-RE150-V-ZP",
+   "nev": "Galeco PVC 150 barna végzáró jobbos",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/vegzaro-jobbos-barna_8v795vgv.jpg?v=3",
+   "link": "https://epitoanyag.hu/galeco-pvc-150-barna-vegzaro-jobbos-pR0FMLVJFMTUwLVYtWlA_eq1",
+   "ar": "1 275 Ft",
+   "akcios_ar": "",
+   "marka": "Galeco"
+  }
+ ]
+}

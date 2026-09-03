@@ -1,0 +1,119 @@
+{
+ "kategoria": "Tetőfedés",
+ "fokategoria": "Építőanyag",
+ "slug": "tetofedes",
+ "keszult": "2026-09-03T11:10:11+00:00",
+ "feed_frissitve": null,
+ "osszes_termek": 3295,
+ "raktaron": 438,
+ "termekek": [
+  {
+   "id": "UH-033763",
+   "nev": "Bramac acél lépcsőfok barna 25x41,5 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-033763_lbacevg2.jpg?v=2",
+   "link": "https://epitoanyag.hu/bramac-acel-lepcsofok-barna-25x415-cm-pVUgtMDMzNzYz",
+   "ar": "16 660 Ft",
+   "akcios_ar": "",
+   "marka": "BMI Bramac"
+  },
+  {
+   "id": "UH-690728",
+   "nev": "Bádogelem ereszszegély alu RAL7016 antracit 2 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-690728_j8ubxhjy.jpg?v=2",
+   "link": "https://epitoanyag.hu/badogelem-ereszszegely-alu-ral7016-antracit-2-m-pVUgtNjkwNzI4",
+   "ar": "5 185 Ft",
+   "akcios_ar": "",
+   "marka": "TT"
+  },
+  {
+   "id": "CF265520-E-2000-3016",
+   "nev": "Colorferr alumínium 20 ereszszegély RAL 3016 téglavörös 2 fm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-cf265520-e-3016_ue0u11zf.png?v=1",
+   "link": "https://epitoanyag.hu/colorferr-aluminium-20-ereszszegely-ral-3016-teglavoros-2-fm-pQ0YyNjU1MjAtRS0yMDAwLTMwMTY_eq1",
+   "ar": "3 060 Ft",
+   "akcios_ar": "",
+   "marka": "Colorferr"
+  },
+  {
+   "id": "UH-629210",
+   "nev": "Dachler Alu-Flex Plus 3D kémény- és falszegély barna 30 cm x 5 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-629210_qnl3bf8n.jpg?v=2",
+   "link": "https://epitoanyag.hu/dachler-alu-flex-plus-3d-kemeny-es-falszegely-barna-30-cm-x-5-m-pVUgtNjI5MjEw",
+   "ar": "10 810 Ft",
+   "akcios_ar": "",
+   "marka": "Dachler"
+  },
+  {
+   "id": "UH-267641",
+   "nev": "Dörken Delta Dawi GP légzáró és párafékező fólia 2x50 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-267641-2_eytcpkjc.png?v=2",
+   "link": "https://epitoanyag.hu/dorken-delta-dawi-gp-legzaro-es-parafekezo-folia-2x50-m-pVUgtMjY3NjQx",
+   "ar": "65 500 Ft",
+   "akcios_ar": "",
+   "marka": "Dörken"
+  },
+  {
+   "id": "UH-527352",
+   "nev": "Gutta Eco Hobby hódfarkú zsindely barna",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-734517_xoc48oy0.jpg?v=1",
+   "link": "https://epitoanyag.hu/gutta-eco-hobby-hodfarku-zsindely-barna-pVUgtNTI3MzUy",
+   "ar": "10 500 Ft",
+   "akcios_ar": "",
+   "marka": "Gutta"
+  },
+  {
+   "id": "UH-727163",
+   "nev": "Isover Vario DoubleFit tömítőanyag 310 ml",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-727163_y86m3wji.jpg?v=2",
+   "link": "https://epitoanyag.hu/isover-vario-doublefit-tomitoanyag-310-ml-pVUgtNzI3MTYz",
+   "ar": "4 950 Ft",
+   "akcios_ar": "",
+   "marka": "Isover"
+  },
+  {
+   "id": "UH-320460",
+   "nev": "Klöber antennakivezető elem 22-70 mm barna",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-320460_txkojvnc.jpg?v=2",
+   "link": "https://epitoanyag.hu/klober-antennakivezeto-elem-22-70-mm-barna-pVUgtMzIwNDYw",
+   "ar": "9 180 Ft",
+   "akcios_ar": "",
+   "marka": "Klöber"
+  },
+  {
+   "id": "UH-644071",
+   "nev": "Leier cseréprögzítő csavar antracit",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/leier-csereprogzito-csavar-antracit_e3xe144b.jpg?v=1",
+   "link": "https://epitoanyag.hu/leier-csereprogzito-csavar-antracit-pVUgtNjQ0MDcx",
+   "ar": "495 Ft",
+   "akcios_ar": "",
+   "marka": "Leier"
+  },
+  {
+   "id": "UH-089235",
+   "nev": "Mapei Mapeflex Blackfill bitumenes hézagkitöltő 300 ml",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-089235_pq6o3hxi.png?v=2",
+   "link": "https://epitoanyag.hu/mapei-mapeflex-blackfill-bitumenes-hezagkitolto-300-ml-pVUgtMDg5MjM1",
+   "ar": "5 420 Ft",
+   "akcios_ar": "",
+   "marka": "Mapei"
+  },
+  {
+   "id": "UH-728296",
+   "nev": "Masterplast Linopore RX 3000 páraáteresztő tetőfólia 75 m2",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-728296_nditekyf.png?v=2",
+   "link": "https://epitoanyag.hu/masterplast-linopore-rx-3000-paraatereszto-tetofolia-75-m2-pVUgtNzI4Mjk2",
+   "ar": "22 125 Ft",
+   "akcios_ar": "",
+   "marka": "Masterplast"
+  },
+  {
+   "id": "UH-329423",
+   "nev": "NAFI beton kéménytisztító ajtó 25x33x6 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-329423_alx1toq2.jpg?v=1",
+   "link": "https://epitoanyag.hu/nafi-beton-kemenytisztito-ajto-25x33x6-cm-pVUgtMzI5NDIz",
+   "ar": "1 750 Ft",
+   "akcios_ar": "",
+   "marka": "nafi"
+  }
+ ]
+}

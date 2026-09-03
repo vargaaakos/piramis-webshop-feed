@@ -1,0 +1,119 @@
+{
+ "kategoria": "Térburkolat",
+ "fokategoria": "Kert",
+ "slug": "terburkolat",
+ "keszult": "2026-09-03T11:10:11+00:00",
+ "feed_frissitve": null,
+ "osszes_termek": 1018,
+ "raktaron": 109,
+ "termekek": [
+  {
+   "id": "UH-810982",
+   "nev": "AV Costarica műfű, 4 m tekercsszélesség",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-810982_hr5umxwg.png?v=1",
+   "link": "https://epitoanyag.hu/av-costarica-mufu-4-m-tekercsszelesseg-pVUgtODEwOTgy",
+   "ar": "31 300 Ft",
+   "akcios_ar": "27 980 Ft",
+   "marka": "ÚjHáz"
+  },
+  {
+   "id": "UH-002954",
+   "nev": "ABeton Balaton térkő normálkő őszilomb 12x24x6 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-002954_jkl6vkls.jpg?v=2",
+   "link": "https://epitoanyag.hu/abeton-balaton-terko-normalko-oszilomb-12x24x6-cm-pVUgtMDAyOTU0",
+   "ar": "69 046 Ft",
+   "akcios_ar": "",
+   "marka": "ABeton"
+  },
+  {
+   "id": "UH-233550",
+   "nev": "Bergdeck WPC alátétszerkezet natúr felület, barna, 2,4 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/barna-alatet_s42c7miz.png?v=2",
+   "link": "https://epitoanyag.hu/bergdeck-wpc-alatetszerkezet-natur-felulet-barna-24-m-pVUgtMjMzNTUw",
+   "ar": "6 120 Ft",
+   "akcios_ar": "",
+   "marka": "Bergdeck"
+  },
+  {
+   "id": "BETV-GYEPR40",
+   "nev": "BetonLM gyeprács 40x40x10 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/sz_1t71m0zy.png?v=2",
+   "link": "https://epitoanyag.hu/betonlm-gyepracs-40x40x10-cm-pQkVUVi1HWUVQUjQw",
+   "ar": "825 Ft",
+   "akcios_ar": "",
+   "marka": "BetonLM 2000"
+  },
+  {
+   "id": "UH-035587",
+   "nev": "Cemix 1050 QuarzSand kvarchomok 40 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/1050-quarzsand-25kg-2023-3d_ekjr4vfu.png?v=2",
+   "link": "https://epitoanyag.hu/cemix-1050-quarzsand-kvarchomok-40-kg-pVUgtMDM1NTg3",
+   "ar": "3 880 Ft",
+   "akcios_ar": "",
+   "marka": "Cemix"
+  },
+  {
+   "id": "BETEJGYÖNGYK40*40*5",
+   "nev": "EPAG gyöngykavicsos járdalap 40x40x5 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/betejgyongyk40405_acntx75l.jpg?v=2",
+   "link": "https://epitoanyag.hu/epag-gyongykavicsos-jardalap-40x40x5-cm-pQkVURUpHWcOWTkdZSzQwKjQwKjU_eq1",
+   "ar": "1 760 Ft",
+   "akcios_ar": "",
+   "marka": "betonEPAG"
+  },
+  {
+   "id": "UH-186740",
+   "nev": "KK Kavics  süllyesztett szegélykő 15x40x20 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-530442_k4oej4s8.png?v=2",
+   "link": "https://epitoanyag.hu/kk-kavics-sullyesztett-szegelyko-15x40x20-cm-pVUgtMTg2NzQw",
+   "ar": "1 170 Ft",
+   "akcios_ar": "",
+   "marka": "KK Kavics Beton"
+  },
+  {
+   "id": "UH-578412",
+   "nev": "Leier kerti szegély szürke 5x25x100 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-197988_648w3ybu.png?v=2",
+   "link": "https://epitoanyag.hu/leier-kerti-szegely-szurke-5x25x100-cm-pVUgtNTc4NDEy",
+   "ar": "1 220 Ft",
+   "akcios_ar": "",
+   "marka": "Leier"
+  },
+  {
+   "id": "UH-760898",
+   "nev": "Scherf carrarai márvány díszkavics fehér 16-25 mm, 25 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-scherf-43404-carrara-weiss-16-25mm-trocken_vj5oyfcr.jpg?v=2",
+   "link": "https://epitoanyag.hu/scherf-carrarai-marvany-diszkavics-feher-16-25-mm-25-kg-pVUgtNzYwODk4",
+   "ar": "3 850 Ft",
+   "akcios_ar": "",
+   "marka": "Scherf"
+  },
+  {
+   "id": "UH-101900",
+   "nev": "Semmelrock Appia Antica térkő \"B\" kő antikolt lávaszürke melírozott 15x19,2x8 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/semmelrock-appia-antica-antikolt-terko-lavaszurke_37shwv97.jpg?v=2",
+   "link": "https://epitoanyag.hu/semmelrock-appia-antica-terko-b-ko-antikolt-lavaszurke-melirozott-15x192x8-cm-pVUgtMTAxOTAw",
+   "ar": "470 Ft",
+   "akcios_ar": "",
+   "marka": "Wienerberger - Semmelrock"
+  },
+  {
+   "id": "UH-551144",
+   "nev": "SW Térkő Dobogókő szürke 20x20x4 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-551144_2gir0j80.png?v=2",
+   "link": "https://epitoanyag.hu/sw-terko-dobogoko-szurke-20x20x4-cm-pVUgtNTUxMTQ0",
+   "ar": "6 072 Ft",
+   "akcios_ar": "",
+   "marka": "SW Umwelttechnik"
+  },
+  {
+   "id": "BF-ELITE/4",
+   "nev": "Béta-Floor Elite műfű, 4 m tekercsszélesség",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/bf-elite4_agmp5l9n.png?v=2",
+   "link": "https://epitoanyag.hu/beta-floor-elite-mufu-4-m-tekercsszelesseg-pQkYtRUxJVEUvNA_eq2",
+   "ar": "38 720 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  }
+ ]
+}

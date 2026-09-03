@@ -1,0 +1,74 @@
+{
+ "kategoria": "Geotextília",
+ "fokategoria": "Kert",
+ "slug": "geotextilia",
+ "keszult": "2026-09-03T11:10:11+00:00",
+ "feed_frissitve": null,
+ "osszes_termek": 17,
+ "raktaron": 7,
+ "termekek": [
+  {
+   "id": "UH-758913",
+   "nev": "Gutta Guttatex geotextília 100 g fekete 2x50 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/talajtakaro-geotextilia-fekete-320m-x-100m-50gm2-uv-stab-91260984-1200x630_hnzflc8b.jpg?v=1",
+   "link": "https://epitoanyag.hu/gutta-guttatex-geotextilia-100-g-fekete-2x50-m-pVUgtNzU4OTEz",
+   "ar": "580 Ft",
+   "akcios_ar": "",
+   "marka": "Gutta"
+  },
+  {
+   "id": "UH-730138",
+   "nev": "Mapei Polydren PP geotextília 200 g, 2x100 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-image_1zl8dkpk.jpg?v=2",
+   "link": "https://epitoanyag.hu/mapei-polydren-pp-geotextilia-200-g-2x100-m-pVUgtNzMwMTM4",
+   "ar": "960 Ft",
+   "akcios_ar": "",
+   "marka": "Mapei"
+  },
+  {
+   "id": "UH-788144",
+   "nev": "Agrotextilia PPHA fekete 100 g, 16 m²",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-788144_u9y6tem6.png?v=1",
+   "link": "https://epitoanyag.hu/agrotextilia-ppha-fekete-100-g-16-m-pVUgtNzg4MTQ0",
+   "ar": "3 890 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-100093",
+   "nev": "Gutta Guttatex geotextília 130 g zöld/szürke 2 m széles",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/guttatex-geotextilia-szurke_tahvu8ip.jpg?v=2",
+   "link": "https://epitoanyag.hu/gutta-guttatex-geotextilia-130-g-zoldszurke-2-m-szeles-pVUgtMTAwMDkz",
+   "ar": "600 Ft",
+   "akcios_ar": "",
+   "marka": "Gutta"
+  },
+  {
+   "id": "UH-788143",
+   "nev": "Agrotextilia PPHA fekete 100 g, 8 m²",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-788143_h9g1jjg6.png?v=1",
+   "link": "https://epitoanyag.hu/agrotextilia-ppha-fekete-100-g-8-m-pVUgtNzg4MTQz",
+   "ar": "2 090 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-788146",
+   "nev": "Talajtakaró geotextilia fekete 50 g, 16 m²",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-788146_ihqahk7c.png?v=1",
+   "link": "https://epitoanyag.hu/talajtakaro-geotextilia-fekete-50-g-16-m-pVUgtNzg4MTQ2",
+   "ar": "2 090 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-788145",
+   "nev": "Talajtakaró geotextilia fekete 50 g, 8 m²",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-788145_evrg8hg1.png?v=1",
+   "link": "https://epitoanyag.hu/talajtakaro-geotextilia-fekete-50-g-8-m-pVUgtNzg4MTQ1",
+   "ar": "1 090 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  }
+ ]
+}

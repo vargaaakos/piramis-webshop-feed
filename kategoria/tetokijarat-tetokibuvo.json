@@ -1,0 +1,38 @@
+{
+ "kategoria": "Tetőkijárat, tetőkibúvó",
+ "fokategoria": "Nyílászáró",
+ "slug": "tetokijarat-tetokibuvo",
+ "keszult": "2026-09-03T11:10:11+00:00",
+ "feed_frissitve": null,
+ "osszes_termek": 23,
+ "raktaron": 3,
+ "termekek": [
+  {
+   "id": "CF125130",
+   "nev": "Colorferr horganyzott acél tetőkibúvó 50x50 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-cf125130tetokib_7qro3l5c.png?v=1",
+   "link": "https://epitoanyag.hu/colorferr-horganyzott-acel-tetokibuvo-50x50-cm-pQ0YxMjUxMzA_eq1",
+   "ar": "20 010 Ft",
+   "akcios_ar": "",
+   "marka": "Colorferr"
+  },
+  {
+   "id": "UH-204826",
+   "nev": "VELUX VLT 025 45x55 cm tetőkibúvó, oldalra nyíló",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-204826_uxaabrb8.jpg?v=2",
+   "link": "https://epitoanyag.hu/velux-vlt-025-45x55-cm-tetokibuvo-oldalra-nyilo-pVUgtMjA0ODI2",
+   "ar": "43 480 Ft",
+   "akcios_ar": "",
+   "marka": ".VELUX"
+  },
+  {
+   "id": "UH-205299",
+   "nev": "VELUX VLT 029 45x73 cm tetőkibúvó, oldalra nyíló",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-205299_c0moogwq.jpg?v=2",
+   "link": "https://epitoanyag.hu/velux-vlt-029-45x73-cm-tetokibuvo-oldalra-nyilo-pVUgtMjA1Mjk5",
+   "ar": "47 825 Ft",
+   "akcios_ar": "",
+   "marka": ".VELUX"
+  }
+ ]
+}

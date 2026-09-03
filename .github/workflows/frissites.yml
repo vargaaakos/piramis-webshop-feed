@@ -1,0 +1,41 @@
+name: Napi feed-frissítés
+
+# Miért napi: az epitoanyag.hu feedje maga is naponta frissül, sűrűbben nincs mit lekérni.
+# 03:30 UTC = nyáron 05:30, télen 04:30 magyar idő szerint — jóval a nyitás előtt.
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:        # kézzel is indítható a GitHub felületéről
+
+permissions:
+  contents: write           # a bot commitolja a frissült JSON-okat
+
+concurrency:
+  group: feed
+  cancel-in-progress: false
+
+jobs:
+  frissites:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Feed letöltése és szeletelése
+        run: python tools/webshop-feed.py --cel kategoria
+
+      - name: Commit, ha tényleg változott valami
+        run: |
+          git config user.name  "piramis-feed-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add kategoria
+          # A --quiet nullát ad vissza, ha nincs eltérés — ilyenkor nincs üres commit.
+          if git diff --cached --quiet; then
+            echo "Nincs változás, nem commitolunk."
+          else
+            git commit -m "Feed frissítés: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

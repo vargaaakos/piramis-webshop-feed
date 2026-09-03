@@ -1,0 +1,47 @@
+{
+ "kategoria": "Virágtartók, kaspók",
+ "fokategoria": "Kert",
+ "slug": "viragtartok-kaspok",
+ "keszult": "2026-09-03T11:10:11+00:00",
+ "feed_frissitve": null,
+ "osszes_termek": 34,
+ "raktaron": 4,
+ "termekek": [
+  {
+   "id": "UH-748101",
+   "nev": "Tri-CAN Agree kocka kaspó szett, grafit",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-748101_z30e2jiw.jpg?v=1",
+   "link": "https://epitoanyag.hu/tri-can-agree-kocka-kaspo-szett-grafit-pVUgtNzQ4MTAx",
+   "ar": "47 900 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-748098",
+   "nev": "Tri-CAN Agree kocka kaspó szett, ólom",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-748098_pfhdwszk.jpg?v=1",
+   "link": "https://epitoanyag.hu/tri-can-agree-kocka-kaspo-szett-olom-pVUgtNzQ4MDk4",
+   "ar": "42 900 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-748095",
+   "nev": "Tri-CAN Agree oszlop kaspó szett, szürke",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-748095_1cwk4yne.jpg?v=1",
+   "link": "https://epitoanyag.hu/tri-can-agree-oszlop-kaspo-szett-szurke-pVUgtNzQ4MDk1",
+   "ar": "56 900 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-748099",
+   "nev": "Tri-CAN Agree oszlop kaspó szett, ólom",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-748099_1ggbqjiw.jpg?v=1",
+   "link": "https://epitoanyag.hu/tri-can-agree-oszlop-kaspo-szett-olom-pVUgtNzQ4MDk5",
+   "ar": "61 900 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  }
+ ]
+}

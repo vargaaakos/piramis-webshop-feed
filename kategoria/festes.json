@@ -1,0 +1,119 @@
+{
+ "kategoria": "Festés",
+ "fokategoria": "Barkács",
+ "slug": "festes",
+ "keszult": "2026-09-03T11:10:11+00:00",
+ "feed_frissitve": null,
+ "osszes_termek": 435,
+ "raktaron": 431,
+ "termekek": [
+  {
+   "id": "AKN-5238497",
+   "nev": "Dulux Acryl Matt beltéri falfesték fehér 10 l",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/akn-5238497_jrqugw09.jpg?v=2",
+   "link": "https://epitoanyag.hu/dulux-acryl-matt-belteri-falfestek-feher-10-l-pQUtOLTUyMzg0OTc_eq1",
+   "ar": "11 900 Ft",
+   "akcios_ar": "",
+   "marka": "Dulux"
+  },
+  {
+   "id": "AKN-5094192",
+   "nev": "Hammerite Ecsettisztító és Hígító 0,25 l",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/akn-5094192_pkndzqfc.jpg?v=2",
+   "link": "https://epitoanyag.hu/hammerite-ecsettisztito-es-higito-025-l-pQUtOLTUwOTQxOTI_eq1",
+   "ar": "2 045 Ft",
+   "akcios_ar": "",
+   "marka": "Hammerite"
+  },
+  {
+   "id": "UH-602994",
+   "nev": "Magnat Ceramic beltéri falfesték CM14 észak gyöngye 5 l",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-602994_tkvtc4vp.jpg?v=2",
+   "link": "https://epitoanyag.hu/magnat-ceramic-belteri-falfestek-cm14-eszak-gyongye-5-l-pVUgtNjAyOTk0",
+   "ar": "17 780 Ft",
+   "akcios_ar": "",
+   "marka": "Polifarbe"
+  },
+  {
+   "id": "NVS-144",
+   "nev": "PintyPlus 100% izopropil alkohol felülettisztító spray 400 ml",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/nvs-144_izn2kg76.jpg?v=2",
+   "link": "https://epitoanyag.hu/pintyplus-100-izopropil-alkohol-felulettisztito-spray-400-ml-pTlZTLTE0NA_eq2",
+   "ar": "2 800 Ft",
+   "akcios_ar": "",
+   "marka": "Novasol"
+  },
+  {
+   "id": "AKN-5623774",
+   "nev": "Sadolin Classic Aqua vékonylazúr selyemfényű antracit 0,75 l",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/akn-5623774_stnati6v.jpg?v=2",
+   "link": "https://epitoanyag.hu/sadolin-classic-aqua-vekonylazur-selyemfenyu-antracit-075-l-pQUtOLTU2MjM3NzQ_eq1",
+   "ar": "4 365 Ft",
+   "akcios_ar": "",
+   "marka": "Sadolin"
+  },
+  {
+   "id": "UH-180378",
+   "nev": "Schuller 3 YES Flatbrush M Set laposecset készlet 3 db-os",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-180378_67sh130i.jpg?v=2",
+   "link": "https://epitoanyag.hu/schuller-3-yes-flatbrush-m-set-laposecset-keszlet-3-db-os-pVUgtMTgwMzc4",
+   "ar": "750 Ft",
+   "akcios_ar": "",
+   "marka": "Schuller"
+  },
+  {
+   "id": "AKN-5199291",
+   "nev": "Supralux Gemini kétkomponensű parkettalakk A, 3 l",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/akn-5199291_v1osfj2s.jpg?v=2",
+   "link": "https://epitoanyag.hu/supralux-gemini-ketkomponensu-parkettalakk-a-3-l-pQUtOLTUxOTkyOTE_eq1",
+   "ar": "17 450 Ft",
+   "akcios_ar": "",
+   "marka": "Supralux"
+  },
+  {
+   "id": "AKN-5238492",
+   "nev": "Dulux Acryl Matt beltéri falfesték fehér 3 l",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/akn-5238492_53i7zjnu.jpg?v=2",
+   "link": "https://epitoanyag.hu/dulux-acryl-matt-belteri-falfestek-feher-3-l-pQUtOLTUyMzg0OTI_eq1",
+   "ar": "5 140 Ft",
+   "akcios_ar": "",
+   "marka": "Dulux"
+  },
+  {
+   "id": "AKN-5094199",
+   "nev": "Hammerite Ecsettisztító és Hígító 0,5 l",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/akn-5094199_jcqilvlr.jpg?v=2",
+   "link": "https://epitoanyag.hu/hammerite-ecsettisztito-es-higito-05-l-pQUtOLTUwOTQxOTk_eq1",
+   "ar": "3 160 Ft",
+   "akcios_ar": "",
+   "marka": "Hammerite"
+  },
+  {
+   "id": "UH-105786",
+   "nev": "Poli-Farbe Boróka Satin oldószeres, selyemfényű vastaglazúr mahagóni 2,5 l",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-105786_7ixxcoi0.jpg?v=2",
+   "link": "https://epitoanyag.hu/poli-farbe-boroka-satin-oldoszeres-selyemfenyu-vastaglazur-mahagoni-25-l-pVUgtMTA1Nzg2",
+   "ar": "17 175 Ft",
+   "akcios_ar": "",
+   "marka": "Polifarbe"
+  },
+  {
+   "id": "NVS-207",
+   "nev": "PintyPlus Auto keréktárcsa festék spray ezüst 400 ml",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/nvs-207_aj5d5fmg.jpg?v=2",
+   "link": "https://epitoanyag.hu/pintyplus-auto-kerektarcsa-festek-spray-ezust-400-ml-pTlZTLTIwNw_eq2",
+   "ar": "2 770 Ft",
+   "akcios_ar": "",
+   "marka": "Novasol"
+  },
+  {
+   "id": "AKN-5623776",
+   "nev": "Sadolin Classic Aqua vékonylazúr selyemfényű antracit 5 l",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/akn-5623776_m95vfh18.jpg?v=2",
+   "link": "https://epitoanyag.hu/sadolin-classic-aqua-vekonylazur-selyemfenyu-antracit-5-l-pQUtOLTU2MjM3NzY_eq1",
+   "ar": "23 035 Ft",
+   "akcios_ar": "",
+   "marka": "Sadolin"
+  }
+ ]
+}

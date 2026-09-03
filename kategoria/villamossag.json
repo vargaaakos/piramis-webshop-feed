@@ -1,0 +1,101 @@
+{
+ "kategoria": "Villamosság",
+ "fokategoria": "Barkács",
+ "slug": "villamossag",
+ "keszult": "2026-09-03T11:10:11+00:00",
+ "feed_frissitve": null,
+ "osszes_termek": 10,
+ "raktaron": 10,
+ "termekek": [
+  {
+   "id": "MWK-4933459440",
+   "nev": "Milwaukee IPL-LED elemes toll-lámpa",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4933459440_m6tqjn5x.jpg?v=2",
+   "link": "https://epitoanyag.hu/milwaukee-ipl-led-elemes-toll-lampa-pTVdLLTQ5MzM0NTk0NDA_eq1",
+   "ar": "12 200 Ft",
+   "akcios_ar": "",
+   "marka": "Milwaukee"
+  },
+  {
+   "id": "MWK-4933479763",
+   "nev": "Milwaukee L4FL-301 USB akkumulátoros, szórt fényű zseblámpa",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4933479763-2_x8ik7ytr.jpg?v=2",
+   "link": "https://epitoanyag.hu/milwaukee-l4fl-301-usb-akkumulatoros-szort-fenyu-zseblampa-pTVdLLTQ5MzM0Nzk3NjM_eq1",
+   "ar": "30 500 Ft",
+   "akcios_ar": "",
+   "marka": "Milwaukee"
+  },
+  {
+   "id": "MWK-4933479637",
+   "nev": "Milwaukee L4FL2000-301 akkumulátoros zseblámpa",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4933479637-16_i3u7cqor.jpg?v=2",
+   "link": "https://epitoanyag.hu/milwaukee-l4fl2000-301-akkumulatoros-zseblampa-pTVdLLTQ5MzM0Nzk2Mzc_eq1",
+   "ar": "41 000 Ft",
+   "akcios_ar": "",
+   "marka": "Milwaukee"
+  },
+  {
+   "id": "MWK-4933479770",
+   "nev": "Milwaukee L4FMLED-301 zseblámpa",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4933479770-4_sq80c0dy.jpg?v=2",
+   "link": "https://epitoanyag.hu/milwaukee-l4fmled-301-zseblampa-pTVdLLTQ5MzM0Nzk3NzA_eq1",
+   "ar": "28 000 Ft",
+   "akcios_ar": "",
+   "marka": "Milwaukee"
+  },
+  {
+   "id": "MWK-4933479769",
+   "nev": "Milwaukee L4TMLED-301 zseblámpa",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4933479769_tx27fjvr.jpg?v=2",
+   "link": "https://epitoanyag.hu/milwaukee-l4tmled-301-zseblampa-pTVdLLTQ5MzM0Nzk3Njk_eq1",
+   "ar": "34 000 Ft",
+   "akcios_ar": "",
+   "marka": "Milwaukee"
+  },
+  {
+   "id": "MWK-4932430562",
+   "nev": "Milwaukee M12LL-0 M12 munkalámpa",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4932430562_aqpmd3rm.jpg?v=2",
+   "link": "https://epitoanyag.hu/milwaukee-m12ll-0-m12-munkalampa-pTVdLLTQ5MzI0MzA1NjI_eq1",
+   "ar": "26 900 Ft",
+   "akcios_ar": "",
+   "marka": "Milwaukee"
+  },
+  {
+   "id": "MWK-4932430178",
+   "nev": "Milwaukee M12SL-0 M12 LED rúdlámpa",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4932430178_ogvlrjb5.jpg?v=2",
+   "link": "https://epitoanyag.hu/milwaukee-m12sl-0-m12-led-rudlampa-pTVdLLTQ5MzI0MzAxNzg_eq1",
+   "ar": "26 000 Ft",
+   "akcios_ar": "",
+   "marka": "Milwaukee"
+  },
+  {
+   "id": "MWK-4933478868",
+   "nev": "Milwaukee M12UCL-0 M12 kettős csuklós műhelylámpa",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4933478868_dn258g7s.jpg?v=2",
+   "link": "https://epitoanyag.hu/milwaukee-m12ucl-0-m12-kettos-csuklos-muhelylampa-pTVdLLTQ5MzM0Nzg4Njg_eq1",
+   "ar": "67 000 Ft",
+   "akcios_ar": "",
+   "marka": "Milwaukee"
+  },
+  {
+   "id": "MWK-4933459155",
+   "nev": "Milwaukee M18ONESLSP-0 M18 ONE-KEY LED helyszínmegvilágító lámpa",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4933459155_kv5zcr2a.jpg?v=2",
+   "link": "https://epitoanyag.hu/milwaukee-m18oneslsp-0-m18-one-key-led-helyszinmegvilagito-lampa-pTVdLLTQ5MzM0NTkxNTU_eq1",
+   "ar": "175 000 Ft",
+   "akcios_ar": "",
+   "marka": "Milwaukee"
+  },
+  {
+   "id": "MWK-4933459433",
+   "nev": "Milwaukee M18UBL-0 M18 LED helyszínmegvilágító lámpa",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4933459433-4_h4oel5om.jpg?v=2",
+   "link": "https://epitoanyag.hu/milwaukee-m18ubl-0-m18-led-helyszinmegvilagito-lampa-pTVdLLTQ5MzM0NTk0MzM_eq1",
+   "ar": "134 000 Ft",
+   "akcios_ar": "",
+   "marka": "Milwaukee"
+  }
+ ]
+}

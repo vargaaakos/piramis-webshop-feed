@@ -1,0 +1,20 @@
+{
+ "kategoria": "Tűzifa",
+ "fokategoria": "Faanyag",
+ "slug": "tuzifa",
+ "keszult": "2026-09-03T11:10:11+00:00",
+ "feed_frissitve": null,
+ "osszes_termek": 1,
+ "raktaron": 1,
+ "termekek": [
+  {
+   "id": "TU008",
+   "nev": "RUF fabrikett 10 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/ruf_d0pbvl2p.png?v=2",
+   "link": "https://epitoanyag.hu/ruf-fabrikett-10-kg-pVFUwMDg_eq1",
+   "ar": "1 890 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  }
+ ]
+}

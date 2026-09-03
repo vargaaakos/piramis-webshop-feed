@@ -1,0 +1,336 @@
+{
+ "keszult": "2026-09-03T11:10:11+00:00",
+ "feed_frissitve": null,
+ "termek_osszesen": 23897,
+ "kategoriak": [
+  {
+   "kategoria": "Egyéb barkácsáru",
+   "fokategoria": "Barkács",
+   "slug": "egyeb-barkacsaru",
+   "osszes": 7,
+   "kirakva": 7
+  },
+  {
+   "kategoria": "Festés",
+   "fokategoria": "Barkács",
+   "slug": "festes",
+   "osszes": 435,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Kerti- és kéziszerszám",
+   "fokategoria": "Barkács",
+   "slug": "kerti-es-keziszerszam",
+   "osszes": 364,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Munkaruházat, védőfelszerelés",
+   "fokategoria": "Barkács",
+   "slug": "munkaruhazat-vedofelszereles",
+   "osszes": 188,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Rögzítéstechnika",
+   "fokategoria": "Barkács",
+   "slug": "rogzitestechnika",
+   "osszes": 27,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Szerszám, szerszámgép",
+   "fokategoria": "Barkács",
+   "slug": "szerszam-szerszamgep",
+   "osszes": 736,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Szerszámgép kiegészítő alkatrész",
+   "fokategoria": "Barkács",
+   "slug": "szerszamgep-kiegeszito-alkatresz",
+   "osszes": 11,
+   "kirakva": 11
+  },
+  {
+   "kategoria": "Villamosság",
+   "fokategoria": "Barkács",
+   "slug": "villamossag",
+   "osszes": 10,
+   "kirakva": 10
+  },
+  {
+   "kategoria": "Csempe, járólap, falburkolat",
+   "fokategoria": "Belsőépítészet",
+   "slug": "csempe-jarolap-falburkolat",
+   "osszes": 251,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Fürdőszoba, szaniter",
+   "fokategoria": "Belsőépítészet",
+   "slug": "furdoszoba-szaniter",
+   "osszes": 28,
+   "kirakva": 5
+  },
+  {
+   "kategoria": "Gipszkarton, gipszkarton rendszer",
+   "fokategoria": "Belsőépítészet",
+   "slug": "gipszkarton-gipszkarton-rendszer",
+   "osszes": 337,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Laminált padló, kiegészítő",
+   "fokategoria": "Belsőépítészet",
+   "slug": "laminalt-padlo-kiegeszito",
+   "osszes": 49,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Deszka, padló",
+   "fokategoria": "Faanyag",
+   "slug": "deszka-padlo",
+   "osszes": 19,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Favédőszer",
+   "fokategoria": "Faanyag",
+   "slug": "favedoszer",
+   "osszes": 2,
+   "kirakva": 2
+  },
+  {
+   "kategoria": "Gerenda",
+   "fokategoria": "Faanyag",
+   "slug": "gerenda",
+   "osszes": 16,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Kiegészítők",
+   "fokategoria": "Faanyag",
+   "slug": "kiegeszitok",
+   "osszes": 171,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Lambéria, hajópadló",
+   "fokategoria": "Faanyag",
+   "slug": "lamberia-hajopadlo",
+   "osszes": 3,
+   "kirakva": 2
+  },
+  {
+   "kategoria": "OSB",
+   "fokategoria": "Faanyag",
+   "slug": "osb",
+   "osszes": 10,
+   "kirakva": 8
+  },
+  {
+   "kategoria": "Stafni, tetőléc",
+   "fokategoria": "Faanyag",
+   "slug": "stafni-tetolec",
+   "osszes": 7,
+   "kirakva": 7
+  },
+  {
+   "kategoria": "Tűzifa",
+   "fokategoria": "Faanyag",
+   "slug": "tuzifa",
+   "osszes": 1,
+   "kirakva": 1
+  },
+  {
+   "kategoria": "Egyéb kerti kiegészítő",
+   "fokategoria": "Kert",
+   "slug": "egyeb-kerti-kiegeszito",
+   "osszes": 9,
+   "kirakva": 3
+  },
+  {
+   "kategoria": "Geotextília",
+   "fokategoria": "Kert",
+   "slug": "geotextilia",
+   "osszes": 17,
+   "kirakva": 7
+  },
+  {
+   "kategoria": "Grill, kerti sütő, bogrács",
+   "fokategoria": "Kert",
+   "slug": "grill-kerti-suto-bogracs",
+   "osszes": 71,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Ivókút, falikút",
+   "fokategoria": "Kert",
+   "slug": "ivokut-falikut",
+   "osszes": 13,
+   "kirakva": 0
+  },
+  {
+   "kategoria": "Kapunyitó, kamerarendszer",
+   "fokategoria": "Kert",
+   "slug": "kapunyito-kamerarendszer",
+   "osszes": 6,
+   "kirakva": 0
+  },
+  {
+   "kategoria": "Kerti bútor, árnyékolás",
+   "fokategoria": "Kert",
+   "slug": "kerti-butor-arnyekolas",
+   "osszes": 43,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Kerti világítás",
+   "fokategoria": "Kert",
+   "slug": "kerti-vilagitas",
+   "osszes": 11,
+   "kirakva": 0
+  },
+  {
+   "kategoria": "Kerítés és falak",
+   "fokategoria": "Kert",
+   "slug": "kerites-es-falak",
+   "osszes": 212,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Lábtörlők, rácsok",
+   "fokategoria": "Kert",
+   "slug": "labtorlok-racsok",
+   "osszes": 28,
+   "kirakva": 1
+  },
+  {
+   "kategoria": "Növényápolás, kertgondozás",
+   "fokategoria": "Kert",
+   "slug": "novenyapolas-kertgondozas",
+   "osszes": 58,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Térburkolat",
+   "fokategoria": "Kert",
+   "slug": "terburkolat",
+   "osszes": 1018,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Virágtartók, kaspók",
+   "fokategoria": "Kert",
+   "slug": "viragtartok-kaspok",
+   "osszes": 34,
+   "kirakva": 4
+  },
+  {
+   "kategoria": "Vízelvezetés",
+   "fokategoria": "Kert",
+   "slug": "vizelvezetes",
+   "osszes": 313,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Bejárati ajtó",
+   "fokategoria": "Nyílászáró",
+   "slug": "bejarati-ajto",
+   "osszes": 13,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Fénycsatorna",
+   "fokategoria": "Nyílászáró",
+   "slug": "fenycsatorna",
+   "osszes": 11,
+   "kirakva": 1
+  },
+  {
+   "kategoria": "Homlokzati nyílászáró kiegészítő",
+   "fokategoria": "Nyílászáró",
+   "slug": "homlokzati-nyilaszaro-kiegeszito",
+   "osszes": 5,
+   "kirakva": 5
+  },
+  {
+   "kategoria": "Padlásfeljáró",
+   "fokategoria": "Nyílászáró",
+   "slug": "padlasfeljaro",
+   "osszes": 14,
+   "kirakva": 6
+  },
+  {
+   "kategoria": "Tetőkijárat, tetőkibúvó",
+   "fokategoria": "Nyílászáró",
+   "slug": "tetokijarat-tetokibuvo",
+   "osszes": 23,
+   "kirakva": 3
+  },
+  {
+   "kategoria": "Tetőtéri ablak, tetőtéri ablak kiegészítő",
+   "fokategoria": "Nyílászáró",
+   "slug": "tetoteri-ablak-tetoteri-ablak-kiegeszito",
+   "osszes": 455,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Ereszcsatorna",
+   "fokategoria": "Építőanyag",
+   "slug": "ereszcsatorna",
+   "osszes": 581,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Födém, födémrendszer",
+   "fokategoria": "Építőanyag",
+   "slug": "fodem-fodemrendszer",
+   "osszes": 37,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Szigetelés",
+   "fokategoria": "Építőanyag",
+   "slug": "szigeteles",
+   "osszes": 1080,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Tetőfedés",
+   "fokategoria": "Építőanyag",
+   "slug": "tetofedes",
+   "osszes": 3295,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Tégla",
+   "fokategoria": "Építőanyag",
+   "slug": "tegla",
+   "osszes": 93,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Vakolat, csemperagasztó, habarcs, cement, szilikon",
+   "fokategoria": "Építőanyag",
+   "slug": "vakolat-csemperagaszto-habarcs-cement-szilikon",
+   "osszes": 13673,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Zsalukő",
+   "fokategoria": "Építőanyag",
+   "slug": "zsaluko",
+   "osszes": 27,
+   "kirakva": 12
+  },
+  {
+   "kategoria": "Áthidaló",
+   "fokategoria": "Építőanyag",
+   "slug": "athidalo",
+   "osszes": 85,
+   "kirakva": 12
+  }
+ ]
+}

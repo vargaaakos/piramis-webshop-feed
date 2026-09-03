@@ -1,0 +1,74 @@
+{
+ "kategoria": "Stafni, tetőléc",
+ "fokategoria": "Faanyag",
+ "slug": "stafni-tetolec",
+ "keszult": "2026-09-03T11:10:11+00:00",
+ "feed_frissitve": null,
+ "osszes_termek": 7,
+ "raktaron": 7,
+ "termekek": [
+  {
+   "id": "FA30x50x4BRAM",
+   "nev": "Bramac tetőléc 3*5 cm 4 m natúr",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/fa30x50x4bram_ihya0zfj.png?v=2",
+   "link": "https://epitoanyag.hu/bramac-tetolec-35-cm-4-m-natur-pRkEzMHg1MHg0QlJBTQ_eq2",
+   "ar": "1 200 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "FA30x50x5BRAM",
+   "nev": "Bramac tetőléc 3x5cm 5 m natúr",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/fa30x50x5bram_np5797q5.png?v=2",
+   "link": "https://epitoanyag.hu/bramac-tetolec-3x5cm-5-m-natur-pRkEzMHg1MHg1QlJBTQ_eq2",
+   "ar": "1 500 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "FA30x50x4",
+   "nev": "Bramac impregnált tetőléc 3x5 cm 4 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/fa30x50x4_0akm3mej.png?v=2",
+   "link": "https://epitoanyag.hu/bramac-impregnalt-tetolec-3x5-cm-4-m-pRkEzMHg1MHg0",
+   "ar": "1 300 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "FA30x50x5",
+   "nev": "Bramac impregnált tetőléc 3x5 cm 5 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/fa30x50x5_ina69nwk.png?v=2",
+   "link": "https://epitoanyag.hu/bramac-impregnalt-tetolec-3x5-cm-5-m-pRkEzMHg1MHg1",
+   "ar": "1 625 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "FA5x5x4",
+   "nev": "Stafni 5x5 cm 4 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/fa554_vvsmv9l5.jpg?v=2",
+   "link": "https://epitoanyag.hu/stafni-5x5-cm-4-m-pRkE1eDV4NA_eq2",
+   "ar": "1 980 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "FA5x5x5",
+   "nev": "Stafni 5x5 cm 5 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/fa555_c3wm05j2.jpg?v=2",
+   "link": "https://epitoanyag.hu/stafni-5x5-cm-5-m-pRkE1eDV4NQ_eq2",
+   "ar": "2 470 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "FA5x5x6",
+   "nev": "Stafni 5x5 cm 6 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/fa556_bymasrvi.jpg?v=2",
+   "link": "https://epitoanyag.hu/stafni-5x5-cm-6-m-pRkE1eDV4Ng_eq2",
+   "ar": "2 970 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  }
+ ]
+}

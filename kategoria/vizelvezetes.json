@@ -1,0 +1,119 @@
+{
+ "kategoria": "Vízelvezetés",
+ "fokategoria": "Kert",
+ "slug": "vizelvezetes",
+ "keszult": "2026-09-03T11:10:11+00:00",
+ "feed_frissitve": null,
+ "osszes_termek": 313,
+ "raktaron": 67,
+ "termekek": [
+  {
+   "id": "UH-380097",
+   "nev": "ABeton folyókaelem szürke 50 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-380097_hyp5w1du.png?v=2",
+   "link": "https://epitoanyag.hu/abeton-folyokaelem-szurke-50-cm-pVUgtMzgwMDk3",
+   "ar": "1 500 Ft",
+   "akcios_ar": "",
+   "marka": "ABeton"
+  },
+  {
+   "id": "UH-044645",
+   "nev": "Aco Self Euroline bekötő akna horganyzott acél ráccsal 0,5 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-044645_lylpu9lg.jpg?v=2",
+   "link": "https://epitoanyag.hu/aco-self-euroline-bekoto-akna-horganyzott-acel-raccsal-05-m-pVUgtMDQ0NjQ1",
+   "ar": "34 990 Ft",
+   "akcios_ar": "",
+   "marka": "ACO"
+  },
+  {
+   "id": "UH-761349",
+   "nev": "Valplast KG PVC T-idom 110/110 mm 87,5°",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-761349_9nlmo880.jpg?v=2",
+   "link": "https://epitoanyag.hu/valplast-kg-pvc-t-idom-110110-mm-875-pVUgtNzYxMzQ5",
+   "ar": "1 210 Ft",
+   "akcios_ar": "",
+   "marka": "Valplast"
+  },
+  {
+   "id": "UH-780610",
+   "nev": "Valrom HDPE vízcső 25 mm, PN10, 200 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-780610_5i27uxr1.jpeg?v=2",
+   "link": "https://epitoanyag.hu/valrom-hdpe-vizcso-25-mm-pn10-200-m-pVUgtNzgwNjEw",
+   "ar": "255 Ft",
+   "akcios_ar": "",
+   "marka": "Valrom"
+  },
+  {
+   "id": "AKNAFEDL80*80FES",
+   "nev": "Aknafedlap festett, zárható 80x80 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/aknafedl8080fes_mfzhpmsg.jpg?v=2",
+   "link": "https://epitoanyag.hu/aknafedlap-festett-zarhato-80x80-cm-pQUtOQUZFREw4MCo4MEZFUw_eq2",
+   "ar": "28 800 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-044651",
+   "nev": "Aco Self Euroline folyóka öntöttvas ráccsal 0,5 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-044651_yr0l66yj.jpg?v=2",
+   "link": "https://epitoanyag.hu/aco-self-euroline-folyoka-ontottvas-raccsal-05-m-pVUgtMDQ0NjUx",
+   "ar": "17 640 Ft",
+   "akcios_ar": "",
+   "marka": "ACO"
+  },
+  {
+   "id": "UH-761360",
+   "nev": "Valplast KG PVC tisztítóidom 110 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-761360_bqlejh4l.jpg?v=2",
+   "link": "https://epitoanyag.hu/valplast-kg-pvc-tisztitoidom-110-mm-pVUgtNzYxMzYw",
+   "ar": "1 435 Ft",
+   "akcios_ar": "",
+   "marka": "Valplast"
+  },
+  {
+   "id": "UH-780614",
+   "nev": "Valrom HDPE vízcső 32 mm, PN10, 200 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-780614_ngmhbcgz.jpeg?v=2",
+   "link": "https://epitoanyag.hu/valrom-hdpe-vizcso-32-mm-pn10-200-m-pVUgtNzgwNjE0",
+   "ar": "345 Ft",
+   "akcios_ar": "",
+   "marka": "Valrom"
+  },
+  {
+   "id": "AKNAFEDL60*60HORG.",
+   "nev": "Aknafedlap horganyzott, zárható 60x60 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/aknafedl6060horg_8j4soali.jpg?v=2",
+   "link": "https://epitoanyag.hu/aknafedlap-horganyzott-zarhato-60x60-cm-pQUtOQUZFREw2MCo2MEhPUkcu",
+   "ar": "22 240 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-044709",
+   "nev": "Aco Self Euroline homloklap",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-044709_7zam132m.jpg?v=2",
+   "link": "https://epitoanyag.hu/aco-self-euroline-homloklap-pVUgtMDQ0NzA5",
+   "ar": "4 450 Ft",
+   "akcios_ar": "",
+   "marka": "ACO"
+  },
+  {
+   "id": "UH-761362",
+   "nev": "Valplast KG PVC többrétegű tokos cső gumigyűrűvel 110 mm, 1 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-761362_5o6uzrrc.jpg?v=2",
+   "link": "https://epitoanyag.hu/valplast-kg-pvc-tobbretegu-tokos-cso-gumigyuruvel-110-mm-1-m-pVUgtNzYxMzYy",
+   "ar": "1 500 Ft",
+   "akcios_ar": "",
+   "marka": "Valplast"
+  },
+  {
+   "id": "UH-761278",
+   "nev": "Valrom KPE egyenes csatlakozó  25 mm - 3/4\" BM",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-761278_whmlu646.jpg?v=2",
+   "link": "https://epitoanyag.hu/valrom-kpe-egyenes-csatlakozo-25-mm-34-bm-pVUgtNzYxMjc4",
+   "ar": "440 Ft",
+   "akcios_ar": "",
+   "marka": "Valrom"
+  }
+ ]
+}

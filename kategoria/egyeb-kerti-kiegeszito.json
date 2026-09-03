@@ -1,0 +1,38 @@
+{
+ "kategoria": "Egyéb kerti kiegészítő",
+ "fokategoria": "Kert",
+ "slug": "egyeb-kerti-kiegeszito",
+ "keszult": "2026-09-03T11:10:11+00:00",
+ "feed_frissitve": null,
+ "osszes_termek": 9,
+ "raktaron": 3,
+ "termekek": [
+  {
+   "id": "UH-198112",
+   "nev": "Leier körszelvényű talpas cső 30 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-198109_wqgea1kh.jpg?v=2",
+   "link": "https://epitoanyag.hu/leier-korszelvenyu-talpas-cso-30-cm-pVUgtMTk4MTEy",
+   "ar": "9 015 Ft",
+   "akcios_ar": "",
+   "marka": "Leier"
+  },
+  {
+   "id": "UH-198113",
+   "nev": "Leier körszelvényű talpas cső 40 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-198110_uep24zt5.jpg?v=2",
+   "link": "https://epitoanyag.hu/leier-korszelvenyu-talpas-cso-40-cm-pVUgtMTk4MTEz",
+   "ar": "13 460 Ft",
+   "akcios_ar": "",
+   "marka": "Leier"
+  },
+  {
+   "id": "UH-199133",
+   "nev": "Leier körszelvényű talpas cső 50 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-199133_gdh8vww1.jpg?v=2",
+   "link": "https://epitoanyag.hu/leier-korszelvenyu-talpas-cso-50-cm-pVUgtMTk5MTMz",
+   "ar": "18 670 Ft",
+   "akcios_ar": "",
+   "marka": "Leier"
+  }
+ ]
+}

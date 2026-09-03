@@ -1,0 +1,119 @@
+{
+ "kategoria": "Zsalukő",
+ "fokategoria": "Építőanyag",
+ "slug": "zsaluko",
+ "keszult": "2026-09-03T11:10:11+00:00",
+ "feed_frissitve": null,
+ "osszes_termek": 27,
+ "raktaron": 19,
+ "termekek": [
+  {
+   "id": "BETV-VFAL10",
+   "nev": "BetonLM beton válaszfal 50x24x10 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/betvvfal10_3kyly2vt.jpg?v=3",
+   "link": "https://epitoanyag.hu/betonlm-beton-valaszfal-50x24x10-cm-pQkVUVi1WRkFMMTA_eq1",
+   "ar": "670 Ft",
+   "akcios_ar": "",
+   "marka": "BetonLM 2000"
+  },
+  {
+   "id": "BETEPKÖRZS40",
+   "nev": "EPAG körpillér 40 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/betepkorzs40_6h7afh11.jpg?v=2",
+   "link": "https://epitoanyag.hu/epag-korpiller-40-cm-pQkVURVBLw5ZSWlM0MA_eq2",
+   "ar": "1 380 Ft",
+   "akcios_ar": "",
+   "marka": "betonEPAG"
+  },
+  {
+   "id": "UH-056827",
+   "nev": "Frühwald zsalukő 25 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-056827_7oavt9uf.jpg?v=3",
+   "link": "https://epitoanyag.hu/fruhwald-zsaluko-25-cm-pVUgtMDU2ODI3",
+   "ar": "1 120 Ft",
+   "akcios_ar": "",
+   "marka": "Frühwald"
+  },
+  {
+   "id": "UH-197000",
+   "nev": "Leier pillérkő 20x20x23 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-197000_4nkpdfi7.jpg?v=2",
+   "link": "https://epitoanyag.hu/leier-pillerko-20x20x23-cm-pVUgtMTk3MDAw",
+   "ar": "700 Ft",
+   "akcios_ar": "",
+   "marka": "Leier"
+  },
+  {
+   "id": "BETV-KÖRP30",
+   "nev": "BetonLM körpillér 30 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/betvkorpiller_6nluy7ph.jpg?v=2",
+   "link": "https://epitoanyag.hu/betonlm-korpiller-30-cm-pQkVUVi1Lw5ZSUDMw",
+   "ar": "845 Ft",
+   "akcios_ar": "",
+   "marka": "BetonLM 2000"
+  },
+  {
+   "id": "BETEPOSZLOPZS40",
+   "nev": "EPAG oszlopzsalu 40x40x25 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/betvpill303025-v5bamzix_tzeepg3c.jpg?v=2",
+   "link": "https://epitoanyag.hu/epag-oszlopzsalu-40x40x25-cm-pQkVURVBPU1pMT1BaUzQw",
+   "ar": "1 380 Ft",
+   "akcios_ar": "",
+   "marka": "betonEPAG"
+  },
+  {
+   "id": "UH-197001",
+   "nev": "Leier pillérkő 25x25x23 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-197001_jkjsdzuz.jpg?v=2",
+   "link": "https://epitoanyag.hu/leier-pillerko-25x25x23-cm-pVUgtMTk3MDAx",
+   "ar": "900 Ft",
+   "akcios_ar": "",
+   "marka": "Leier"
+  },
+  {
+   "id": "BETV-PILL20",
+   "nev": "BetonLM pillérkő 20x20x25 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/betvpill202025_n7fo2vl9.jpg?v=2",
+   "link": "https://epitoanyag.hu/betonlm-pillerko-20x20x25-cm-pQkVUVi1QSUxMMjA_eq1",
+   "ar": "700 Ft",
+   "akcios_ar": "",
+   "marka": "BetonLM 2000"
+  },
+  {
+   "id": "UH-197027",
+   "nev": "Leier zsalukő 20 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-197024_aiu2lwp4.jpg?v=3",
+   "link": "https://epitoanyag.hu/leier-zsaluko-20-cm-pVUgtMTk3MDI3",
+   "ar": "760 Ft",
+   "akcios_ar": "",
+   "marka": "Leier"
+  },
+  {
+   "id": "BETV-PILL25",
+   "nev": "BetonLM pillérkő 25x25x25 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/betvpill252525_o373lzk2.jpg?v=2",
+   "link": "https://epitoanyag.hu/betonlm-pillerko-25x25x25-cm-pQkVUVi1QSUxMMjU_eq1",
+   "ar": "780 Ft",
+   "akcios_ar": "",
+   "marka": "BetonLM 2000"
+  },
+  {
+   "id": "UH-197034",
+   "nev": "Leier zsalukő 30 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-197034_k502fn5h.jpg?v=3",
+   "link": "https://epitoanyag.hu/leier-zsaluko-30-cm-pVUgtMTk3MDM0",
+   "ar": "990 Ft",
+   "akcios_ar": "",
+   "marka": "Leier"
+  },
+  {
+   "id": "BETV-PILL30",
+   "nev": "BetonLM pillérkő 30x30x25 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/betvpill303025_v5bamzix.jpg?v=2",
+   "link": "https://epitoanyag.hu/betonlm-pillerko-30x30x25-cm-pQkVUVi1QSUxMMzA_eq1",
+   "ar": "845 Ft",
+   "akcios_ar": "",
+   "marka": "BetonLM 2000"
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "kategoria": "Kiegészítők",
+ "fokategoria": "Faanyag",
+ "slug": "kiegeszitok",
+ "keszult": "2026-09-03T11:10:11+00:00",
+ "feed_frissitve": null,
+ "osszes_termek": 171,
+ "raktaron": 148,
+ "termekek": [
+  {
+   "id": "REISSERR45623",
+   "nev": "Reisser DNS Plus  4,5x60 mm, duplamenetes facsavar, részmenetes",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-reisserr45621_3vpdgujj.png?v=2",
+   "link": "https://epitoanyag.hu/reisser-dns-plus-45x60-mm-duplamenetes-facsavar-reszmenetes-pUkVJU1NFUlI0NTYyMw_eq2",
+   "ar": "15 Ft",
+   "akcios_ar": "",
+   "marka": "Reisser"
+  },
+  {
+   "id": "UH-136011",
+   "nev": "Vormann dúcösszekötő 70x70x55 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-136011_5w702n8u.png?v=2",
+   "link": "https://epitoanyag.hu/vormann-ducosszekoto-70x70x55-mm-pVUgtMTM2MDEx",
+   "ar": "345 Ft",
+   "akcios_ar": "",
+   "marka": "Vormann"
+  },
+  {
+   "id": "UH-800827",
+   "nev": "Wkret-met faszerkezetépítő csavar lapos fejjel TX 8x120 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-000764_4ujppvgt.png?v=1",
+   "link": "https://epitoanyag.hu/wkret-met-faszerkezetepito-csavar-lapos-fejjel-tx-8x120-mm-pVUgtODAwODI3",
+   "ar": "65 Ft",
+   "akcios_ar": "",
+   "marka": "Wkret-met"
+  },
+  {
+   "id": "UH-125178",
+   "nev": "Anyacsavar M12 horganyzott 8 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-125178_cby1rq8x.jpg?v=2",
+   "link": "https://epitoanyag.hu/anyacsavar-m12-horganyzott-8-mm-pVUgtMTI1MTc4",
+   "ar": "30 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "REISSERR45607",
+   "nev": "Reisser DNS Plus  4x60 mm, duplamenetes facsavar, részmenetes",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/reisserr45607_wpobrng3.png?v=2",
+   "link": "https://epitoanyag.hu/reisser-dns-plus-4x60-mm-duplamenetes-facsavar-reszmenetes-pUkVJU1NFUlI0NTYwNw_eq2",
+   "ar": "15 Ft",
+   "akcios_ar": "",
+   "marka": "Reisser"
+  },
+  {
+   "id": "UH-136021",
+   "nev": "Vormann függőleges lemez balos, 30x30x170 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-136021_z1iaf6ky.png?v=2",
+   "link": "https://epitoanyag.hu/vormann-fuggoleges-lemez-balos-30x30x170-mm-pVUgtMTM2MDIx",
+   "ar": "230 Ft",
+   "akcios_ar": "",
+   "marka": "Vormann"
+  },
+  {
+   "id": "UH-813714",
+   "nev": "Wkret-met faszerkezetépítő csavar lapos fejjel TX 8x140 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-copied-uh-000768_6la1utnj.png?v=1",
+   "link": "https://epitoanyag.hu/wkret-met-faszerkezetepito-csavar-lapos-fejjel-tx-8x140-mm-pVUgtODEzNzE0",
+   "ar": "75 Ft",
+   "akcios_ar": "",
+   "marka": "Wkret-met"
+  },
+  {
+   "id": "UH-125179",
+   "nev": "Anyacsavar M12 natúr 8 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/sg100_hzommwfo.jpg?v=2",
+   "link": "https://epitoanyag.hu/anyacsavar-m12-natur-8-mm-pVUgtMTI1MTc5",
+   "ar": "30 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "REISSERR45541",
+   "nev": "Reisser DNS Plus 3,5x30 mm, duplamenetes facsavar, részmenetes",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/reisserr45541_eeza1usp.png?v=2",
+   "link": "https://epitoanyag.hu/reisser-dns-plus-35x30-mm-duplamenetes-facsavar-reszmenetes-pUkVJU1NFUlI0NTU0MQ_eq2",
+   "ar": "5 Ft",
+   "akcios_ar": "",
+   "marka": "Reisser"
+  },
+  {
+   "id": "UH-136020",
+   "nev": "Vormann függőleges lemez jobbos, 30x30x170 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-136020_hiybn5zp.png?v=2",
+   "link": "https://epitoanyag.hu/vormann-fuggoleges-lemez-jobbos-30x30x170-mm-pVUgtMTM2MDIw",
+   "ar": "230 Ft",
+   "akcios_ar": "",
+   "marka": "Vormann"
+  },
+  {
+   "id": "UH-800834",
+   "nev": "Wkret-met faszerkezetépítő csavar lapos fejjel TX 8x260 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-000768_fnkl8ls3.png?v=1",
+   "link": "https://epitoanyag.hu/wkret-met-faszerkezetepito-csavar-lapos-fejjel-tx-8x260-mm-pVUgtODAwODM0",
+   "ar": "210 Ft",
+   "akcios_ar": "",
+   "marka": "Wkret-met"
+  },
+  {
+   "id": "UH-125181",
+   "nev": "Anyacsavar M16 horganyzott 8 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-125181_lcxnn0qx.jpg?v=2",
+   "link": "https://epitoanyag.hu/anyacsavar-m16-horganyzott-8-mm-pVUgtMTI1MTgx",
+   "ar": "75 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  }
+ ]
+}

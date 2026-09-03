@@ -1,0 +1,119 @@
+{
+ "kategoria": "Födém, födémrendszer",
+ "fokategoria": "Építőanyag",
+ "slug": "fodem-fodemrendszer",
+ "keszult": "2026-09-03T11:10:11+00:00",
+ "feed_frissitve": null,
+ "osszes_termek": 37,
+ "raktaron": 31,
+ "termekek": [
+  {
+   "id": "BETV-EB6019",
+   "nev": "BetonLM béléstest 25x52x20 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/betveb601925_0vvlv7yv.jpg?v=2",
+   "link": "https://epitoanyag.hu/betonlm-belestest-25x52x20-cm-pQkVUVi1FQjYwMTk_eq1",
+   "ar": "640 Ft",
+   "akcios_ar": "",
+   "marka": "BetonLM 2000"
+  },
+  {
+   "id": "UH-106585",
+   "nev": "Ferrobeton födémgerenda EE-60, 6,24 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-106585_g3fxcom2.jpg?v=2",
+   "link": "https://epitoanyag.hu/ferrobeton-fodemgerenda-ee-60-624-m-pVUgtMTA2NTg1",
+   "ar": "38 000 Ft",
+   "akcios_ar": "",
+   "marka": "Ferrobeton"
+  },
+  {
+   "id": "UH-831739",
+   "nev": "Porotherm 45/10 béléstest",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-porotherm-45-10-balastest_prfq94ar.jpg?v=2",
+   "link": "https://epitoanyag.hu/porotherm-4510-belestest-pVUgtODMxNzM5",
+   "ar": "785 Ft",
+   "akcios_ar": "",
+   "marka": "Wienerberger"
+  },
+  {
+   "id": "UH-123763",
+   "nev": "SW béléstest 25x51x19 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-123763_xtu8rmtx.jpg?v=2",
+   "link": "https://epitoanyag.hu/sw-belestest-25x51x19-cm-pVUgtMTIzNzYz",
+   "ar": "1 040 Ft",
+   "akcios_ar": "",
+   "marka": "SW"
+  },
+  {
+   "id": "UH-831737",
+   "nev": "Porotherm 45/17 béléstest",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-100193_ivln5na2.jpg?v=2",
+   "link": "https://epitoanyag.hu/porotherm-4517-belestest-pVUgtODMxNzM3",
+   "ar": "700 Ft",
+   "akcios_ar": "",
+   "marka": "Wienerberger"
+  },
+  {
+   "id": "UH-124131",
+   "nev": "SW Umwelttechnik födémgerenda EU-24, 2,6 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-124131_o71cw3m9.jpg?v=2",
+   "link": "https://epitoanyag.hu/sw-umwelttechnik-fodemgerenda-eu-24-26-m-pVUgtMTI0MTMx",
+   "ar": "15 930 Ft",
+   "akcios_ar": "",
+   "marka": "SW"
+  },
+  {
+   "id": "UH-831738",
+   "nev": "Porotherm 60/10 béléstest",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-porotherm-60-10-balastest-1_0j4is74d.jpg?v=2",
+   "link": "https://epitoanyag.hu/porotherm-6010-belestest-pVUgtODMxNzM4",
+   "ar": "1 070 Ft",
+   "akcios_ar": "",
+   "marka": "Wienerberger"
+  },
+  {
+   "id": "UH-124137",
+   "nev": "SW Umwelttechnik födémgerenda EU-30, 3,2 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-124137_xhz0l8d5.jpg?v=2",
+   "link": "https://epitoanyag.hu/sw-umwelttechnik-fodemgerenda-eu-30-32-m-pVUgtMTI0MTM3",
+   "ar": "19 505 Ft",
+   "akcios_ar": "",
+   "marka": "SW"
+  },
+  {
+   "id": "UH-831736",
+   "nev": "Porotherm 60/17 béléstest",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-100191_p1hcuek1.jpg?v=2",
+   "link": "https://epitoanyag.hu/porotherm-6017-belestest-pVUgtODMxNzM2",
+   "ar": "850 Ft",
+   "akcios_ar": "",
+   "marka": "Wienerberger"
+  },
+  {
+   "id": "UH-124149",
+   "nev": "SW Umwelttechnik födémgerenda EU-42, 4,4 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-124149_ks0lt1ff.jpg?v=2",
+   "link": "https://epitoanyag.hu/sw-umwelttechnik-fodemgerenda-eu-42-44-m-pVUgtMTI0MTQ5",
+   "ar": "27 170 Ft",
+   "akcios_ar": "",
+   "marka": "SW"
+  },
+  {
+   "id": "UH-100171",
+   "nev": "Wienerberger Porotherm födémgerenda 2,5 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-100171_lezh9bp9.jpg?v=2",
+   "link": "https://epitoanyag.hu/wienerberger-porotherm-fodemgerenda-25-m-pVUgtMTAwMTcx",
+   "ar": "9 900 Ft",
+   "akcios_ar": "",
+   "marka": "Wienerberger"
+  },
+  {
+   "id": "UH-124155",
+   "nev": "SW Umwelttechnik födémgerenda EU-48, 5 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-124155_keo6ygok.jpg?v=2",
+   "link": "https://epitoanyag.hu/sw-umwelttechnik-fodemgerenda-eu-48-5-m-pVUgtMTI0MTU1",
+   "ar": "30 575 Ft",
+   "akcios_ar": "",
+   "marka": "SW"
+  }
+ ]
+}

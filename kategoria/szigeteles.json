@@ -1,0 +1,119 @@
+{
+ "kategoria": "Szigetelés",
+ "fokategoria": "Építőanyag",
+ "slug": "szigeteles",
+ "keszult": "2026-09-03T11:10:11+00:00",
+ "feed_frissitve": null,
+ "osszes_termek": 1080,
+ "raktaron": 235,
+ "termekek": [
+  {
+   "id": "UH-816976",
+   "nev": "Austrotherm AT-PAF padlófűtésrendszer-lemez",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-copied-uh-000201_bogafktn.jpg?v=1",
+   "link": "https://epitoanyag.hu/austrotherm-at-paf-padlofutesrendszer-lemez-pVUgtODE2OTc2",
+   "ar": "26 360 Ft",
+   "akcios_ar": "",
+   "marka": "Austrotherm"
+  },
+  {
+   "id": "UH-535586",
+   "nev": "Baumit DuoContact EPS ragasztó- és ágyazóhabarcs 25 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/im0021013_7vztu95m.png?v=2",
+   "link": "https://epitoanyag.hu/baumit-duocontact-eps-ragaszto-es-agyazohabarcs-25-kg-pVUgtNTM1NTg2",
+   "ar": "2 990 Ft",
+   "akcios_ar": "",
+   "marka": "Baumit"
+  },
+  {
+   "id": "UH-710236",
+   "nev": "Carboland CH80 12 cm fokozott hőszigetelő képességű homlokzati hőszigetelő lemez",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-710236_r2e4djr2.jpg?v=2",
+   "link": "https://epitoanyag.hu/carboland-ch80-12-cm-fokozott-hoszigetelo-kepessegu-homlokzati-hoszigetelo-lemez-pVUgtNzEwMjM2",
+   "ar": "11 700 Ft",
+   "akcios_ar": "",
+   "marka": "Carboland"
+  },
+  {
+   "id": "UH-331270",
+   "nev": "Cemix 8100 Aquastop Band hajlaterősítő szalag 50 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/8100-aquastoptape-50m-3d2_zhjdrjoq.png?v=1",
+   "link": "https://epitoanyag.hu/cemix-8100-aquastop-band-hajlaterosito-szalag-50-m-pVUgtMzMxMjcw",
+   "ar": "60 500 Ft",
+   "akcios_ar": "",
+   "marka": "Cemix"
+  },
+  {
+   "id": "UH-359646",
+   "nev": "Dörken Berner beütőék 5x50 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-359646_1lmvdg8r.png?v=2",
+   "link": "https://epitoanyag.hu/dorken-berner-beutoek-5x50-mm-pVUgtMzU5NjQ2",
+   "ar": "60 Ft",
+   "akcios_ar": "",
+   "marka": "Dörken"
+  },
+  {
+   "id": "UH-814547",
+   "nev": "Gutta standard 1,5 m széles szigetelésvédő dombornyomott lemez",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-814547_zxeqhwgu.jpg?v=1",
+   "link": "https://epitoanyag.hu/gutta-standard-15-m-szeles-szigetelesvedo-dombornyomott-lemez-pVUgtODE0NTQ3",
+   "ar": "892 Ft",
+   "akcios_ar": "",
+   "marka": "Gutta"
+  },
+  {
+   "id": "UH-594271",
+   "nev": "Henkel Ceresit CR 90 kristályképző vízszigetelő 25 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-594271_kv79wv3i.jpg?v=2",
+   "link": "https://epitoanyag.hu/henkel-ceresit-cr-90-kristalykepzo-vizszigetelo-25-kg-pVUgtNTk0Mjcx",
+   "ar": "16 630 Ft",
+   "akcios_ar": "",
+   "marka": "Henkel"
+  },
+  {
+   "id": "UH-374317",
+   "nev": "Isover Akuplat+ 10 cm üveggyapot lemez",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-099256_k9pzxs5r.jpg?v=2",
+   "link": "https://epitoanyag.hu/isover-akuplat-10-cm-uveggyapot-lemez-pVUgtMzc0MzE3",
+   "ar": "15 012 Ft",
+   "akcios_ar": "",
+   "marka": "Isover"
+  },
+  {
+   "id": "UH-805223",
+   "nev": "Izobud Izobit GV35 oxidált bitumenes vízszigetelő lemez 10 m2",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-350725_0xicz44j.jpg?v=2",
+   "link": "https://epitoanyag.hu/izobud-izobit-gv35-oxidalt-bitumenes-vizszigetelo-lemez-10-m2-pVUgtODA1MjIz",
+   "ar": "10 860 Ft",
+   "akcios_ar": "",
+   "marka": "Izobud"
+  },
+  {
+   "id": "UH-329988",
+   "nev": "Kemikál Bitugél N bitumenes szigetelőhabarcs 18 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/bitugel-bitumenes-szigetelohabarcs-18_yh06m5k9.jpg?v=2",
+   "link": "https://epitoanyag.hu/kemikal-bitugel-n-bitumenes-szigetelohabarcs-18-kg-pVUgtMzI5OTg4",
+   "ar": "28 190 Ft",
+   "akcios_ar": "",
+   "marka": "Kemikál"
+  },
+  {
+   "id": "UH-833851",
+   "nev": "Knauf Insulation Naturoll Pro 12,5 cm üveggyapot filc",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/naturoll-pro-1_bfxhkttv.webp?v=1",
+   "link": "https://epitoanyag.hu/knauf-insulation-naturoll-pro-125-cm-uveggyapot-filc-pVUgtODMzODUx",
+   "ar": "10 368 Ft",
+   "akcios_ar": "",
+   "marka": "Knauf"
+  },
+  {
+   "id": "UH-431160",
+   "nev": "Mapei Mapeband Easy H130 hajlaterősítő szalag 30 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-431160_dpnd7ea0.png?v=2",
+   "link": "https://epitoanyag.hu/mapei-mapeband-easy-h130-hajlaterosito-szalag-30-m-pVUgtNDMxMTYw",
+   "ar": "665 Ft",
+   "akcios_ar": "",
+   "marka": "Mapei"
+  }
+ ]
+}

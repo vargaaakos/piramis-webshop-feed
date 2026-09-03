@@ -1,0 +1,83 @@
+{
+ "kategoria": "OSB",
+ "fokategoria": "Faanyag",
+ "slug": "osb",
+ "keszult": "2026-09-03T11:10:11+00:00",
+ "feed_frissitve": null,
+ "osszes_termek": 10,
+ "raktaron": 8,
+ "termekek": [
+  {
+   "id": "OSB10",
+   "nev": "OSB3 háncslap 10 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/osb15_u4pkc3yn.jpg?v=2",
+   "link": "https://epitoanyag.hu/osb3-hancslap-10-mm-pT1NCMTA_eq1",
+   "ar": "6 350 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "osb12",
+   "nev": "OSB3 háncslap 12 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/osb15_hfqo45t3.jpg?v=2",
+   "link": "https://epitoanyag.hu/osb3-hancslap-12-mm-pb3NiMTI_eq1",
+   "ar": "7 140 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "OSB15",
+   "nev": "OSB3 háncslap 15 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/osb15_ew5fdkv0.jpg?v=2",
+   "link": "https://epitoanyag.hu/osb3-hancslap-15-mm-pT1NCMTU_eq1",
+   "ar": "8 930 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "OSB18",
+   "nev": "OSB3 háncslap 18 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/osb15_35m7zpk8.jpg?v=2",
+   "link": "https://epitoanyag.hu/osb3-hancslap-18-mm-pT1NCMTg_eq1",
+   "ar": "10 720 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "OSB22",
+   "nev": "OSB3 háncslap 22 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/osb15_gblp3hwo.jpg?v=2",
+   "link": "https://epitoanyag.hu/osb3-hancslap-22-mm-pT1NCMjI_eq1",
+   "ar": "13 100 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "OSB8",
+   "nev": "OSB3 háncslap 8 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/osb15_jnvov4vp.jpg?v=2",
+   "link": "https://epitoanyag.hu/osb3-hancslap-8-mm-pT1NCOA_eq2",
+   "ar": "5 560 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "OSB12NF675",
+   "nev": "OSB3 háncslap nútféderes 12 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/osb12nf675_jnabhim0.jpg?v=2",
+   "link": "https://epitoanyag.hu/osb3-hancslap-nutfederes-12-mm-pT1NCMTJORjY3NQ_eq2",
+   "ar": "3 920 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "OSB15NF675",
+   "nev": "OSB3 háncslap nútféderes 15 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/osb15nf675_s6y323he.jpg?v=2",
+   "link": "https://epitoanyag.hu/osb3-hancslap-nutfederes-15-mm-pT1NCMTVORjY3NQ_eq2",
+   "ar": "4 900 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  }
+ ]
+}

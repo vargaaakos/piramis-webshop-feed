@@ -1,0 +1,29 @@
+{
+ "kategoria": "Favédőszer",
+ "fokategoria": "Faanyag",
+ "slug": "favedoszer",
+ "keszult": "2026-09-03T11:10:11+00:00",
+ "feed_frissitve": null,
+ "osszes_termek": 2,
+ "raktaron": 2,
+ "termekek": [
+  {
+   "id": "UH-711406",
+   "nev": "Kemikál Tetol Plusz faanyagvédő szer zöld 5 l",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-711406_goijjg8w.png?v=2",
+   "link": "https://epitoanyag.hu/kemikal-tetol-plusz-faanyagvedo-szer-zold-5-l-pVUgtNzExNDA2",
+   "ar": "7 485 Ft",
+   "akcios_ar": "",
+   "marka": "Kemikál"
+  },
+  {
+   "id": "UH-678865",
+   "nev": "Bochemit QB favédőszer zöld 1 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-380198_c03nvg9d.jpg?v=2",
+   "link": "https://epitoanyag.hu/bochemit-qb-favedoszer-zold-1-kg-pVUgtNjc4ODY1",
+   "ar": "3 100 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  }
+ ]
+}
