@@ -1,6 +1,6 @@
 {
- "feed_frissitve": "Thu, 03 Sep 2026 10:50:15 GMT",
- "termek_osszesen": 23896,
+ "feed_frissitve": "Fri, 04 Sep 2026 07:50:13 GMT",
+ "termek_osszesen": 23895,
  "kategoriak": [
   {
    "kategoria": "Egyéb barkácsáru",
@@ -126,7 +126,7 @@
    "fokategoria": "Faanyag",
    "slug": "osb",
    "osszes": 10,
-   "kirakva": 8
+   "kirakva": 9
   },
   {
    "kategoria": "Stafni, tetőléc",
@@ -300,7 +300,7 @@
    "kategoria": "Tetőfedés",
    "fokategoria": "Építőanyag",
    "slug": "tetofedes",
-   "osszes": 3295,
+   "osszes": 3294,
    "kirakva": 12
   },
   {
