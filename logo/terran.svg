@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="46px" viewBox="0 0 50 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>emblem</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="footer-other" transform="translate(-421.000000, -180.000000)">
+            <g id="footer">
+                <g id="terran" transform="translate(420.000000, 177.000000)">
+                    <g id="emblem" transform="translate(1.000000, 3.000000)">
+                        <polyline id="Fill-24" fill="#E29000" points="23.7580166 11.3298562 35.8522278 11.3298562 49.9807274 45.0677582 36.8820957 45.0677582 23.7580166 11.3298562"></polyline>
+                        <polygon id="Fill-25" fill="#C01B09" points="13.0581686 45.0677582 30.8937434 0.0304993568 19.0772073 0.0304993568 0.0905157292 45.0677582"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
