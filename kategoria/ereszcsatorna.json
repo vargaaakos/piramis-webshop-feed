@@ -2,9 +2,9 @@
  "kategoria": "Ereszcsatorna",
  "fokategoria": "Építőanyag",
  "slug": "ereszcsatorna",
- "feed_frissitve": "Fri, 04 Sep 2026 07:50:13 GMT",
+ "feed_frissitve": "Sat, 05 Sep 2026 06:50:13 GMT",
  "osszes_termek": 581,
- "raktaron": 124,
+ "raktaron": 128,
  "termekek": [
   {
    "id": "CF120525-PR",
@@ -16,11 +16,11 @@
    "marka": "Colorferr"
   },
   {
-   "id": "GAL-SP050-V-MU",
-   "nev": "Galeco PVC 050 barna karmantyú",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/karmantyu-barna_su98s8i6.jpg?v=2",
-   "link": "https://epitoanyag.hu/galeco-pvc-050-barna-karmantyu-pR0FMLVNQMDUwLVYtTVU_eq1",
-   "ar": "805 Ft",
+   "id": "GAL-KE110",
+   "nev": "Galeco flexibilis cső",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/pvc-ruraelastyczna-preview2_3aanr094.png?v=2",
+   "link": "https://epitoanyag.hu/galeco-flexibilis-cso-pR0FMLUtFMTEw",
+   "ar": "2 140 Ft",
    "akcios_ar": "",
    "marka": "Galeco"
   },
@@ -43,11 +43,11 @@
    "marka": "Colorferr"
   },
   {
-   "id": "GAL-SP050-A-KO067",
-   "nev": "Galeco PVC 050 grafit csőív 67°",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/67-csoiv-grafit_dydr7kte.jpg?v=2",
-   "link": "https://epitoanyag.hu/galeco-pvc-050-grafit-csoiv-67-pR0FMLVNQMDUwLUEtS08wNjc_eq1",
-   "ar": "1 155 Ft",
+   "id": "GAL-SP050-V-MU",
+   "nev": "Galeco PVC 050 barna karmantyú",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/karmantyu-barna_su98s8i6.jpg?v=2",
+   "link": "https://epitoanyag.hu/galeco-pvc-050-barna-karmantyu-pR0FMLVNQMDUwLVYtTVU_eq1",
+   "ar": "805 Ft",
    "akcios_ar": "",
    "marka": "Galeco"
   },
@@ -70,11 +70,11 @@
    "marka": "Colorferr"
   },
   {
-   "id": "GAL-SP050-A-MU",
-   "nev": "Galeco PVC 050 grafit karmantyú",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/karmantyu-grafit_dp7lg49c.jpg?v=2",
-   "link": "https://epitoanyag.hu/galeco-pvc-050-grafit-karmantyu-pR0FMLVNQMDUwLUEtTVU_eq1",
-   "ar": "805 Ft",
+   "id": "GAL-SP050-A-KO067",
+   "nev": "Galeco PVC 050 grafit csőív 67°",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/67-csoiv-grafit_dydr7kte.jpg?v=2",
+   "link": "https://epitoanyag.hu/galeco-pvc-050-grafit-csoiv-67-pR0FMLVNQMDUwLUEtS08wNjc_eq1",
+   "ar": "1 155 Ft",
    "akcios_ar": "",
    "marka": "Galeco"
   },
@@ -88,11 +88,11 @@
    "marka": "Colorferr"
   },
   {
-   "id": "GAL-SP100-V-KO045",
-   "nev": "Galeco PVC 100 barna csőív 45°",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/csoiv-45barna_aa9lwei2.jpg?v=2",
-   "link": "https://epitoanyag.hu/galeco-pvc-100-barna-csoiv-45-pR0FMLVNQMTAwLVYtS08wNDU_eq1",
-   "ar": "1 800 Ft",
+   "id": "GAL-SP050-A-MU",
+   "nev": "Galeco PVC 050 grafit karmantyú",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/karmantyu-grafit_dp7lg49c.jpg?v=2",
+   "link": "https://epitoanyag.hu/galeco-pvc-050-grafit-karmantyu-pR0FMLVNQMDUwLUEtTVU_eq1",
+   "ar": "805 Ft",
    "akcios_ar": "",
    "marka": "Galeco"
   },
@@ -106,11 +106,11 @@
    "marka": "Colorferr"
   },
   {
-   "id": "GAL-RE150-V-ZP",
-   "nev": "Galeco PVC 150 barna végzáró jobbos",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/vegzaro-jobbos-barna_8v795vgv.jpg?v=3",
-   "link": "https://epitoanyag.hu/galeco-pvc-150-barna-vegzaro-jobbos-pR0FMLVJFMTUwLVYtWlA_eq1",
-   "ar": "1 275 Ft",
+   "id": "GAL-SP100-V-KO045",
+   "nev": "Galeco PVC 100 barna csőív 45°",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/csoiv-45barna_aa9lwei2.jpg?v=2",
+   "link": "https://epitoanyag.hu/galeco-pvc-100-barna-csoiv-45-pR0FMLVNQMTAwLVYtS08wNDU_eq1",
+   "ar": "1 800 Ft",
    "akcios_ar": "",
    "marka": "Galeco"
   }

@@ -2,16 +2,16 @@
  "kategoria": "Padlásfeljáró",
  "fokategoria": "Nyílászáró",
  "slug": "padlasfeljaro",
- "feed_frissitve": "Fri, 04 Sep 2026 07:50:13 GMT",
+ "feed_frissitve": "Sat, 05 Sep 2026 06:50:13 GMT",
  "osszes_termek": 14,
- "raktaron": 6,
+ "raktaron": 5,
  "termekek": [
   {
-   "id": "UH-105253",
-   "nev": "Fakro Energy 60x120 cm hőszigetelt padlásfeljáró LTK 280",
+   "id": "UH-105258",
+   "nev": "Fakro Energy 70x130 cm hőszigetelt padlásfeljáró LTK 305",
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/ltk-energy_crgmq986.png?v=2",
-   "link": "https://epitoanyag.hu/fakro-energy-60x120-cm-hoszigetelt-padlasfeljaro-ltk-280-pVUgtMTA1MjUz",
-   "ar": "117 750 Ft",
+   "link": "https://epitoanyag.hu/fakro-energy-70x130-cm-hoszigetelt-padlasfeljaro-ltk-305-pVUgtMTA1MjU4",
+   "ar": "147 185 Ft",
    "akcios_ar": "",
    "marka": "Fakro"
   },
@@ -25,11 +25,11 @@
    "marka": "Optistep"
   },
   {
-   "id": "UH-105258",
-   "nev": "Fakro Energy 70x130 cm hőszigetelt padlásfeljáró LTK 305",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/ltk-energy_crgmq986.png?v=2",
-   "link": "https://epitoanyag.hu/fakro-energy-70x130-cm-hoszigetelt-padlasfeljaro-ltk-305-pVUgtMTA1MjU4",
-   "ar": "147 185 Ft",
+   "id": "UH-105289",
+   "nev": "Fakro Komfort 60x120 cm padlásfeljáró LWK 280",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/lwk-konfirt_f9hbyc7f.png?v=2",
+   "link": "https://epitoanyag.hu/fakro-komfort-60x120-cm-padlasfeljaro-lwk-280-pVUgtMTA1Mjg5",
+   "ar": "77 110 Ft",
    "akcios_ar": "",
    "marka": "Fakro"
   },
@@ -41,15 +41,6 @@
    "ar": "65 550 Ft",
    "akcios_ar": "",
    "marka": "Optistep"
-  },
-  {
-   "id": "UH-105289",
-   "nev": "Fakro Komfort 60x120 cm padlásfeljáró LWK 280",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/lwk-konfirt_f9hbyc7f.png?v=2",
-   "link": "https://epitoanyag.hu/fakro-komfort-60x120-cm-padlasfeljaro-lwk-280-pVUgtMTA1Mjg5",
-   "ar": "77 110 Ft",
-   "akcios_ar": "",
-   "marka": "Fakro"
   },
   {
    "id": "UH-359671",
