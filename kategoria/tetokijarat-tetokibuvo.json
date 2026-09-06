@@ -2,9 +2,9 @@
  "kategoria": "Tetőkijárat, tetőkibúvó",
  "fokategoria": "Nyílászáró",
  "slug": "tetokijarat-tetokibuvo",
- "feed_frissitve": "Sat, 05 Sep 2026 06:50:13 GMT",
+ "feed_frissitve": "Sun, 06 Sep 2026 07:50:15 GMT",
  "osszes_termek": 23,
- "raktaron": 3,
+ "raktaron": 2,
  "termekek": [
   {
    "id": "CF125130",
@@ -21,15 +21,6 @@
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-204826_uxaabrb8.jpg?v=2",
    "link": "https://epitoanyag.hu/velux-vlt-025-45x55-cm-tetokibuvo-oldalra-nyilo-pVUgtMjA0ODI2",
    "ar": "43 480 Ft",
-   "akcios_ar": "",
-   "marka": ".VELUX"
-  },
-  {
-   "id": "UH-205299",
-   "nev": "VELUX VLT 029 45x73 cm tetőkibúvó, oldalra nyíló",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-205299_c0moogwq.jpg?v=2",
-   "link": "https://epitoanyag.hu/velux-vlt-029-45x73-cm-tetokibuvo-oldalra-nyilo-pVUgtMjA1Mjk5",
-   "ar": "47 825 Ft",
    "akcios_ar": "",
    "marka": ".VELUX"
   }
