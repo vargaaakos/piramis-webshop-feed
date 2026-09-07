@@ -2,9 +2,9 @@
  "kategoria": "Gipszkarton, gipszkarton rendszer",
  "fokategoria": "Belsőépítészet",
  "slug": "gipszkarton-gipszkarton-rendszer",
- "feed_frissitve": "Sun, 06 Sep 2026 07:50:15 GMT",
+ "feed_frissitve": "Mon, 07 Sep 2026 07:50:15 GMT",
  "osszes_termek": 337,
- "raktaron": 128,
+ "raktaron": 127,
  "termekek": [
   {
    "id": "UH-465718",
@@ -97,11 +97,11 @@
    "marka": "DK"
   },
   {
-   "id": "UH-471747",
-   "nev": "Knauf Handputz gipszes vakolat 6-30 mm 25 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-471747_p949l3cq.jpg?v=2",
-   "link": "https://epitoanyag.hu/knauf-handputz-gipszes-vakolat-6-30-mm-25-kg-pVUgtNDcxNzQ3",
-   "ar": "6 860 Ft",
+   "id": "UH-404169",
+   "nev": "Knauf Wandspachtel glettgipsz 20 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-404169_hliau502.jpg?v=2",
+   "link": "https://epitoanyag.hu/knauf-wandspachtel-glettgipsz-20-kg-pVUgtNDA0MTY5",
+   "ar": "4 990 Ft",
    "akcios_ar": "",
    "marka": "Knauf"
   },
