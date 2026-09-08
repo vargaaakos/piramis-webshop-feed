@@ -2,9 +2,9 @@
  "kategoria": "Padlásfeljáró",
  "fokategoria": "Nyílászáró",
  "slug": "padlasfeljaro",
- "feed_frissitve": "Mon, 07 Sep 2026 07:50:15 GMT",
+ "feed_frissitve": "Tue, 08 Sep 2026 07:50:14 GMT",
  "osszes_termek": 14,
- "raktaron": 5,
+ "raktaron": 4,
  "termekek": [
   {
    "id": "UH-105258",
@@ -16,11 +16,11 @@
    "marka": "Fakro"
   },
   {
-   "id": "UH-374005",
-   "nev": "OptiStep 60x120 cm OLB Basic 280 padlásfeljáró",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-105420_y2e6x1oi.jpg?v=2",
-   "link": "https://epitoanyag.hu/optistep-60x120-cm-olb-basic-280-padlasfeljaro-pVUgtMzc0MDA1",
-   "ar": "64 340 Ft",
+   "id": "UH-535796",
+   "nev": "OptiStep 70x120 cm OLB Basic 280 padlásfeljáró",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-105422_6taj4ngq.jpg?v=2",
+   "link": "https://epitoanyag.hu/optistep-70x120-cm-olb-basic-280-padlasfeljaro-pVUgtNTM1Nzk2",
+   "ar": "65 550 Ft",
    "akcios_ar": "",
    "marka": "Optistep"
   },
@@ -32,15 +32,6 @@
    "ar": "77 110 Ft",
    "akcios_ar": "",
    "marka": "Fakro"
-  },
-  {
-   "id": "UH-535796",
-   "nev": "OptiStep 70x120 cm OLB Basic 280 padlásfeljáró",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-105422_6taj4ngq.jpg?v=2",
-   "link": "https://epitoanyag.hu/optistep-70x120-cm-olb-basic-280-padlasfeljaro-pVUgtNTM1Nzk2",
-   "ar": "65 550 Ft",
-   "akcios_ar": "",
-   "marka": "Optistep"
   },
   {
    "id": "UH-359671",

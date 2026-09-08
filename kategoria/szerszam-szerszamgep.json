@@ -2,9 +2,9 @@
  "kategoria": "Szerszám, szerszámgép",
  "fokategoria": "Barkács",
  "slug": "szerszam-szerszamgep",
- "feed_frissitve": "Mon, 07 Sep 2026 07:50:15 GMT",
- "osszes_termek": 732,
- "raktaron": 729,
+ "feed_frissitve": "Tue, 08 Sep 2026 07:50:14 GMT",
+ "osszes_termek": 731,
+ "raktaron": 728,
  "termekek": [
   {
    "id": "UH-185180",
@@ -16,11 +16,11 @@
    "marka": "ÚjHáz"
   },
   {
-   "id": "EIN-3408220",
-   "nev": "Einhell  GE-GS 18 Li-Solo ritkító ágvágó fűrész",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/ein-3408220_7ipasj2q.jpg?v=2",
-   "link": "https://epitoanyag.hu/einhell-ge-gs-18-li-solo-ritkito-agvago-furesz-pRUlOLTM0MDgyMjA_eq1",
-   "ar": "24 900 Ft",
+   "id": "EIN-4511489",
+   "nev": "Einhell 2x 18 V 4,0 Ah Power X-Change Twinpack 2 db akkumulátor",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/ein-4511489_c8mtd8rk.jpg?v=1",
+   "link": "https://epitoanyag.hu/einhell-2x-18-v-40-ah-power-x-change-twinpack-2-db-akkumulator-pRUlOLTQ1MTE0ODk_eq1",
+   "ar": "36 740 Ft",
    "akcios_ar": "",
    "marka": "Einhell"
   },
