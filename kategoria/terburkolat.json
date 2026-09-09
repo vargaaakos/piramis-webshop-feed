@@ -2,7 +2,7 @@
  "kategoria": "Térburkolat",
  "fokategoria": "Kert",
  "slug": "terburkolat",
- "feed_frissitve": "Tue, 08 Sep 2026 07:50:14 GMT",
+ "feed_frissitve": "Wed, 09 Sep 2026 07:50:15 GMT",
  "osszes_termek": 1017,
  "raktaron": 107,
  "termekek": [
@@ -61,20 +61,20 @@
    "marka": "betonEPAG"
   },
   {
-   "id": "UH-435752",
-   "nev": "KK Kavics Aquincum Antik térkő nagytégla homok 21x28x7 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-435752-1_yxg6zsjg.png?v=2",
-   "link": "https://epitoanyag.hu/kk-kavics-aquincum-antik-terko-nagytegla-homok-21x28x7-cm-pVUgtNDM1NzUy",
-   "ar": "8 996 Ft",
+   "id": "UH-186740",
+   "nev": "KK Kavics  süllyesztett szegélykő 15x40x20 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-530442_k4oej4s8.png?v=2",
+   "link": "https://epitoanyag.hu/kk-kavics-sullyesztett-szegelyko-15x40x20-cm-pVUgtMTg2NzQw",
+   "ar": "1 170 Ft",
    "akcios_ar": "",
    "marka": "KK Kavics Beton"
   },
   {
-   "id": "UH-197416",
-   "nev": "Leier Euroline finommosott lap London 40x40x3,8 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/lond_548zp6kq.png?v=2",
-   "link": "https://epitoanyag.hu/leier-euroline-finommosott-lap-london-40x40x38-cm-pVUgtMTk3NDE2",
-   "ar": "1 260 Ft",
+   "id": "UH-197420",
+   "nev": "Leier Euroline finommosott lap Prága 40x40x3,8 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-640059_2pzr0a03.png?v=1",
+   "link": "https://epitoanyag.hu/leier-euroline-finommosott-lap-praga-40x40x38-cm-pVUgtMTk3NDIw",
+   "ar": "1 390 Ft",
    "akcios_ar": "",
    "marka": "Leier"
   },

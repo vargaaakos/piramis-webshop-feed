@@ -2,16 +2,16 @@
  "kategoria": "Padlásfeljáró",
  "fokategoria": "Nyílászáró",
  "slug": "padlasfeljaro",
- "feed_frissitve": "Tue, 08 Sep 2026 07:50:14 GMT",
+ "feed_frissitve": "Wed, 09 Sep 2026 07:50:15 GMT",
  "osszes_termek": 14,
- "raktaron": 4,
+ "raktaron": 3,
  "termekek": [
   {
-   "id": "UH-105258",
-   "nev": "Fakro Energy 70x130 cm hőszigetelt padlásfeljáró LTK 305",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/ltk-energy_crgmq986.png?v=2",
-   "link": "https://epitoanyag.hu/fakro-energy-70x130-cm-hoszigetelt-padlasfeljaro-ltk-305-pVUgtMTA1MjU4",
-   "ar": "147 185 Ft",
+   "id": "UH-105289",
+   "nev": "Fakro Komfort 60x120 cm padlásfeljáró LWK 280",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/lwk-konfirt_f9hbyc7f.png?v=2",
+   "link": "https://epitoanyag.hu/fakro-komfort-60x120-cm-padlasfeljaro-lwk-280-pVUgtMTA1Mjg5",
+   "ar": "77 110 Ft",
    "akcios_ar": "",
    "marka": "Fakro"
   },
@@ -23,15 +23,6 @@
    "ar": "65 550 Ft",
    "akcios_ar": "",
    "marka": "Optistep"
-  },
-  {
-   "id": "UH-105289",
-   "nev": "Fakro Komfort 60x120 cm padlásfeljáró LWK 280",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/lwk-konfirt_f9hbyc7f.png?v=2",
-   "link": "https://epitoanyag.hu/fakro-komfort-60x120-cm-padlasfeljaro-lwk-280-pVUgtMTA1Mjg5",
-   "ar": "77 110 Ft",
-   "akcios_ar": "",
-   "marka": "Fakro"
   },
   {
    "id": "UH-359671",
