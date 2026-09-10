@@ -2,64 +2,10 @@
  "kategoria": "Tégla",
  "fokategoria": "Építőanyag",
  "slug": "tegla",
- "feed_frissitve": "Thu, 10 Sep 2026 07:50:15 GMT",
+ "feed_frissitve": "Thu, 10 Sep 2026 10:50:14 GMT",
  "osszes_termek": 93,
  "raktaron": 60,
  "termekek": [
-  {
-   "id": "UH-103431",
-   "nev": "Bakonytherm kisméretű tömör tégla 25x12x6,5 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/kismeretu-tomor-tegla-papateszer_wu6hebkc.jpg?v=2",
-   "link": "https://epitoanyag.hu/bakonytherm-kismeretu-tomor-tegla-25x12x65-cm-pVUgtMTAzNDMx",
-   "ar": "260 Ft",
-   "akcios_ar": "",
-   "marka": "Bakonytherm"
-  },
-  {
-   "id": "UH-198070",
-   "nev": "Leier kisméretű tömör tégla 25x12x6,5 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-198070_kod11vnq.jpg?v=2",
-   "link": "https://epitoanyag.hu/leier-kismeretu-tomor-tegla-25x12x65-cm-pVUgtMTk4MDcw",
-   "ar": "440 Ft",
-   "akcios_ar": "",
-   "marka": "Leier"
-  },
-  {
-   "id": "UH-831643",
-   "nev": "Porotherm 20 N+F tégla",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-267890_ouqe8iju.jpg?v=2",
-   "link": "https://epitoanyag.hu/porotherm-20-nf-tegla-pVUgtODMxNjQz",
-   "ar": "54 240 Ft",
-   "akcios_ar": "",
-   "marka": "Wienerberger"
-  },
-  {
-   "id": "UH-330269",
-   "nev": "Vízüvegoldat 1 liter",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/samottvizuveg1_0ivka6h9.jpg?v=4",
-   "link": "https://epitoanyag.hu/vizuvegoldat-1-liter-pVUgtMzMwMjY5",
-   "ar": "1 395 Ft",
-   "akcios_ar": "",
-   "marka": "Kemikál"
-  },
-  {
-   "id": "UH-001971",
-   "nev": "Xella Silka-HM 150 NF+GT válaszfalelem",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/hm-150_274j6oo8.jpg?v=2",
-   "link": "https://epitoanyag.hu/xella-silka-hm-150-nfgt-valaszfalelem-pVUgtMDAxOTcx",
-   "ar": "865 Ft",
-   "akcios_ar": "",
-   "marka": "Xella"
-  },
-  {
-   "id": "UH-813164",
-   "nev": "BB Üvegtégla fehér, tiszta 190 x 190 x 80 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-copied-copied-uh-518978_zdi9xdt3.jpg?v=1",
-   "link": "https://epitoanyag.hu/bb-uvegtegla-feher-tiszta-190-x-190-x-80-mm-pVUgtODEzMTY0",
-   "ar": "1 125 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
-  },
   {
    "id": "UH-198166",
    "nev": "Leier Leiertherm 10/50 N+F válaszfaltégla",
@@ -70,29 +16,29 @@
    "marka": "Leier"
   },
   {
-   "id": "UH-831639",
-   "nev": "Porotherm 25 N+F neo Rapid Dryfix tégla",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-porotherm-25-nf-profi-dryfix_q4drwe01.jpg?v=2",
-   "link": "https://epitoanyag.hu/porotherm-25-nf-neo-rapid-dryfix-tegla-pVUgtODMxNjM5",
-   "ar": "64 200 Ft",
+   "id": "SAMOTT40*30*3JOLLY",
+   "nev": "Samott fedlap 40x30x3 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/samott40303jolly_haovoo5y.png?v=2",
+   "link": "https://epitoanyag.hu/samott-fedlap-40x30x3-cm-pU0FNT1RUNDAqMzAqM0pPTExZ",
+   "ar": "4 085 Ft",
    "akcios_ar": "",
-   "marka": "Wienerberger"
+   "marka": "Egyéb"
   },
   {
-   "id": "UH-001974",
-   "nev": "Xella Silka-HM 200 NF+GT falazóelem",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/hm-200_myol3l4g.jpg?v=2",
-   "link": "https://epitoanyag.hu/xella-silka-hm-200-nfgt-falazoelem-pVUgtMDAxOTc0",
-   "ar": "1 180 Ft",
+   "id": "UH-103431",
+   "nev": "Bakonytherm kisméretű tömör tégla 25x12x6,5 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/kismeretu-tomor-tegla-papateszer_wu6hebkc.jpg?v=2",
+   "link": "https://epitoanyag.hu/bakonytherm-kismeretu-tomor-tegla-25x12x65-cm-pVUgtMTAzNDMx",
+   "ar": "260 Ft",
    "akcios_ar": "",
-   "marka": "Xella"
+   "marka": "Bakonytherm"
   },
   {
-   "id": "TÉGLAB30EGRI184",
-   "nev": "Putnoki B30 tégla",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-teglab30egri140_a8dw83tn.png?v=2",
-   "link": "https://epitoanyag.hu/putnoki-b30-tegla-pVMOJR0xBQjMwRUdSSTE4NA_eq2",
-   "ar": "360 Ft",
+   "id": "UH-813164",
+   "nev": "BB Üvegtégla fehér, tiszta 190 x 190 x 80 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-copied-copied-uh-518978_zdi9xdt3.jpg?v=1",
+   "link": "https://epitoanyag.hu/bb-uvegtegla-feher-tiszta-190-x-190-x-80-mm-pVUgtODEzMTY0",
+   "ar": "1 125 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   },
@@ -106,11 +52,65 @@
    "marka": "Leier"
   },
   {
-   "id": "UH-831645",
-   "nev": "Porotherm 25 N+F neo tégla",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-copied-uh-267896_j9frr7tg.jpg?v=3",
-   "link": "https://epitoanyag.hu/porotherm-25-nf-neo-tegla-pVUgtODMxNjQ1",
-   "ar": "1 015 Ft",
+   "id": "SAMOTT20*50*4",
+   "nev": "Samott fedlap 50x20x4 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/samott20504_6jjcjvt8.jpg?v=2",
+   "link": "https://epitoanyag.hu/samott-fedlap-50x20x4-cm-pU0FNT1RUMjAqNTAqNA_eq2",
+   "ar": "4 490 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-831734",
+   "nev": "Porotherm kisméretű, nagyszilárdságú tömör tégla",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-268766_cx758eil.jpg?v=2",
+   "link": "https://epitoanyag.hu/porotherm-kismeretu-nagyszilardsagu-tomor-tegla-pVUgtODMxNzM0",
+   "ar": "485 Ft",
+   "akcios_ar": "",
+   "marka": "Wienerberger"
+  },
+  {
+   "id": "UH-001215",
+   "nev": "Üvegtégla távtartó 8 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-001215_bd4lzezz.jpg?v=2",
+   "link": "https://epitoanyag.hu/uvegtegla-tavtarto-8-cm-pVUgtMDAxMjE1",
+   "ar": "75 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-831643",
+   "nev": "Porotherm 20 N+F tégla",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-267890_ouqe8iju.jpg?v=2",
+   "link": "https://epitoanyag.hu/porotherm-20-nf-tegla-pVUgtODMxNjQz",
+   "ar": "54 240 Ft",
+   "akcios_ar": "",
+   "marka": "Wienerberger"
+  },
+  {
+   "id": "SAMOTTLISZT/2",
+   "nev": "Samott liszt 2 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/samottliszt2_su3j7gkx.jpg?v=2",
+   "link": "https://epitoanyag.hu/samott-liszt-2-kg-pU0FNT1RUTElTWlQvMg_eq2",
+   "ar": "900 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-198070",
+   "nev": "Leier kisméretű tömör tégla 25x12x6,5 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-198070_kod11vnq.jpg?v=2",
+   "link": "https://epitoanyag.hu/leier-kismeretu-tomor-tegla-25x12x65-cm-pVUgtMTk4MDcw",
+   "ar": "440 Ft",
+   "akcios_ar": "",
+   "marka": "Leier"
+  },
+  {
+   "id": "UH-831639",
+   "nev": "Porotherm 25 N+F neo Rapid Dryfix tégla",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-porotherm-25-nf-profi-dryfix_q4drwe01.jpg?v=2",
+   "link": "https://epitoanyag.hu/porotherm-25-nf-neo-rapid-dryfix-tegla-pVUgtODMxNjM5",
+   "ar": "64 200 Ft",
    "akcios_ar": "",
    "marka": "Wienerberger"
   }

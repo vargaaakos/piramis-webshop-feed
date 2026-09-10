@@ -2,7 +2,7 @@
  "kategoria": "Kerti bútor, árnyékolás",
  "fokategoria": "Kert",
  "slug": "kerti-butor-arnyekolas",
- "feed_frissitve": "Thu, 10 Sep 2026 07:50:15 GMT",
+ "feed_frissitve": "Thu, 10 Sep 2026 10:50:14 GMT",
  "osszes_termek": 42,
  "raktaron": 32,
  "termekek": [
@@ -16,15 +16,6 @@
    "marka": "ÚjHáz"
   },
   {
-   "id": "UH-814627",
-   "nev": "Browntex 160 árnyékolóháló, HDPE UV, 90 %-os takarás, barna, 1,5x10 m",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-814627_kar9ztvv.png?v=1",
-   "link": "https://epitoanyag.hu/browntex-160-arnyekolohalo-hdpe-uv-90-os-takaras-barna-15x10-m-pVUgtODE0NjI3",
-   "ar": "8 090 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
-  },
-  {
    "id": "UH-837603",
    "nev": "J-Home Nero kétszemélyes kerti hintaágy, 166x145x190 cm, fekete",
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-837603_06h7od56.png?v=1",
@@ -32,15 +23,6 @@
    "ar": "99 900 Ft",
    "akcios_ar": "79 990 Ft",
    "marka": "ÚjHáz"
-  },
-  {
-   "id": "UH-814629",
-   "nev": "Browntex 160 árnyékolóháló, HDPE UV, 90 %-os takarás, barna, 1,8x10 m",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-814627_fnvdjsua.png?v=1",
-   "link": "https://epitoanyag.hu/browntex-160-arnyekolohalo-hdpe-uv-90-os-takaras-barna-18x10-m-pVUgtODE0NjI5",
-   "ar": "9 790 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
   },
   {
    "id": "UH-837605",
@@ -52,15 +34,6 @@
    "marka": "ÚjHáz"
   },
   {
-   "id": "UH-814607",
-   "nev": "Goldtex 230 árnyékolóháló, HDPE UV, 95 %-os takarás, zöld, 1,2x10 m",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-814607_w7hkz5sm.png?v=1",
-   "link": "https://epitoanyag.hu/goldtex-230-arnyekolohalo-hdpe-uv-95-os-takaras-zold-12x10-m-pVUgtODE0NjA3",
-   "ar": "8 990 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
-  },
-  {
    "id": "UH-847949",
    "nev": "J-Home Solaro napernyő talp",
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-847949_vjygmlb5.png?v=1",
@@ -68,15 +41,6 @@
    "ar": "24 990 Ft",
    "akcios_ar": "19 990 Ft",
    "marka": "ÚjHáz"
-  },
-  {
-   "id": "UH-814609",
-   "nev": "Goldtex 230 árnyékolóháló, HDPE UV, 95 %-os takarás, zöld, 1,5x10 m",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-814607_72ap0stu.png?v=1",
-   "link": "https://epitoanyag.hu/goldtex-230-arnyekolohalo-hdpe-uv-95-os-takaras-zold-15x10-m-pVUgtODE0NjA5",
-   "ar": "11 290 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
   },
   {
    "id": "UH-837604",
@@ -88,15 +52,6 @@
    "marka": "ÚjHáz"
   },
   {
-   "id": "UH-814635",
-   "nev": "Greytex 160 árnyékolóháló, HDPE UV, 90 %-os takarás, szürke, 1,5x10 m",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-814635_35bk31wb.png?v=1",
-   "link": "https://epitoanyag.hu/greytex-160-arnyekolohalo-hdpe-uv-90-os-takaras-szurke-15x10-m-pVUgtODE0NjM1",
-   "ar": "8 290 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
-  },
-  {
    "id": "UH-837562",
    "nev": "L-YO Aura étkezőasztal, 242x110x74 cm, taupe",
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-837562_8yionzci.png?v=1",
@@ -106,13 +61,58 @@
    "marka": "ÚjHáz"
   },
   {
-   "id": "UH-814637",
-   "nev": "Greytex 160 árnyékolóháló, HDPE UV, 90 %-os takarás, szürke, 1,8x10 m",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-814635_1xhde2x2.png?v=1",
-   "link": "https://epitoanyag.hu/greytex-160-arnyekolohalo-hdpe-uv-90-os-takaras-szurke-18x10-m-pVUgtODE0NjM3",
-   "ar": "9 990 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
+   "id": "UH-837658",
+   "nev": "L-YO Lumina kerti étkezőszék, 60x57x89 cm, sötét szürke",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-837658_0quuwjk8.png?v=1",
+   "link": "https://epitoanyag.hu/l-yo-lumina-kerti-etkezoszek-60x57x89-cm-sotet-szurke-pVUgtODM3NjU4",
+   "ar": "29 990 Ft",
+   "akcios_ar": "24 990 Ft",
+   "marka": "ÚjHáz"
+  },
+  {
+   "id": "UH-837557",
+   "nev": "L-YO Peacock 5 részes kerti ülőgarnitúra, párnával, zöld",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-837557_wabm6nwa.png?v=1",
+   "link": "https://epitoanyag.hu/l-yo-peacock-5-reszes-kerti-ulogarnitura-parnaval-zold-pVUgtODM3NTU3",
+   "ar": "349 990 Ft",
+   "akcios_ar": "299 990 Ft",
+   "marka": "ÚjHáz"
+  },
+  {
+   "id": "UH-848572",
+   "nev": "L-YO Peacock extra párna, szürke",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-848572_lvlu038l.png?v=1",
+   "link": "https://epitoanyag.hu/l-yo-peacock-extra-parna-szurke-pVUgtODQ4NTcy",
+   "ar": "3 990 Ft",
+   "akcios_ar": "3 690 Ft",
+   "marka": "ÚjHáz"
+  },
+  {
+   "id": "UH-848571",
+   "nev": "L-YO Peacock extra párna, taupe",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-848571_9i9emoou.png?v=1",
+   "link": "https://epitoanyag.hu/l-yo-peacock-extra-parna-taupe-pVUgtODQ4NTcx",
+   "ar": "3 990 Ft",
+   "akcios_ar": "3 690 Ft",
+   "marka": "ÚjHáz"
+  },
+  {
+   "id": "UH-837572",
+   "nev": "L-YO Peacock rattan étkezőszék, 56,5x61,5x77 cm, párnával, szürke",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-837572_yf7zata2.png?v=1",
+   "link": "https://epitoanyag.hu/l-yo-peacock-rattan-etkezoszek-565x615x77-cm-parnaval-szurke-pVUgtODM3NTcy",
+   "ar": "39 990 Ft",
+   "akcios_ar": "34 990 Ft",
+   "marka": "ÚjHáz"
+  },
+  {
+   "id": "UH-837571",
+   "nev": "L-YO Peacock rattan étkezőszék, 56,5x61,5x77 cm, párnával, taupe",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-837571_229vl3xa.png?v=1",
+   "link": "https://epitoanyag.hu/l-yo-peacock-rattan-etkezoszek-565x615x77-cm-parnaval-taupe-pVUgtODM3NTcx",
+   "ar": "39 990 Ft",
+   "akcios_ar": "34 990 Ft",
+   "marka": "ÚjHáz"
   }
  ]
 }

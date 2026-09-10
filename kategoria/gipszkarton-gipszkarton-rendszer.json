@@ -2,19 +2,10 @@
  "kategoria": "Gipszkarton, gipszkarton rendszer",
  "fokategoria": "Belsőépítészet",
  "slug": "gipszkarton-gipszkarton-rendszer",
- "feed_frissitve": "Thu, 10 Sep 2026 07:50:15 GMT",
+ "feed_frissitve": "Thu, 10 Sep 2026 10:50:14 GMT",
  "osszes_termek": 337,
  "raktaron": 128,
  "termekek": [
-  {
-   "id": "UH-465718",
-   "nev": "BM CW 75 válaszfalprofil 0,5 mm 2,75 m",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-200251_jdn8vf8w.jpg?v=2",
-   "link": "https://epitoanyag.hu/bm-cw-75-valaszfalprofil-05-mm-275-m-pVUgtNDY1NzE4",
-   "ar": "2 080 Ft",
-   "akcios_ar": "",
-   "marka": "Budmat"
-  },
   {
    "id": "UH-731120",
    "nev": "DK Profifix akusztikus lengőkengyel 35 mm",
@@ -23,51 +14,6 @@
    "ar": "85 Ft",
    "akcios_ar": "",
    "marka": "DK"
-  },
-  {
-   "id": "UH-495739",
-   "nev": "Knauf Fill Finish Light készre kevert hézagoló 20 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-495739_ga8o6iyy.jpg?v=2",
-   "link": "https://epitoanyag.hu/knauf-fill-finish-light-keszre-kevert-hezagolo-20-kg-pVUgtNDk1NzM5",
-   "ar": "10 120 Ft",
-   "akcios_ar": "",
-   "marka": "Knauf"
-  },
-  {
-   "id": "UH-102488",
-   "nev": "Masterplast direktfüggesztő 60x75 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-102488_o4y2yyjx.png?v=2",
-   "link": "https://epitoanyag.hu/masterplast-direktfuggeszto-60x75-mm-pVUgtMTAyNDg4",
-   "ar": "85 Ft",
-   "akcios_ar": "",
-   "marka": "Masterplast"
-  },
-  {
-   "id": "UH-739884",
-   "nev": "Rigips Blue Acoustic RF 120x200x1,25 cm hanggátló-tűzgátló gipszkartonlap",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-001628_knsdk1si.jpg?v=2",
-   "link": "https://epitoanyag.hu/rigips-blue-acoustic-rf-120x200x125-cm-hanggatlo-tuzgatlo-gipszkartonlap-pVUgtNzM5ODg0",
-   "ar": "4 490 Ft",
-   "akcios_ar": "",
-   "marka": "Rigips"
-  },
-  {
-   "id": "UH-690781",
-   "nev": "Soudal Soudabond 215 kontaktragasztó spray 500 ml",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-690781_7u0w1aip.jpg?v=2",
-   "link": "https://epitoanyag.hu/soudal-soudabond-215-kontaktragaszto-spray-500-ml-pVUgtNjkwNzgx",
-   "ar": "2 070 Ft",
-   "akcios_ar": "",
-   "marka": "Soudal"
-  },
-  {
-   "id": "UH-800638",
-   "nev": "Wkret-met lapos peremes beütődübel PZ 6x40 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-000682_r79hofrt.jpg?v=1",
-   "link": "https://epitoanyag.hu/wkret-met-lapos-peremes-beutodubel-pz-6x40-mm-pVUgtODAwNjM4",
-   "ar": "10 Ft",
-   "akcios_ar": "",
-   "marka": "Wkret-met"
   },
   {
    "id": "UH-000534",
@@ -79,13 +25,22 @@
    "marka": "Egyéb"
   },
   {
-   "id": "UH-751452",
-   "nev": "BM UW 50 Válaszfal profil 0,5 mm, 3 m",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-copied-uh-200330_b2j9q5h3.jpg?v=2",
-   "link": "https://epitoanyag.hu/bm-uw-50-valaszfal-profil-05-mm-3-m-pVUgtNzUxNDUy",
-   "ar": "1 385 Ft",
+   "id": "UH-739884",
+   "nev": "Rigips Blue Acoustic RF 120x200x1,25 cm hanggátló-tűzgátló gipszkartonlap",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-001628_knsdk1si.jpg?v=2",
+   "link": "https://epitoanyag.hu/rigips-blue-acoustic-rf-120x200x125-cm-hanggatlo-tuzgatlo-gipszkartonlap-pVUgtNzM5ODg0",
+   "ar": "4 490 Ft",
    "akcios_ar": "",
-   "marka": "Budmat"
+   "marka": "Rigips"
+  },
+  {
+   "id": "UH-744093",
+   "nev": "DK Profifix szigetelő szivacscsík gipszkartonhoz 3x30 mm x 30 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-744093_dzymh6pz.jpg?v=2",
+   "link": "https://epitoanyag.hu/dk-profifix-szigetelo-szivacscsik-gipszkartonhoz-3x30-mm-x-30-m-pVUgtNzQ0MDkz",
+   "ar": "1 885 Ft",
+   "akcios_ar": "",
+   "marka": "DK"
   },
   {
    "id": "UH-731121",
@@ -97,13 +52,13 @@
    "marka": "DK"
   },
   {
-   "id": "UH-404169",
-   "nev": "Knauf Wandspachtel glettgipsz 20 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-404169_hliau502.jpg?v=2",
-   "link": "https://epitoanyag.hu/knauf-wandspachtel-glettgipsz-20-kg-pVUgtNDA0MTY5",
-   "ar": "4 990 Ft",
+   "id": "UH-000535",
+   "nev": "Alumínium élvédő profil 3 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-000535_wcj7gofb.jpg?v=2",
+   "link": "https://epitoanyag.hu/aluminium-elvedo-profil-3-m-pVUgtMDAwNTM1",
+   "ar": "540 Ft",
    "akcios_ar": "",
-   "marka": "Knauf"
+   "marka": "Egyéb"
   },
   {
    "id": "UH-739885",
@@ -113,6 +68,51 @@
    "ar": "4 990 Ft",
    "akcios_ar": "",
    "marka": "Rigips"
+  },
+  {
+   "id": "UH-744095",
+   "nev": "DK Profifix szigetelő szivacscsík gipszkartonhoz 3x45 mm x 30 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-744095_6mxelr07.jpg?v=2",
+   "link": "https://epitoanyag.hu/dk-profifix-szigetelo-szivacscsik-gipszkartonhoz-3x45-mm-x-30-m-pVUgtNzQ0MDk1",
+   "ar": "1 990 Ft",
+   "akcios_ar": "",
+   "marka": "DK"
+  },
+  {
+   "id": "UH-731122",
+   "nev": "DK Profifix akusztikus lengőkengyel 95 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-731122_07hfhols.png?v=2",
+   "link": "https://epitoanyag.hu/dk-profifix-akusztikus-lengokengyel-95-mm-pVUgtNzMxMTIy",
+   "ar": "140 Ft",
+   "akcios_ar": "",
+   "marka": "DK"
+  },
+  {
+   "id": "UH-758719",
+   "nev": "DK Profifix Profi alumínium élvédő profil 2,5 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-731163_w7inmeu8.jpg?v=2",
+   "link": "https://epitoanyag.hu/dk-profifix-profi-aluminium-elvedo-profil-25-m-pVUgtNzU4NzE5",
+   "ar": "465 Ft",
+   "akcios_ar": "",
+   "marka": "DK"
+  },
+  {
+   "id": "UH-810425",
+   "nev": "Rigips RBI Impregnált gipszkarton lap 120x200x1,25 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-001791_671s7yke.jpg?v=1",
+   "link": "https://epitoanyag.hu/rigips-rbi-impregnalt-gipszkarton-lap-120x200x125-cm-pVUgtODEwNDI1",
+   "ar": "3 790 Ft",
+   "akcios_ar": "",
+   "marka": "Rigips"
+  },
+  {
+   "id": "UH-744099",
+   "nev": "DK Profifix szigetelő szivacscsík gipszkartonhoz 3x70 mm x 30 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-744099_f8ypcn49.jpg?v=2",
+   "link": "https://epitoanyag.hu/dk-profifix-szigetelo-szivacscsik-gipszkartonhoz-3x70-mm-x-30-m-pVUgtNzQ0MDk5",
+   "ar": "4 220 Ft",
+   "akcios_ar": "",
+   "marka": "DK"
   }
  ]
 }

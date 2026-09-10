@@ -2,43 +2,25 @@
  "kategoria": "Ereszcsatorna",
  "fokategoria": "Építőanyag",
  "slug": "ereszcsatorna",
- "feed_frissitve": "Thu, 10 Sep 2026 07:50:15 GMT",
+ "feed_frissitve": "Thu, 10 Sep 2026 10:50:14 GMT",
  "osszes_termek": 581,
  "raktaron": 128,
  "termekek": [
+  {
+   "id": "CF149133-KURZ-7016",
+   "nev": "Colorferr 33 acél, hajlított csatornavas, antracit",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/cf149133-kurz-7016_peupjagu.png?v=2",
+   "link": "https://epitoanyag.hu/colorferr-33-acel-hajlitott-csatornavas-antracit-pQ0YxNDkxMzMtS1VSWi03MDE2",
+   "ar": "1 040 Ft",
+   "akcios_ar": "",
+   "marka": "Colorferr"
+  },
   {
    "id": "CF120525-PR",
    "nev": "Colorferr 25 horganyzott betorkollócsonk",
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-csathor25betcsonk_2hxdyzq7.jpg?v=2",
    "link": "https://epitoanyag.hu/colorferr-25-horganyzott-betorkollocsonk-pQ0YxMjA1MjUtUFI_eq1",
    "ar": "1 110 Ft",
-   "akcios_ar": "",
-   "marka": "Colorferr"
-  },
-  {
-   "id": "GAL-KE110",
-   "nev": "Galeco flexibilis cső",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/pvc-ruraelastyczna-preview2_3aanr094.png?v=2",
-   "link": "https://epitoanyag.hu/galeco-flexibilis-cso-pR0FMLUtFMTEw",
-   "ar": "2 140 Ft",
-   "akcios_ar": "",
-   "marka": "Galeco"
-  },
-  {
-   "id": "UH-739324",
-   "nev": "Csapadékvízszűrő szürke 80/100 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-349908_bbodc141.jpg?v=2",
-   "link": "https://epitoanyag.hu/csapadekvizszuro-szurke-80100-mm-pVUgtNzM5MzI0",
-   "ar": "2 400 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
-  },
-  {
-   "id": "CF124625-ZVC-1000",
-   "nev": "Colorferr 25 horganyzott csonkos, zárt vég 1 m",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-csathorg25vegcs_k4n0z1oz.jpg?v=2",
-   "link": "https://epitoanyag.hu/colorferr-25-horganyzott-csonkos-zart-veg-1-m-pQ0YxMjQ2MjUtWlZDLTEwMDA_eq1",
-   "ar": "2 280 Ft",
    "akcios_ar": "",
    "marka": "Colorferr"
   },
@@ -52,20 +34,20 @@
    "marka": "Galeco"
   },
   {
-   "id": "UH-372760",
-   "nev": "Műanyag lombfogó kosár 60-120 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-372760_vnznhpz8.jpg?v=2",
-   "link": "https://epitoanyag.hu/muanyag-lombfogo-kosar-60-120-mm-pVUgtMzcyNzYw",
-   "ar": "390 Ft",
+   "id": "CR149133KURZ-8017",
+   "nev": "Colorferr 33 acél, hajlított csatornavas, rézbarna",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/cr149133kurz-8017_pi69y0yd.png?v=2",
+   "link": "https://epitoanyag.hu/colorferr-33-acel-hajlitott-csatornavas-rezbarna-pQ1IxNDkxMzNLVVJaLTgwMTc_eq1",
+   "ar": "1 040 Ft",
    "akcios_ar": "",
-   "marka": "Egyéb"
+   "marka": "Colorferr"
   },
   {
-   "id": "CF124625-2000",
-   "nev": "Colorferr 25 horganyzott ereszcsatorna 2 m",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-csathorg25eresz2fm_snyn8pi6.jpg?v=2",
-   "link": "https://epitoanyag.hu/colorferr-25-horganyzott-ereszcsatorna-2-m-pQ0YxMjQ2MjUtMjAwMA_eq2",
-   "ar": "1 790 Ft",
+   "id": "CF124625-ZVC-1000",
+   "nev": "Colorferr 25 horganyzott csonkos, zárt vég 1 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-csathorg25vegcs_k4n0z1oz.jpg?v=2",
+   "link": "https://epitoanyag.hu/colorferr-25-horganyzott-csonkos-zart-veg-1-m-pQ0YxMjQ2MjUtWlZDLTEwMDA_eq1",
+   "ar": "2 280 Ft",
    "akcios_ar": "",
    "marka": "Colorferr"
   },
@@ -79,11 +61,20 @@
    "marka": "Galeco"
   },
   {
-   "id": "CF123776",
-   "nev": "Colorferr 25 horganyzott hattyúnyak",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-csathorg25hattyu25_h7afpft1.jpg?v=2",
-   "link": "https://epitoanyag.hu/colorferr-25-horganyzott-hattyunyak-pQ0YxMjM3NzY_eq1",
-   "ar": "1 500 Ft",
+   "id": "CF149133-KURZ-3016",
+   "nev": "Colorferr 33 acél, hajlított csatornavas, téglavörös",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/cf149133-kurz-3016_rh3cl2jz.png?v=2",
+   "link": "https://epitoanyag.hu/colorferr-33-acel-hajlitott-csatornavas-teglavoros-pQ0YxNDkxMzMtS1VSWi0zMDE2",
+   "ar": "1 070 Ft",
+   "akcios_ar": "",
+   "marka": "Colorferr"
+  },
+  {
+   "id": "CF124625-2000",
+   "nev": "Colorferr 25 horganyzott ereszcsatorna 2 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-csathorg25eresz2fm_snyn8pi6.jpg?v=2",
+   "link": "https://epitoanyag.hu/colorferr-25-horganyzott-ereszcsatorna-2-m-pQ0YxMjQ2MjUtMjAwMA_eq2",
+   "ar": "1 790 Ft",
    "akcios_ar": "",
    "marka": "Colorferr"
   },
@@ -97,11 +88,20 @@
    "marka": "Galeco"
   },
   {
-   "id": "CF123876",
-   "nev": "Colorferr 25 horganyzott kiköpő",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-csathorg25kikop_snvl03gw.jpg?v=2",
-   "link": "https://epitoanyag.hu/colorferr-25-horganyzott-kikopo-pQ0YxMjM4NzY_eq1",
-   "ar": "1 300 Ft",
+   "id": "CF149133-KURZ-E-3016",
+   "nev": "Colorferr acél 33 csatornatartó egyenes, rövid 20 cm RAL 3016 téglavörös",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/cf149133-kurz-e-3016_bnegm9wl.png?v=2",
+   "link": "https://epitoanyag.hu/colorferr-acel-33-csatornatarto-egyenes-rovid-20-cm-ral-3016-teglavoros-pQ0YxNDkxMzMtS1VSWi1FLTMwMTY_eq1",
+   "ar": "1 070 Ft",
+   "akcios_ar": "",
+   "marka": "Colorferr"
+  },
+  {
+   "id": "CF123776",
+   "nev": "Colorferr 25 horganyzott hattyúnyak",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-csathorg25hattyu25_h7afpft1.jpg?v=2",
+   "link": "https://epitoanyag.hu/colorferr-25-horganyzott-hattyunyak-pQ0YxMjM3NzY_eq1",
+   "ar": "1 500 Ft",
    "akcios_ar": "",
    "marka": "Colorferr"
   },

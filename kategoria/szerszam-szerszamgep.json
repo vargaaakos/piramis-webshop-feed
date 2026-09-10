@@ -2,18 +2,45 @@
  "kategoria": "Szerszám, szerszámgép",
  "fokategoria": "Barkács",
  "slug": "szerszam-szerszamgep",
- "feed_frissitve": "Thu, 10 Sep 2026 07:50:15 GMT",
- "osszes_termek": 735,
- "raktaron": 732,
+ "feed_frissitve": "Thu, 10 Sep 2026 10:50:14 GMT",
+ "osszes_termek": 734,
+ "raktaron": 731,
  "termekek": [
   {
-   "id": "UH-185180",
-   "nev": "Csempecsípő fogó, rugós",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-185180_uxosak2d.png?v=2",
-   "link": "https://epitoanyag.hu/csempecsipo-fogo-rugos-pVUgtMTg1MTgw",
-   "ar": "1 580 Ft",
+   "id": "HIK-750038",
+   "nev": "Hikoki Proline JM10 szúrófűrészlap fémhez 91,5/1,2 mm, 5 db",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/hik-750038_6vvqtyt1.jpg?v=2",
+   "link": "https://epitoanyag.hu/hikoki-proline-jm10-szurofureszlap-femhez-91512-mm-5-db-pSElLLTc1MDAzOA_eq2",
+   "ar": "1 840 Ft",
    "akcios_ar": "",
-   "marka": "ÚjHáz"
+   "marka": "Hikoki"
+  },
+  {
+   "id": "EIN-49491005",
+   "nev": "Einhell csiszolórács készlet falcsiszolóhoz, 5 részes",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/ein-49491005_8376tq3h.png?v=2",
+   "link": "https://epitoanyag.hu/einhell-csiszoloracs-keszlet-falcsiszolohoz-5-reszes-pRUlOLTQ5NDkxMDA1",
+   "ar": "2 180 Ft",
+   "akcios_ar": "",
+   "marka": "Einhell"
+  },
+  {
+   "id": "EIN-4513927",
+   "nev": "Einhell TC-CD 18/35 Li-Solo fúró-csavarozó",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/ein-4513927-3_scpgwejn.jpg?v=2",
+   "link": "https://epitoanyag.hu/einhell-tc-cd-1835-li-solo-furo-csavarozo-pRUlOLTQ1MTM5Mjc_eq1",
+   "ar": "13 210 Ft",
+   "akcios_ar": "",
+   "marka": "Einhell"
+  },
+  {
+   "id": "EIN-4431140",
+   "nev": "Einhell Axxio TE-AG 18 Li-Solo sarokcsiszoló 125 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/ein-4431140_sm7kw57a.jpg?v=2",
+   "link": "https://epitoanyag.hu/einhell-axxio-te-ag-18-li-solo-sarokcsiszolo-125-mm-pRUlOLTQ0MzExNDA_eq1",
+   "ar": "33 035 Ft",
+   "akcios_ar": "",
+   "marka": "Einhell"
   },
   {
    "id": "EIN-4511489",
@@ -25,94 +52,67 @@
    "marka": "Einhell"
   },
   {
-   "id": "GAR-09014-29",
-   "nev": "Gardena Basic Plus 3700/4 kerti szivattyú",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/gar-09014-29-1_a47yu8sg.png?v=2",
-   "link": "https://epitoanyag.hu/gardena-basic-plus-37004-kerti-szivattyu-pR0FSLTA5MDE0LTI5",
-   "ar": "45 510 Ft",
-   "akcios_ar": "",
-   "marka": "Gardena"
-  },
-  {
-   "id": "HIK-335790",
-   "nev": "Hikoki BSL1850 akkumulátor 18V 5Ah",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-hik-378683_rca2e1b6.jpg?v=2",
-   "link": "https://epitoanyag.hu/hikoki-bsl1850-akkumulator-18v-5ah-pSElLLTMzNTc5MA_eq2",
-   "ar": "39 620 Ft",
+   "id": "HIK-ASB2512L00",
+   "nev": "Hikoki Carat AMB2510 magfúrógép, S2300 állvánnyal",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/hik-asb2512l00_0bsanhb6.jpg?v=2",
+   "link": "https://epitoanyag.hu/hikoki-carat-amb2510-magfurogep-s2300-allvannyal-pSElLLUFTQjI1MTJMMDA_eq1",
+   "ar": "959 900 Ft",
    "akcios_ar": "",
    "marka": "Hikoki"
   },
   {
-   "id": "UH-656023",
-   "nev": "Mapei Mapelevel EasyWDG Kit lapszintező csomag",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-656023_hv6am163.png?v=2",
-   "link": "https://epitoanyag.hu/mapei-mapelevel-easywdg-kit-lapszintezo-csomag-pVUgtNjU2MDIz",
-   "ar": "15 455 Ft",
+   "id": "EIN-4310614",
+   "nev": "Einhell MSS 1608 gérvágó állvány",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/ein-4310614_2ufihtdn.jpg?v=2",
+   "link": "https://epitoanyag.hu/einhell-mss-1608-gervago-allvany-pRUlOLTQzMTA2MTQ_eq1",
+   "ar": "32 750 Ft",
    "akcios_ar": "",
-   "marka": "Mapei"
+   "marka": "Einhell"
   },
   {
-   "id": "MES-O4SZH1585",
-   "nev": "Mester Szitahüvely 15x85",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-mes-o4szh1280_0mgbjixb.png?v=2",
-   "link": "https://epitoanyag.hu/mester-szitahuvely-15x85-pTUVTLU80U1pIMTU4NQ_eq2",
-   "ar": "100 Ft",
+   "id": "EIN-4174230",
+   "nev": "Einhell elektronikus átfolyáskapcsoló",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/ein-4174230_bkh4w4n8.jpg?v=2",
+   "link": "https://epitoanyag.hu/einhell-elektronikus-atfolyaskapcsolo-pRUlOLTQxNzQyMzA_eq1",
+   "ar": "25 440 Ft",
    "akcios_ar": "",
-   "marka": "Mester"
+   "marka": "Einhell"
   },
   {
-   "id": "MWK-4932498312",
-   "nev": "Milwaukee  fej nélküli finiselő szeg szegbelövőhöz, galvanizált, 1,6x25 mm, 0°, SC1, 5000 db",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4932498312_p4tn7x3h.jpg?v=2",
-   "link": "https://epitoanyag.hu/milwaukee-fej-nelkuli-finiselo-szeg-szegbelovohoz-galvanizalt-16x25-mm-0-sc1-5000-db-pTVdLLTQ5MzI0OTgzMTI_eq1",
-   "ar": "8 150 Ft",
+   "id": "EIN-4259930",
+   "nev": "Einhell TC-DW 225 falcsiszoló 225 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/ein-4259930_76o4g4qu.jpg?v=2",
+   "link": "https://epitoanyag.hu/einhell-tc-dw-225-falcsiszolo-225-mm-pRUlOLTQyNTk5MzA_eq1",
+   "ar": "58 640 Ft",
+   "akcios_ar": "",
+   "marka": "Einhell"
+  },
+  {
+   "id": "MWK-4933464223",
+   "nev": "Milwaukee M18FCHS-121 láncfűrész 40 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4933464223_erib844k.jpg?v=2",
+   "link": "https://epitoanyag.hu/milwaukee-m18fchs-121-lancfuresz-40-cm-pTVdLLTQ5MzM0NjQyMjM_eq1",
+   "ar": "228 000 Ft",
    "akcios_ar": "",
    "marka": "Milwaukee"
   },
   {
-   "id": "UH-054439",
-   "nev": "Sola alumínium vízmérték, 80 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-054439_bbd9vsk2.png?v=2",
-   "link": "https://epitoanyag.hu/sola-aluminium-vizmertek-80-cm-pVUgtMDU0NDM5",
-   "ar": "6 730 Ft",
+   "id": "MWK-4933493294",
+   "nev": "Milwaukee M18 FHET45-802 sövényvágó 45 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4933493294-1_ygsxq2md.jpg?v=2",
+   "link": "https://epitoanyag.hu/milwaukee-m18-fhet45-802-sovenyvago-45-cm-pTVdLLTQ5MzM0OTMyOTQ_eq1",
+   "ar": "204 000 Ft",
    "akcios_ar": "",
-   "marka": "Sola"
+   "marka": "Milwaukee"
   },
   {
-   "id": "UH-780927",
-   "nev": "Stalco Garden pumpás permetező 5 l",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-780927_p68idtwa.jpg?v=1",
-   "link": "https://epitoanyag.hu/stalco-garden-pumpas-permetezo-5-l-pVUgtNzgwOTI3",
-   "ar": "5 325 Ft",
+   "id": "HIK-CR18DBLBASIC",
+   "nev": "Hikoki CR18DBL-BASIC akkumulátoros orrfűrész",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/hik-cr18dblbasic_y3t7qdlc.jpg?v=2",
+   "link": "https://epitoanyag.hu/hikoki-cr18dbl-basic-akkumulatoros-orrfuresz-pSElLLUNSMThEQkxCQVNJQw_eq2",
+   "ar": "64 180 Ft",
    "akcios_ar": "",
-   "marka": "Stalco"
-  },
-  {
-   "id": "UH-735099",
-   "nev": "Stanley bitfej PH2 25 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-735099_hnpqc911.jpg?v=2",
-   "link": "https://epitoanyag.hu/stanley-bitfej-ph2-25-mm-pVUgtNzM1MDk5",
-   "ar": "335 Ft",
-   "akcios_ar": "",
-   "marka": "Stanley"
-  },
-  {
-   "id": "UH-230057",
-   "nev": "Acél fugakanál, 10 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-230057_wp466yb4.png?v=2",
-   "link": "https://epitoanyag.hu/acel-fugakanal-10-mm-pVUgtMjMwMDU3",
-   "ar": "790 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
-  },
-  {
-   "id": "UH-185178",
-   "nev": "Rozsdamentes olasz kőműves kanál 16 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-185178_v1951gcs.png?v=2",
-   "link": "https://epitoanyag.hu/rozsdamentes-olasz-komuves-kanal-16-cm-pVUgtMTg1MTc4",
-   "ar": "1 330 Ft",
-   "akcios_ar": "",
-   "marka": "ÚjHáz"
+   "marka": "Hikoki"
   }
  ]
 }

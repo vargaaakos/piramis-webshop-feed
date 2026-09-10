@@ -1,5 +1,5 @@
 {
- "feed_frissitve": "Thu, 10 Sep 2026 07:50:15 GMT",
+ "feed_frissitve": "Thu, 10 Sep 2026 10:50:14 GMT",
  "termek_osszesen": 23877,
  "kategoriak": [
   {
@@ -41,7 +41,7 @@
    "kategoria": "Szerszám, szerszámgép",
    "fokategoria": "Barkács",
    "slug": "szerszam-szerszamgep",
-   "osszes": 735,
+   "osszes": 734,
    "kirakva": 12
   },
   {
@@ -314,7 +314,7 @@
    "kategoria": "Vakolat, csemperagasztó, habarcs, cement, szilikon",
    "fokategoria": "Építőanyag",
    "slug": "vakolat-csemperagaszto-habarcs-cement-szilikon",
-   "osszes": 13672,
+   "osszes": 13673,
    "kirakva": 12
   },
   {

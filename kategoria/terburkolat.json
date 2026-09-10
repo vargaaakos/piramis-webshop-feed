@@ -2,19 +2,10 @@
  "kategoria": "Térburkolat",
  "fokategoria": "Kert",
  "slug": "terburkolat",
- "feed_frissitve": "Thu, 10 Sep 2026 07:50:15 GMT",
+ "feed_frissitve": "Thu, 10 Sep 2026 10:50:14 GMT",
  "osszes_termek": 1017,
  "raktaron": 108,
  "termekek": [
-  {
-   "id": "UH-810982",
-   "nev": "AV Costarica műfű, 4 m tekercsszélesség",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-810982_hr5umxwg.png?v=1",
-   "link": "https://epitoanyag.hu/av-costarica-mufu-4-m-tekercsszelesseg-pVUgtODEwOTgy",
-   "ar": "31 300 Ft",
-   "akcios_ar": "27 980 Ft",
-   "marka": "ÚjHáz"
-  },
   {
    "id": "UH-002954",
    "nev": "ABeton Balaton térkő normálkő őszilomb 12x24x6 cm",
@@ -25,6 +16,42 @@
    "marka": "ABeton"
   },
   {
+   "id": "BETV-KSZEG",
+   "nev": "BetonLM K-szegély szürke 25x25x15/10 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/k-01_8neg39fa.jpg?v=2",
+   "link": "https://epitoanyag.hu/betonlm-k-szegely-szurke-25x25x1510-cm-pQkVUVi1LU1pFRw_eq2",
+   "ar": "645 Ft",
+   "akcios_ar": "",
+   "marka": "BetonLM 2000"
+  },
+  {
+   "id": "SO008",
+   "nev": "Pilisi murva 5-12 mm, 25 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/kerti-murva_h2w6f2pa.jpg?v=3",
+   "link": "https://epitoanyag.hu/pilisi-murva-5-12-mm-25-kg-pU08wMDg_eq1",
+   "ar": "2 600 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "RF04050503",
+   "nev": "ReFlex esésvédő gumilap 4x50x50 cm, szürke",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/rf04050503-2_ek49lkeg.jpg?v=2",
+   "link": "https://epitoanyag.hu/reflex-esesvedo-gumilap-4x50x50-cm-szurke-pUkYwNDA1MDUwMw_eq2",
+   "ar": "2 750 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-810982",
+   "nev": "AV Costarica műfű, 4 m tekercsszélesség",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-810982_hr5umxwg.png?v=1",
+   "link": "https://epitoanyag.hu/av-costarica-mufu-4-m-tekercsszelesseg-pVUgtODEwOTgy",
+   "ar": "31 300 Ft",
+   "akcios_ar": "27 980 Ft",
+   "marka": "ÚjHáz"
+  },
+  {
    "id": "UH-233550",
    "nev": "Bergdeck WPC alátétszerkezet natúr felület, barna, 2,4 m",
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/barna-alatet_s42c7miz.png?v=2",
@@ -32,6 +59,15 @@
    "ar": "6 120 Ft",
    "akcios_ar": "",
    "marka": "Bergdeck"
+  },
+  {
+   "id": "BETEJGYÖNGYK40*40*5",
+   "nev": "EPAG gyöngykavicsos járdalap 40x40x5 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/betejgyongyk40405_acntx75l.jpg?v=2",
+   "link": "https://epitoanyag.hu/epag-gyongykavicsos-jardalap-40x40x5-cm-pQkVURUpHWcOWTkdZSzQwKjQwKjU_eq1",
+   "ar": "1 760 Ft",
+   "akcios_ar": "",
+   "marka": "betonEPAG"
   },
   {
    "id": "BETV-GYEPR40",
@@ -52,15 +88,6 @@
    "marka": "Cemix"
   },
   {
-   "id": "BETEJGYÖNGYK40*40*5",
-   "nev": "EPAG gyöngykavicsos járdalap 40x40x5 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/betejgyongyk40405_acntx75l.jpg?v=2",
-   "link": "https://epitoanyag.hu/epag-gyongykavicsos-jardalap-40x40x5-cm-pQkVURUpHWcOWTkdZSzQwKjQwKjU_eq1",
-   "ar": "1 760 Ft",
-   "akcios_ar": "",
-   "marka": "betonEPAG"
-  },
-  {
    "id": "UH-186740",
    "nev": "KK Kavics  süllyesztett szegélykő 15x40x20 cm",
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-530442_k4oej4s8.png?v=2",
@@ -68,15 +95,6 @@
    "ar": "1 170 Ft",
    "akcios_ar": "",
    "marka": "KK Kavics Beton"
-  },
-  {
-   "id": "UH-197420",
-   "nev": "Leier Euroline finommosott lap Prága 40x40x3,8 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-640059_2pzr0a03.png?v=1",
-   "link": "https://epitoanyag.hu/leier-euroline-finommosott-lap-praga-40x40x38-cm-pVUgtMTk3NDIw",
-   "ar": "1 390 Ft",
-   "akcios_ar": "",
-   "marka": "Leier"
   },
   {
    "id": "UH-760898",
@@ -88,29 +106,11 @@
    "marka": "Scherf"
   },
   {
-   "id": "UH-101900",
-   "nev": "Semmelrock Appia Antica térkő \"B\" kő antikolt lávaszürke melírozott 15x19,2x8 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/semmelrock-appia-antica-antikolt-terko-lavaszurke_37shwv97.jpg?v=2",
-   "link": "https://epitoanyag.hu/semmelrock-appia-antica-terko-b-ko-antikolt-lavaszurke-melirozott-15x192x8-cm-pVUgtMTAxOTAw",
-   "ar": "470 Ft",
-   "akcios_ar": "",
-   "marka": "Wienerberger - Semmelrock"
-  },
-  {
-   "id": "UH-551144",
-   "nev": "SW Térkő Dobogókő szürke 20x20x4 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-551144_2gir0j80.png?v=2",
-   "link": "https://epitoanyag.hu/sw-terko-dobogoko-szurke-20x20x4-cm-pVUgtNTUxMTQ0",
-   "ar": "6 072 Ft",
-   "akcios_ar": "",
-   "marka": "SW Umwelttechnik"
-  },
-  {
-   "id": "BF-ELITE/4",
-   "nev": "Béta-Floor Elite műfű, 4 m tekercsszélesség",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/bf-elite4_agmp5l9n.png?v=2",
-   "link": "https://epitoanyag.hu/beta-floor-elite-mufu-4-m-tekercsszelesseg-pQkYtRUxJVEUvNA_eq2",
-   "ar": "38 720 Ft",
+   "id": "RF04050501",
+   "nev": "ReFlex esésvédő gumilap 4x50x50 cm, vörös",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/rf04050501-2_71mon0v7.png?v=2",
+   "link": "https://epitoanyag.hu/reflex-esesvedo-gumilap-4x50x50-cm-voros-pUkYwNDA1MDUwMQ_eq2",
+   "ar": "2 840 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   }

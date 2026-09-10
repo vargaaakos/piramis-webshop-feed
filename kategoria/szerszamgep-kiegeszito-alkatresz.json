@@ -2,28 +2,10 @@
  "kategoria": "Szerszámgép kiegészítő alkatrész",
  "fokategoria": "Barkács",
  "slug": "szerszamgep-kiegeszito-alkatresz",
- "feed_frissitve": "Thu, 10 Sep 2026 07:50:15 GMT",
+ "feed_frissitve": "Thu, 10 Sep 2026 10:50:14 GMT",
  "osszes_termek": 11,
  "raktaron": 11,
  "termekek": [
-  {
-   "id": "UH-405662",
-   "nev": "Makita gyémánttárcsa folyamatos élű 110 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-405662_20eo80zz.png?v=2",
-   "link": "https://epitoanyag.hu/makita-gyemanttarcsa-folyamatos-elu-110-mm-pVUgtNDA1NjYy",
-   "ar": "2 460 Ft",
-   "akcios_ar": "",
-   "marka": "Makita"
-  },
-  {
-   "id": "UH-493018",
-   "nev": "Vágótárcsa fémhez 1,9x230 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-493018_df7k8c16.jpg?v=2",
-   "link": "https://epitoanyag.hu/vagotarcsa-femhez-19x230-mm-pVUgtNDkzMDE4",
-   "ar": "750 Ft",
-   "akcios_ar": "",
-   "marka": "Hikoki"
-  },
   {
    "id": "UH-229890",
    "nev": "Csempelyukfúró készlet",
@@ -32,6 +14,24 @@
    "ar": "3 500 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
+  },
+  {
+   "id": "UH-230060",
+   "nev": "Fugakaparó tartalék penge vídiás",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-230060_pahe40n7.png?v=2",
+   "link": "https://epitoanyag.hu/fugakaparo-tartalek-penge-vidias-pVUgtMjMwMDYw",
+   "ar": "590 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-405662",
+   "nev": "Makita gyémánttárcsa folyamatos élű 110 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-405662_20eo80zz.png?v=2",
+   "link": "https://epitoanyag.hu/makita-gyemanttarcsa-folyamatos-elu-110-mm-pVUgtNDA1NjYy",
+   "ar": "2 460 Ft",
+   "akcios_ar": "",
+   "marka": "Makita"
   },
   {
    "id": "UH-250300",
@@ -43,20 +43,11 @@
    "marka": "Makita"
   },
   {
-   "id": "UH-493017",
-   "nev": "Vágótárcsa fémhez 1x125 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-493018_gco2xjdp.jpg?v=2",
-   "link": "https://epitoanyag.hu/vagotarcsa-femhez-1x125-mm-pVUgtNDkzMDE3",
-   "ar": "380 Ft",
-   "akcios_ar": "",
-   "marka": "Hikoki"
-  },
-  {
-   "id": "UH-230060",
-   "nev": "Fugakaparó tartalék penge vídiás",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-230060_pahe40n7.png?v=2",
-   "link": "https://epitoanyag.hu/fugakaparo-tartalek-penge-vidias-pVUgtMjMwMDYw",
-   "ar": "590 Ft",
+   "id": "UH-492950",
+   "nev": "Gyémántfúró sarokcsiszolóhoz M14-es menettel, 35 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-492950-masolata-masolata-2_sxsq2y77.png?v=2",
+   "link": "https://epitoanyag.hu/gyemantfuro-sarokcsiszolohoz-m14-es-menettel-35-mm-pVUgtNDkyOTUw",
+   "ar": "9 370 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   },
@@ -70,13 +61,22 @@
    "marka": "Makita"
   },
   {
-   "id": "UH-492950",
-   "nev": "Gyémántfúró sarokcsiszolóhoz M14-es menettel, 35 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-492950-masolata-masolata-2_sxsq2y77.png?v=2",
-   "link": "https://epitoanyag.hu/gyemantfuro-sarokcsiszolohoz-m14-es-menettel-35-mm-pVUgtNDkyOTUw",
-   "ar": "9 370 Ft",
+   "id": "UH-493018",
+   "nev": "Vágótárcsa fémhez 1,9x230 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-493018_df7k8c16.jpg?v=2",
+   "link": "https://epitoanyag.hu/vagotarcsa-femhez-19x230-mm-pVUgtNDkzMDE4",
+   "ar": "750 Ft",
    "akcios_ar": "",
-   "marka": "Egyéb"
+   "marka": "Hikoki"
+  },
+  {
+   "id": "UH-493017",
+   "nev": "Vágótárcsa fémhez 1x125 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-493018_gco2xjdp.jpg?v=2",
+   "link": "https://epitoanyag.hu/vagotarcsa-femhez-1x125-mm-pVUgtNDkzMDE3",
+   "ar": "380 Ft",
+   "akcios_ar": "",
+   "marka": "Hikoki"
   },
   {
    "id": "UH-528612",

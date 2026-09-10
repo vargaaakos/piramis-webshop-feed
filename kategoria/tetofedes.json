@@ -2,54 +2,27 @@
  "kategoria": "Tetőfedés",
  "fokategoria": "Építőanyag",
  "slug": "tetofedes",
- "feed_frissitve": "Thu, 10 Sep 2026 07:50:15 GMT",
+ "feed_frissitve": "Thu, 10 Sep 2026 10:50:14 GMT",
  "osszes_termek": 3293,
  "raktaron": 441,
  "termekek": [
   {
-   "id": "UH-033763",
-   "nev": "Bramac acél lépcsőfok barna 25x41,5 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-033763_lbacevg2.jpg?v=2",
-   "link": "https://epitoanyag.hu/bramac-acel-lepcsofok-barna-25x415-cm-pVUgtMDMzNzYz",
-   "ar": "16 660 Ft",
+   "id": "ECX-BB-LS4-BD70",
+   "nev": "B-Bariyer BD-70 páraáteresztő fólia 1,6x100 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/bd70_1u6x4tza.png?v=1",
+   "link": "https://epitoanyag.hu/b-bariyer-bd-70-paraatereszto-folia-16x100-m-pRUNYLUJCLUxTNC1CRDcw",
+   "ar": "16 000 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-033055",
+   "nev": "Bramac Római Novo alapcserép rubinvörös",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-033055-1_rvboshkz.jpg?v=2",
+   "link": "https://epitoanyag.hu/bramac-romai-novo-alapcserep-rubinvoros-pVUgtMDMzMDU1",
+   "ar": "22 000 Ft",
    "akcios_ar": "",
    "marka": "BMI Bramac"
-  },
-  {
-   "id": "UH-690728",
-   "nev": "Bádogelem ereszszegély alu RAL7016 antracit 2 m",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-690728_j8ubxhjy.jpg?v=2",
-   "link": "https://epitoanyag.hu/badogelem-ereszszegely-alu-ral7016-antracit-2-m-pVUgtNjkwNzI4",
-   "ar": "5 185 Ft",
-   "akcios_ar": "",
-   "marka": "TT"
-  },
-  {
-   "id": "CF265520-E-2000-3016",
-   "nev": "Colorferr alumínium 20 ereszszegély RAL 3016 téglavörös 2 fm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-cf265520-e-3016_ue0u11zf.png?v=1",
-   "link": "https://epitoanyag.hu/colorferr-aluminium-20-ereszszegely-ral-3016-teglavoros-2-fm-pQ0YyNjU1MjAtRS0yMDAwLTMwMTY_eq1",
-   "ar": "3 060 Ft",
-   "akcios_ar": "",
-   "marka": "Colorferr"
-  },
-  {
-   "id": "UH-629210",
-   "nev": "Dachler Alu-Flex Plus 3D kémény- és falszegély barna 30 cm x 5 m",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-629210_qnl3bf8n.jpg?v=2",
-   "link": "https://epitoanyag.hu/dachler-alu-flex-plus-3d-kemeny-es-falszegely-barna-30-cm-x-5-m-pVUgtNjI5MjEw",
-   "ar": "10 810 Ft",
-   "akcios_ar": "",
-   "marka": "Dachler"
-  },
-  {
-   "id": "UH-267641",
-   "nev": "Dörken Delta Dawi GP légzáró és párafékező fólia 2x50 m",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-267641-2_eytcpkjc.png?v=2",
-   "link": "https://epitoanyag.hu/dorken-delta-dawi-gp-legzaro-es-parafekezo-folia-2x50-m-pVUgtMjY3NjQx",
-   "ar": "65 500 Ft",
-   "akcios_ar": "",
-   "marka": "Dörken"
   },
   {
    "id": "UH-527352",
@@ -61,58 +34,85 @@
    "marka": "Gutta"
   },
   {
-   "id": "UH-727163",
-   "nev": "Isover Vario DoubleFit tömítőanyag 310 ml",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-727163_y86m3wji.jpg?v=2",
-   "link": "https://epitoanyag.hu/isover-vario-doublefit-tomitoanyag-310-ml-pVUgtNzI3MTYz",
-   "ar": "4 950 Ft",
+   "id": "UH-344833",
+   "nev": "Bramac Therm ragasztószalag",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-033409_3k1msi6t.jfif?v=2",
+   "link": "https://epitoanyag.hu/bramac-therm-ragasztoszalag-pVUgtMzQ0ODMz",
+   "ar": "39 500 Ft",
    "akcios_ar": "",
-   "marka": "Isover"
+   "marka": "BMI Bramac"
   },
   {
-   "id": "UH-320460",
-   "nev": "Klöber antennakivezető elem 22-70 mm barna",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-320460_txkojvnc.jpg?v=2",
-   "link": "https://epitoanyag.hu/klober-antennakivezeto-elem-22-70-mm-barna-pVUgtMzIwNDYw",
-   "ar": "9 180 Ft",
+   "id": "UH-267641",
+   "nev": "Dörken Delta Dawi GP légzáró és párafékező fólia 2x50 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-267641-2_eytcpkjc.png?v=2",
+   "link": "https://epitoanyag.hu/dorken-delta-dawi-gp-legzaro-es-parafekezo-folia-2x50-m-pVUgtMjY3NjQx",
+   "ar": "65 500 Ft",
    "akcios_ar": "",
-   "marka": "Klöber"
+   "marka": "Dörken"
   },
   {
-   "id": "UH-644071",
-   "nev": "Leier cseréprögzítő csavar antracit",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/leier-csereprogzito-csavar-antracit_e3xe144b.jpg?v=1",
-   "link": "https://epitoanyag.hu/leier-csereprogzito-csavar-antracit-pVUgtNjQ0MDcx",
-   "ar": "390 Ft",
+   "id": "UH-640206",
+   "nev": "Leier Granite alapcserép Classic fekete",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-640206_czr1lhal.png?v=2",
+   "link": "https://epitoanyag.hu/leier-granite-alapcserep-classic-fekete-pVUgtNjQwMjA2",
+   "ar": "2 600 Ft",
    "akcios_ar": "",
    "marka": "Leier"
   },
   {
-   "id": "UH-089235",
-   "nev": "Mapei Mapeflex Blackfill bitumenes hézagkitöltő 300 ml",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-089235_pq6o3hxi.png?v=2",
-   "link": "https://epitoanyag.hu/mapei-mapeflex-blackfill-bitumenes-hezagkitolto-300-ml-pVUgtMDg5MjM1",
-   "ar": "5 420 Ft",
+   "id": "UH-497943",
+   "nev": "Gutta Eco Hobby téglány zsindely barna",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-733149_t8govb2d.jpg?v=1",
+   "link": "https://epitoanyag.hu/gutta-eco-hobby-teglany-zsindely-barna-pVUgtNDk3OTQz",
+   "ar": "10 080 Ft",
    "akcios_ar": "",
-   "marka": "Mapei"
+   "marka": "Gutta"
   },
   {
-   "id": "UH-728296",
-   "nev": "Masterplast Linopore RX 3000 páraáteresztő tetőfólia 75 m2",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-728296_nditekyf.png?v=2",
-   "link": "https://epitoanyag.hu/masterplast-linopore-rx-3000-paraatereszto-tetofolia-75-m2-pVUgtNzI4Mjk2",
-   "ar": "22 125 Ft",
+   "id": "ECX-BB-LW-BK45",
+   "nev": "B-Bariyer BK-45 párazáró fólia 1,6x100 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/bk45_t14jtalz.png?v=1",
+   "link": "https://epitoanyag.hu/b-bariyer-bk-45-parazaro-folia-16x100-m-pRUNYLUJCLUxXLUJLNDU_eq1",
+   "ar": "12 800 Ft",
    "akcios_ar": "",
-   "marka": "Masterplast"
+   "marka": "Egyéb"
   },
   {
-   "id": "UH-107184",
-   "nev": "Soudal zsindelyragasztó 280 ml",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-107184_8ex3f95v.png?v=2",
-   "link": "https://epitoanyag.hu/soudal-zsindelyragaszto-280-ml-pVUgtMTA3MTg0",
-   "ar": "1 700 Ft",
+   "id": "UH-391992",
+   "nev": "swissporTON Ambiente egyenesvágású alapcserép natúrvörös",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-391992-1_t76vjqoh.jpg?v=2",
+   "link": "https://epitoanyag.hu/swissporton-ambiente-egyenesvagasu-alapcserep-naturvoros-pVUgtMzkxOTky",
+   "ar": "46 400 Ft",
    "akcios_ar": "",
-   "marka": "Soudal"
+   "marka": "swissporTON"
+  },
+  {
+   "id": "UH-497942",
+   "nev": "Gutta Eco Hobby téglány zsindely zöld",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-737011_v1s93mx5.png?v=1",
+   "link": "https://epitoanyag.hu/gutta-eco-hobby-teglany-zsindely-zold-pVUgtNDk3OTQy",
+   "ar": "10 080 Ft",
+   "akcios_ar": "",
+   "marka": "Gutta"
+  },
+  {
+   "id": "UH-659448",
+   "nev": "Dörken Delta Liquixx GT10 flíz 10 cm x 20 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-659448_ijk80pmq.png?v=2",
+   "link": "https://epitoanyag.hu/dorken-delta-liquixx-gt10-fliz-10-cm-x-20-m-pVUgtNjU5NDQ4",
+   "ar": "3 835 Ft",
+   "akcios_ar": "",
+   "marka": "Dörken"
+  },
+  {
+   "id": "UH-420084",
+   "nev": "Leier Toscana alapcserép Basic terra",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-420084_b2p5bh36.jpg?v=2",
+   "link": "https://epitoanyag.hu/leier-toscana-alapcserep-basic-terra-pVUgtNDIwMDg0",
+   "ar": "2 100 Ft",
+   "akcios_ar": "",
+   "marka": "Leier"
   }
  ]
 }

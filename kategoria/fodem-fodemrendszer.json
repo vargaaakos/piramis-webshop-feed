@@ -2,18 +2,18 @@
  "kategoria": "Födém, födémrendszer",
  "fokategoria": "Építőanyag",
  "slug": "fodem-fodemrendszer",
- "feed_frissitve": "Thu, 10 Sep 2026 07:50:15 GMT",
+ "feed_frissitve": "Thu, 10 Sep 2026 10:50:14 GMT",
  "osszes_termek": 37,
  "raktaron": 34,
  "termekek": [
   {
-   "id": "BETV-EB6019",
-   "nev": "BetonLM béléstest 25x52x20 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/betveb601925_0vvlv7yv.jpg?v=2",
-   "link": "https://epitoanyag.hu/betonlm-belestest-25x52x20-cm-pQkVUVi1FQjYwMTk_eq1",
-   "ar": "640 Ft",
+   "id": "UH-100171",
+   "nev": "Wienerberger Porotherm födémgerenda 2,5 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-100171_lezh9bp9.jpg?v=2",
+   "link": "https://epitoanyag.hu/wienerberger-porotherm-fodemgerenda-25-m-pVUgtMTAwMTcx",
+   "ar": "9 900 Ft",
    "akcios_ar": "",
-   "marka": "BetonLM 2000"
+   "marka": "Wienerberger"
   },
   {
    "id": "UH-106585",
@@ -25,29 +25,20 @@
    "marka": "Ferrobeton"
   },
   {
-   "id": "UH-831739",
-   "nev": "Porotherm 45/10 béléstest",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-porotherm-45-10-balastest_prfq94ar.jpg?v=2",
-   "link": "https://epitoanyag.hu/porotherm-4510-belestest-pVUgtODMxNzM5",
-   "ar": "785 Ft",
+   "id": "BETV-EB6019",
+   "nev": "BetonLM béléstest 25x52x20 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/betveb601925_0vvlv7yv.jpg?v=2",
+   "link": "https://epitoanyag.hu/betonlm-belestest-25x52x20-cm-pQkVUVi1FQjYwMTk_eq1",
+   "ar": "640 Ft",
    "akcios_ar": "",
-   "marka": "Wienerberger"
+   "marka": "BetonLM 2000"
   },
   {
-   "id": "UH-123763",
-   "nev": "SW béléstest 25x51x19 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-123763_xtu8rmtx.jpg?v=2",
-   "link": "https://epitoanyag.hu/sw-belestest-25x51x19-cm-pVUgtMTIzNzYz",
-   "ar": "1 040 Ft",
-   "akcios_ar": "",
-   "marka": "SW"
-  },
-  {
-   "id": "UH-831737",
-   "nev": "Porotherm 45/17 béléstest",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-100193_ivln5na2.jpg?v=2",
-   "link": "https://epitoanyag.hu/porotherm-4517-belestest-pVUgtODMxNzM3",
-   "ar": "700 Ft",
+   "id": "UH-100172",
+   "nev": "Wienerberger Porotherm födémgerenda 2,75 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-100172_7jm29ny3.jpg?v=2",
+   "link": "https://epitoanyag.hu/wienerberger-porotherm-fodemgerenda-275-m-pVUgtMTAwMTcy",
+   "ar": "10 900 Ft",
    "akcios_ar": "",
    "marka": "Wienerberger"
   },
@@ -61,11 +52,20 @@
    "marka": "SW"
   },
   {
-   "id": "UH-831738",
-   "nev": "Porotherm 60/10 béléstest",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-porotherm-60-10-balastest-1_0j4is74d.jpg?v=2",
-   "link": "https://epitoanyag.hu/porotherm-6010-belestest-pVUgtODMxNzM4",
-   "ar": "1 070 Ft",
+   "id": "UH-831739",
+   "nev": "Porotherm 45/10 béléstest",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-porotherm-45-10-balastest_prfq94ar.jpg?v=2",
+   "link": "https://epitoanyag.hu/porotherm-4510-belestest-pVUgtODMxNzM5",
+   "ar": "785 Ft",
+   "akcios_ar": "",
+   "marka": "Wienerberger"
+  },
+  {
+   "id": "UH-100173",
+   "nev": "Wienerberger Porotherm födémgerenda 3 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-100173_3cdba1ow.jpg?v=2",
+   "link": "https://epitoanyag.hu/wienerberger-porotherm-fodemgerenda-3-m-pVUgtMTAwMTcz",
+   "ar": "11 900 Ft",
    "akcios_ar": "",
    "marka": "Wienerberger"
   },
@@ -79,11 +79,20 @@
    "marka": "SW"
   },
   {
-   "id": "UH-831736",
-   "nev": "Porotherm 60/17 béléstest",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-100191_p1hcuek1.jpg?v=2",
-   "link": "https://epitoanyag.hu/porotherm-6017-belestest-pVUgtODMxNzM2",
-   "ar": "850 Ft",
+   "id": "UH-123763",
+   "nev": "SW béléstest 25x51x19 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-123763_xtu8rmtx.jpg?v=2",
+   "link": "https://epitoanyag.hu/sw-belestest-25x51x19-cm-pVUgtMTIzNzYz",
+   "ar": "1 040 Ft",
+   "akcios_ar": "",
+   "marka": "SW"
+  },
+  {
+   "id": "UH-100174",
+   "nev": "Wienerberger Porotherm födémgerenda 3,25 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-100174_zegdkcu2.jpg?v=2",
+   "link": "https://epitoanyag.hu/wienerberger-porotherm-fodemgerenda-325-m-pVUgtMTAwMTc0",
+   "ar": "12 900 Ft",
    "akcios_ar": "",
    "marka": "Wienerberger"
   },
@@ -97,22 +106,13 @@
    "marka": "SW"
   },
   {
-   "id": "UH-100171",
-   "nev": "Wienerberger Porotherm födémgerenda 2,5 m",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-100171_lezh9bp9.jpg?v=2",
-   "link": "https://epitoanyag.hu/wienerberger-porotherm-fodemgerenda-25-m-pVUgtMTAwMTcx",
-   "ar": "9 900 Ft",
+   "id": "UH-831737",
+   "nev": "Porotherm 45/17 béléstest",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-100193_ivln5na2.jpg?v=2",
+   "link": "https://epitoanyag.hu/porotherm-4517-belestest-pVUgtODMxNzM3",
+   "ar": "700 Ft",
    "akcios_ar": "",
    "marka": "Wienerberger"
-  },
-  {
-   "id": "UH-124149",
-   "nev": "SW Umwelttechnik födémgerenda EU-42, 4,4 m",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-124149_ks0lt1ff.jpg?v=2",
-   "link": "https://epitoanyag.hu/sw-umwelttechnik-fodemgerenda-eu-42-44-m-pVUgtMTI0MTQ5",
-   "ar": "27 170 Ft",
-   "akcios_ar": "",
-   "marka": "SW"
   }
  ]
 }

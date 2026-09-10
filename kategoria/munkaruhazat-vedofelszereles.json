@@ -2,7 +2,7 @@
  "kategoria": "Munkaruházat, védőfelszerelés",
  "fokategoria": "Barkács",
  "slug": "munkaruhazat-vedofelszereles",
- "feed_frissitve": "Thu, 10 Sep 2026 07:50:15 GMT",
+ "feed_frissitve": "Thu, 10 Sep 2026 10:50:14 GMT",
  "osszes_termek": 187,
  "raktaron": 186,
  "termekek": [
@@ -16,22 +16,13 @@
    "marka": "Albatros"
   },
   {
-   "id": "MGT-KRA-FA2030002",
-   "nev": "Kratos automatikus csévélésű zuhanásgátló heveder",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mgt-kra-fa2030002_n8oj92t5.jpg?v=2",
-   "link": "https://epitoanyag.hu/kratos-automatikus-csevelesu-zuhanasgatlo-heveder-pTUdULUtSQS1GQTIwMzAwMDI_eq1",
-   "ar": "30 800 Ft",
+   "id": "MWK-4933478081",
+   "nev": "Milwaukee L4HBLB-301 fűthető aláöltöző S",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4933478081-1_j6qz3txb.jpg?v=2",
+   "link": "https://epitoanyag.hu/milwaukee-l4hblb-301-futheto-alaoltozo-s-pTVdLLTQ5MzM0NzgwODE_eq1",
+   "ar": "43 500 Ft",
    "akcios_ar": "",
-   "marka": "Kratos"
-  },
-  {
-   "id": "MGT-LEM-869-36",
-   "nev": "Lemigo Alaska női, rövid szárú EVA-csizma 36",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mgt-lem-869-36-2_poexr3m4.jpg?v=2",
-   "link": "https://epitoanyag.hu/lemigo-alaska-noi-rovid-szaru-eva-csizma-36-pTUdULUxFTS04NjktMzY_eq1",
-   "ar": "6 275 Ft",
-   "akcios_ar": "",
-   "marka": "Lemigo"
+   "marka": "Milwaukee"
   },
   {
    "id": "MWK-4932471615",
@@ -43,22 +34,22 @@
    "marka": "Milwaukee"
   },
   {
-   "id": "MGT-PUM-640542-39 S3",
-   "nev": "Puma Condor Brown Low S3 ESD SRC munkavédelmi cipő 39",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mgt-pum-640542-39-s3_rzn6x4e2.jpg?v=2",
-   "link": "https://epitoanyag.hu/puma-condor-brown-low-s3-esd-src-munkavedelmi-cipo-39-pTUdULVBVTS02NDA1NDItMzkgUzM_eq1",
-   "ar": "35 735 Ft",
+   "id": "MWK-4932471893",
+   "nev": "Milwaukee jólláthatósági mellény, narancssárga L/XL",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4932471893_uhh1l4ty.jpg?v=2",
+   "link": "https://epitoanyag.hu/milwaukee-jollathatosagi-melleny-narancssarga-lxl-pTVdLLTQ5MzI0NzE4OTM_eq1",
+   "ar": "5 200 Ft",
    "akcios_ar": "",
-   "marka": "Puma"
+   "marka": "Milwaukee"
   },
   {
-   "id": "UH-797930",
-   "nev": "Stalco Garden Latex Foam G, mártott kesztyű 8-as",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-797930_udz20tbz.jpg?v=1",
-   "link": "https://epitoanyag.hu/stalco-garden-latex-foam-g-martott-kesztyu-8-as-pVUgtNzk3OTMw",
-   "ar": "655 Ft",
+   "id": "MWK-4932479944",
+   "nev": "Milwaukee Bolt 200 arcvédő pajzs, sötétített",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4932479944_ng8z1bqw.jpg?v=2",
+   "link": "https://epitoanyag.hu/milwaukee-bolt-200-arcvedo-pajzs-sotetitett-pTVdLLTQ5MzI0Nzk5NDQ_eq1",
+   "ar": "14 500 Ft",
    "akcios_ar": "",
-   "marka": "Stalco"
+   "marka": "Milwaukee"
   },
   {
    "id": "UH-285922",
@@ -70,13 +61,22 @@
    "marka": "Egyéb"
   },
   {
-   "id": "MGT-ALB-209100",
-   "nev": "Albatros cipőápoló szett",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mgt-alb-209100_shbfhvis.jpg?v=2",
-   "link": "https://epitoanyag.hu/albatros-cipoapolo-szett-pTUdULUFMQi0yMDkxMDA_eq1",
-   "ar": "6 115 Ft",
+   "id": "MWK-4932498190",
+   "nev": "Milwaukee Freeflex általános munkanadrág fekete 44",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4932498190-2_znxbfge9.jpg?v=2",
+   "link": "https://epitoanyag.hu/milwaukee-freeflex-altalanos-munkanadrag-fekete-44-pTVdLLTQ5MzI0OTgxOTA_eq1",
+   "ar": "35 000 Ft",
    "akcios_ar": "",
-   "marka": "Albatros"
+   "marka": "Milwaukee"
+  },
+  {
+   "id": "MWK-4932478911",
+   "nev": "Milwaukee védőszemüveg bifokális, +2 dioptria, víztiszta",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4932478911-2_mm94stgq.jpg?v=2",
+   "link": "https://epitoanyag.hu/milwaukee-vedoszemuveg-bifokalis-2-dioptria-viztiszta-pTVdLLTQ5MzI0Nzg5MTE_eq1",
+   "ar": "5 190 Ft",
+   "akcios_ar": "",
+   "marka": "Milwaukee"
   },
   {
    "id": "MGT-KRA-FA8000500",
@@ -88,31 +88,31 @@
    "marka": "Kratos"
   },
   {
-   "id": "MGT-LEM-88509-45",
-   "nev": "Lemigo Doctor SRC EVA klumpa fekete 45",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mgt-lem-88509-45_tprb8kep.jpg?v=2",
-   "link": "https://epitoanyag.hu/lemigo-doctor-src-eva-klumpa-fekete-45-pTUdULUxFTS04ODUwOS00NQ_eq2",
-   "ar": "3 115 Ft",
-   "akcios_ar": "",
-   "marka": "Lemigo"
-  },
-  {
-   "id": "MWK-4932471614",
-   "nev": "Milwaukee 1/A vágásbiztos védőkesztyű M/8",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4932471614-1_7re71g76.jpg?v=2",
-   "link": "https://epitoanyag.hu/milwaukee-1a-vagasbiztos-vedokesztyu-m8-pTVdLLTQ5MzI0NzE2MTQ_eq1",
-   "ar": "1 510 Ft",
+   "id": "MWK-4932493359",
+   "nev": "Milwaukee cserélhető, memóriahabos füldugó készlet L4 RLEPB-hez, 5 pár, L",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4932493359_fikiq497.jpg?v=2",
+   "link": "https://epitoanyag.hu/milwaukee-cserelheto-memoriahabos-fuldugo-keszlet-l4-rlepb-hez-5-par-l-pTVdLLTQ5MzI0OTMzNTk_eq1",
+   "ar": "2 500 Ft",
    "akcios_ar": "",
    "marka": "Milwaukee"
   },
   {
-   "id": "MGT-PUM-204510 40",
-   "nev": "Puma Evercushion Plus talpbetét 40",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mgt-pum-204510-40-1_vi8ljlwo.jpg?v=2",
-   "link": "https://epitoanyag.hu/puma-evercushion-plus-talpbetet-40-pTUdULVBVTS0yMDQ1MTAgNDA_eq1",
-   "ar": "4 770 Ft",
+   "id": "MWK-4932493109",
+   "nev": "Milwaukee téli sapka, fekete",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4932493109_76zs4hep.jpg?v=2",
+   "link": "https://epitoanyag.hu/milwaukee-teli-sapka-fekete-pTVdLLTQ5MzI0OTMxMDk_eq1",
+   "ar": "7 740 Ft",
    "akcios_ar": "",
-   "marka": "Puma"
+   "marka": "Milwaukee"
+  },
+  {
+   "id": "MWK-4932492068",
+   "nev": "Milwaukee munkavédelmi csomag, ácsmunka",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4932492068_iemokqqb.jpg?v=2",
+   "link": "https://epitoanyag.hu/milwaukee-munkavedelmi-csomag-acsmunka-pTVdLLTQ5MzI0OTIwNjg_eq1",
+   "ar": "11 170 Ft",
+   "akcios_ar": "",
+   "marka": "Milwaukee"
   }
  ]
 }

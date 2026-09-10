@@ -2,7 +2,7 @@
  "kategoria": "Áthidaló",
  "fokategoria": "Építőanyag",
  "slug": "athidalo",
- "feed_frissitve": "Thu, 10 Sep 2026 07:50:15 GMT",
+ "feed_frissitve": "Thu, 10 Sep 2026 10:50:14 GMT",
  "osszes_termek": 86,
  "raktaron": 81,
  "termekek": [
@@ -16,33 +16,6 @@
    "marka": "Leier"
   },
   {
-   "id": "UH-457709",
-   "nev": "Leitl A12 áthidaló 100x6,5x12 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-457709_9vhycatq.jpg?v=2",
-   "link": "https://epitoanyag.hu/leitl-a12-athidalo-100x65x12-cm-pVUgtNDU3NzA5",
-   "ar": "2 470 Ft",
-   "akcios_ar": "",
-   "marka": "Leitl"
-  },
-  {
-   "id": "UH-571022",
-   "nev": "Wienerberger Porotherm A-10 neo áthidaló 100x6,5x10 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/porotherm-a-10-neo-athidalo-900x9003_rxkw9jan.jpg?v=2",
-   "link": "https://epitoanyag.hu/wienerberger-porotherm-a-10-neo-athidalo-100x65x10-cm-pVUgtNTcxMDIy",
-   "ar": "3 300 Ft",
-   "akcios_ar": "",
-   "marka": "Wienerberger"
-  },
-  {
-   "id": "UH-813102",
-   "nev": "Xella Ytong NEP válaszfal áthidaló 125x25x10 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-psn-125_0kazafup.jpg?v=1",
-   "link": "https://epitoanyag.hu/xella-ytong-nep-valaszfal-athidalo-125x25x10-cm-pVUgtODEzMTAy",
-   "ar": "10 060 Ft",
-   "akcios_ar": "",
-   "marka": "Xella"
-  },
-  {
    "id": "UH-198382",
    "nev": "Leier MDA 125 áthidaló 125x6,5x12 cm",
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-198382_id34999l.jpg?v=2",
@@ -50,33 +23,6 @@
    "ar": "2 755 Ft",
    "akcios_ar": "",
    "marka": "Leier"
-  },
-  {
-   "id": "UH-457712",
-   "nev": "Leitl A12 áthidaló 175x6,5x12 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-457712_jyjnvw64.jpg?v=2",
-   "link": "https://epitoanyag.hu/leitl-a12-athidalo-175x65x12-cm-pVUgtNDU3NzEy",
-   "ar": "4 320 Ft",
-   "akcios_ar": "",
-   "marka": "Leitl"
-  },
-  {
-   "id": "UH-571023",
-   "nev": "Wienerberger Porotherm A-10 neo áthidaló 125x6,5x10 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/porotherm-a-10-neo-athidalo-900x9003_s20yxy7i.jpg?v=2",
-   "link": "https://epitoanyag.hu/wienerberger-porotherm-a-10-neo-athidalo-125x65x10-cm-pVUgtNTcxMDIz",
-   "ar": "4 120 Ft",
-   "akcios_ar": "",
-   "marka": "Wienerberger"
-  },
-  {
-   "id": "UH-813099",
-   "nev": "Xella Ytong NOP teherhordó áthidaló 150x24,9x20 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-813098-1_98cdu2nl.png?v=1",
-   "link": "https://epitoanyag.hu/xella-ytong-nop-teherhordo-athidalo-150x249x20-cm-pVUgtODEzMDk5",
-   "ar": "38 560 Ft",
-   "akcios_ar": "",
-   "marka": "Xella"
   },
   {
    "id": "UH-198385",
@@ -88,31 +34,85 @@
    "marka": "Leier"
   },
   {
-   "id": "UH-457713",
-   "nev": "Leitl A12 áthidaló 200x6,5x12 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-457713_bwvdl65k.jpg?v=2",
-   "link": "https://epitoanyag.hu/leitl-a12-athidalo-200x65x12-cm-pVUgtNDU3NzEz",
-   "ar": "4 940 Ft",
+   "id": "UH-198388",
+   "nev": "Leier MDA 175 áthidaló 175x6,5x12 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-198388_s2vattp1.jpg?v=2",
+   "link": "https://epitoanyag.hu/leier-mda-175-athidalo-175x65x12-cm-pVUgtMTk4Mzg4",
+   "ar": "3 840 Ft",
    "akcios_ar": "",
-   "marka": "Leitl"
+   "marka": "Leier"
   },
   {
-   "id": "UH-571024",
-   "nev": "Wienerberger Porotherm A-10 neo áthidaló 150x6,5x10 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/porotherm-a-10-neo-athidalo-900x9003_jfh6n031.jpg?v=2",
-   "link": "https://epitoanyag.hu/wienerberger-porotherm-a-10-neo-athidalo-150x65x10-cm-pVUgtNTcxMDI0",
-   "ar": "4 940 Ft",
+   "id": "UH-198391",
+   "nev": "Leier MDA 200 áthidaló 200x6,5x12 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-198391_rf1qgksy.jpg?v=2",
+   "link": "https://epitoanyag.hu/leier-mda-200-athidalo-200x65x12-cm-pVUgtMTk4Mzkx",
+   "ar": "4 425 Ft",
    "akcios_ar": "",
-   "marka": "Wienerberger"
+   "marka": "Leier"
   },
   {
-   "id": "UH-813100",
-   "nev": "Xella Ytong NOP teherhordó áthidaló 175x24,9x20 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-copied-uh-813098-1_a96nzzl0.png?v=1",
-   "link": "https://epitoanyag.hu/xella-ytong-nop-teherhordo-athidalo-175x249x20-cm-pVUgtODEzMTAw",
-   "ar": "44 905 Ft",
+   "id": "UH-198394",
+   "nev": "Leier MDA 225 áthidaló 225x6,5x12 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-198394_fiurujvv.jpg?v=2",
+   "link": "https://epitoanyag.hu/leier-mda-225-athidalo-225x65x12-cm-pVUgtMTk4Mzk0",
+   "ar": "5 005 Ft",
    "akcios_ar": "",
-   "marka": "Xella"
+   "marka": "Leier"
+  },
+  {
+   "id": "UH-198397",
+   "nev": "Leier MDA 250 áthidaló 250x6,5x12 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-198397_i9rs3k6u.jpg?v=2",
+   "link": "https://epitoanyag.hu/leier-mda-250-athidalo-250x65x12-cm-pVUgtMTk4Mzk3",
+   "ar": "5 675 Ft",
+   "akcios_ar": "",
+   "marka": "Leier"
+  },
+  {
+   "id": "UH-198400",
+   "nev": "Leier MDA 275 áthidaló 275x6,5x12 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-198400_ycq9lira.jpg?v=2",
+   "link": "https://epitoanyag.hu/leier-mda-275-athidalo-275x65x12-cm-pVUgtMTk4NDAw",
+   "ar": "6 175 Ft",
+   "akcios_ar": "",
+   "marka": "Leier"
+  },
+  {
+   "id": "UH-198403",
+   "nev": "Leier MDA 300 áthidaló 300x6,5x12 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-198403_gd1uae71.jpg?v=2",
+   "link": "https://epitoanyag.hu/leier-mda-300-athidalo-300x65x12-cm-pVUgtMTk4NDAz",
+   "ar": "7 010 Ft",
+   "akcios_ar": "",
+   "marka": "Leier"
+  },
+  {
+   "id": "UH-198409",
+   "nev": "Leier MDE 100 elemmagas áthidaló 100x23,8x8 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-198409_i0f4ptk6.jpg?v=2",
+   "link": "https://epitoanyag.hu/leier-mde-100-elemmagas-athidalo-100x238x8-cm-pVUgtMTk4NDA5",
+   "ar": "3 380 Ft",
+   "akcios_ar": "",
+   "marka": "Leier"
+  },
+  {
+   "id": "UH-198411",
+   "nev": "Leier MDE 125 elemmagas áthidaló 125x23,8x8 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-198411_zp6b6d2u.jpg?v=2",
+   "link": "https://epitoanyag.hu/leier-mde-125-elemmagas-athidalo-125x238x8-cm-pVUgtMTk4NDEx",
+   "ar": "4 250 Ft",
+   "akcios_ar": "",
+   "marka": "Leier"
+  },
+  {
+   "id": "UH-198413",
+   "nev": "Leier MDE 150 elemmagas áthidaló 150x23,8x8 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-198413_1a8h9al1.jpg?v=2",
+   "link": "https://epitoanyag.hu/leier-mde-150-elemmagas-athidalo-150x238x8-cm-pVUgtMTk4NDEz",
+   "ar": "5 215 Ft",
+   "akcios_ar": "",
+   "marka": "Leier"
   }
  ]
 }
