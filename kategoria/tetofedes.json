@@ -2,9 +2,9 @@
  "kategoria": "Tetőfedés",
  "fokategoria": "Építőanyag",
  "slug": "tetofedes",
- "feed_frissitve": "Wed, 09 Sep 2026 07:50:15 GMT",
+ "feed_frissitve": "Thu, 10 Sep 2026 07:50:15 GMT",
  "osszes_termek": 3293,
- "raktaron": 443,
+ "raktaron": 441,
  "termekek": [
   {
    "id": "UH-033763",
@@ -106,13 +106,13 @@
    "marka": "Masterplast"
   },
   {
-   "id": "UH-329423",
-   "nev": "NAFI beton kéménytisztító ajtó 25x33x6 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-329423_alx1toq2.jpg?v=1",
-   "link": "https://epitoanyag.hu/nafi-beton-kemenytisztito-ajto-25x33x6-cm-pVUgtMzI5NDIz",
-   "ar": "1 750 Ft",
+   "id": "UH-107184",
+   "nev": "Soudal zsindelyragasztó 280 ml",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-107184_8ex3f95v.png?v=2",
+   "link": "https://epitoanyag.hu/soudal-zsindelyragaszto-280-ml-pVUgtMTA3MTg0",
+   "ar": "1 700 Ft",
    "akcios_ar": "",
-   "marka": "nafi"
+   "marka": "Soudal"
   }
  ]
 }

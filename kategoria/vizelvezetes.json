@@ -2,9 +2,9 @@
  "kategoria": "Vízelvezetés",
  "fokategoria": "Kert",
  "slug": "vizelvezetes",
- "feed_frissitve": "Wed, 09 Sep 2026 07:50:15 GMT",
+ "feed_frissitve": "Thu, 10 Sep 2026 07:50:15 GMT",
  "osszes_termek": 313,
- "raktaron": 67,
+ "raktaron": 68,
  "termekek": [
   {
    "id": "UH-380097",
@@ -43,11 +43,11 @@
    "marka": "Valrom"
   },
   {
-   "id": "AKNAFEDL80*80FES",
-   "nev": "Aknafedlap festett, zárható 80x80 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/aknafedl8080fes_mfzhpmsg.jpg?v=2",
-   "link": "https://epitoanyag.hu/aknafedlap-festett-zarhato-80x80-cm-pQUtOQUZFREw4MCo4MEZFUw_eq2",
-   "ar": "28 800 Ft",
+   "id": "AKNAFEDL60*60FES.",
+   "nev": "Aknafedlap festett, zárható 60x60 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/aknafedl6060fes_22wry20j.jpg?v=2",
+   "link": "https://epitoanyag.hu/aknafedlap-festett-zarhato-60x60-cm-pQUtOQUZFREw2MCo2MEZFUy4_eq1",
+   "ar": "17 280 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   },
@@ -79,11 +79,11 @@
    "marka": "Valrom"
   },
   {
-   "id": "AKNAFEDL60*60HORG.",
-   "nev": "Aknafedlap horganyzott, zárható 60x60 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/aknafedl6060horg_8j4soali.jpg?v=2",
-   "link": "https://epitoanyag.hu/aknafedlap-horganyzott-zarhato-60x60-cm-pQUtOQUZFREw2MCo2MEhPUkcu",
-   "ar": "22 240 Ft",
+   "id": "AKNAFEDL80*80FES",
+   "nev": "Aknafedlap festett, zárható 80x80 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/aknafedl8080fes_mfzhpmsg.jpg?v=2",
+   "link": "https://epitoanyag.hu/aknafedlap-festett-zarhato-80x80-cm-pQUtOQUZFREw4MCo4MEZFUw_eq2",
+   "ar": "28 800 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   },

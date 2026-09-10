@@ -2,9 +2,9 @@
  "kategoria": "Áthidaló",
  "fokategoria": "Építőanyag",
  "slug": "athidalo",
- "feed_frissitve": "Wed, 09 Sep 2026 07:50:15 GMT",
+ "feed_frissitve": "Thu, 10 Sep 2026 07:50:15 GMT",
  "osszes_termek": 86,
- "raktaron": 77,
+ "raktaron": 81,
  "termekek": [
   {
    "id": "UH-198379",
@@ -61,11 +61,11 @@
    "marka": "Leitl"
   },
   {
-   "id": "UH-571024",
-   "nev": "Wienerberger Porotherm A-10 neo áthidaló 150x6,5x10 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/porotherm-a-10-neo-athidalo-900x9003_jfh6n031.jpg?v=2",
-   "link": "https://epitoanyag.hu/wienerberger-porotherm-a-10-neo-athidalo-150x65x10-cm-pVUgtNTcxMDI0",
-   "ar": "4 940 Ft",
+   "id": "UH-571023",
+   "nev": "Wienerberger Porotherm A-10 neo áthidaló 125x6,5x10 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/porotherm-a-10-neo-athidalo-900x9003_s20yxy7i.jpg?v=2",
+   "link": "https://epitoanyag.hu/wienerberger-porotherm-a-10-neo-athidalo-125x65x10-cm-pVUgtNTcxMDIz",
+   "ar": "4 120 Ft",
    "akcios_ar": "",
    "marka": "Wienerberger"
   },
@@ -97,11 +97,11 @@
    "marka": "Leitl"
   },
   {
-   "id": "UH-571025",
-   "nev": "Wienerberger Porotherm A-10 neo áthidaló 175x6,5x10 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/porotherm-a-10-neo-athidalo-900x9003_vllzcc1m.jpg?v=2",
-   "link": "https://epitoanyag.hu/wienerberger-porotherm-a-10-neo-athidalo-175x65x10-cm-pVUgtNTcxMDI1",
-   "ar": "5 770 Ft",
+   "id": "UH-571024",
+   "nev": "Wienerberger Porotherm A-10 neo áthidaló 150x6,5x10 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/porotherm-a-10-neo-athidalo-900x9003_jfh6n031.jpg?v=2",
+   "link": "https://epitoanyag.hu/wienerberger-porotherm-a-10-neo-athidalo-150x65x10-cm-pVUgtNTcxMDI0",
+   "ar": "4 940 Ft",
    "akcios_ar": "",
    "marka": "Wienerberger"
   },
