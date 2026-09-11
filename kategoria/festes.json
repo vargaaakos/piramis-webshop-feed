@@ -2,9 +2,9 @@
  "kategoria": "Festés",
  "fokategoria": "Barkács",
  "slug": "festes",
- "feed_frissitve": "Thu, 10 Sep 2026 10:50:14 GMT",
- "osszes_termek": 432,
- "raktaron": 428,
+ "feed_frissitve": "Fri, 11 Sep 2026 07:50:16 GMT",
+ "osszes_termek": 434,
+ "raktaron": 430,
  "termekek": [
   {
    "id": "AKN-5093916",
@@ -34,11 +34,11 @@
    "marka": "Novasol"
   },
   {
-   "id": "AKN-5238497",
-   "nev": "Dulux Acryl Matt beltéri falfesték fehér 10 l",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/akn-5238497_jrqugw09.jpg?v=2",
-   "link": "https://epitoanyag.hu/dulux-acryl-matt-belteri-falfestek-feher-10-l-pQUtOLTUyMzg0OTc_eq1",
-   "ar": "11 900 Ft",
+   "id": "AKN-5238492",
+   "nev": "Dulux Acryl Matt beltéri falfesték fehér 3 l",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/akn-5238492_53i7zjnu.jpg?v=2",
+   "link": "https://epitoanyag.hu/dulux-acryl-matt-belteri-falfestek-feher-3-l-pQUtOLTUyMzg0OTI_eq1",
+   "ar": "5 140 Ft",
    "akcios_ar": "",
    "marka": "Dulux"
   },
@@ -79,11 +79,11 @@
    "marka": "Polifarbe"
   },
   {
-   "id": "AKN-5238492",
-   "nev": "Dulux Acryl Matt beltéri falfesték fehér 3 l",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/akn-5238492_53i7zjnu.jpg?v=2",
-   "link": "https://epitoanyag.hu/dulux-acryl-matt-belteri-falfestek-feher-3-l-pQUtOLTUyMzg0OTI_eq1",
-   "ar": "5 140 Ft",
+   "id": "AKN-5238494",
+   "nev": "Dulux Acryl Matt beltéri falfesték fehér 5 l",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/akn-5238494_7uarohe5.jpg?v=2",
+   "link": "https://epitoanyag.hu/dulux-acryl-matt-belteri-falfestek-feher-5-l-pQUtOLTUyMzg0OTQ_eq1",
+   "ar": "6 580 Ft",
    "akcios_ar": "",
    "marka": "Dulux"
   },

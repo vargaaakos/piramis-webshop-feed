@@ -2,9 +2,9 @@
  "kategoria": "Szerszám, szerszámgép",
  "fokategoria": "Barkács",
  "slug": "szerszam-szerszamgep",
- "feed_frissitve": "Thu, 10 Sep 2026 10:50:14 GMT",
- "osszes_termek": 734,
- "raktaron": 731,
+ "feed_frissitve": "Fri, 11 Sep 2026 07:50:16 GMT",
+ "osszes_termek": 751,
+ "raktaron": 748,
  "termekek": [
   {
    "id": "HIK-750038",
@@ -79,13 +79,13 @@
    "marka": "Einhell"
   },
   {
-   "id": "EIN-4259930",
-   "nev": "Einhell TC-DW 225 falcsiszoló 225 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/ein-4259930_76o4g4qu.jpg?v=2",
-   "link": "https://epitoanyag.hu/einhell-tc-dw-225-falcsiszolo-225-mm-pRUlOLTQyNTk5MzA_eq1",
-   "ar": "58 640 Ft",
+   "id": "HIK-GP5V",
+   "nev": "Hikoki GP5V egyenes csiszoló",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/hik-gp5v_7isfg514.jpg?v=2",
+   "link": "https://epitoanyag.hu/hikoki-gp5v-egyenes-csiszolo-pSElLLUdQNVY_eq1",
+   "ar": "88 295 Ft",
    "akcios_ar": "",
-   "marka": "Einhell"
+   "marka": "Hikoki"
   },
   {
    "id": "MWK-4933464223",
@@ -106,13 +106,13 @@
    "marka": "Milwaukee"
   },
   {
-   "id": "HIK-CR18DBLBASIC",
-   "nev": "Hikoki CR18DBL-BASIC akkumulátoros orrfűrész",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/hik-cr18dblbasic_y3t7qdlc.jpg?v=2",
-   "link": "https://epitoanyag.hu/hikoki-cr18dbl-basic-akkumulatoros-orrfuresz-pSElLLUNSMThEQkxCQVNJQw_eq2",
-   "ar": "64 180 Ft",
+   "id": "MWK-4933478293",
+   "nev": "Milwaukee M18FSZ-0X szablyafűrész",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4933478293-10_d0f6cl7q.jpg?v=2",
+   "link": "https://epitoanyag.hu/milwaukee-m18fsz-0x-szablyafuresz-pTVdLLTQ5MzM0NzgyOTM_eq1",
+   "ar": "139 000 Ft",
    "akcios_ar": "",
-   "marka": "Hikoki"
+   "marka": "Milwaukee"
   }
  ]
 }
