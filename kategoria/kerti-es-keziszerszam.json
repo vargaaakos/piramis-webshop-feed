@@ -2,9 +2,9 @@
  "kategoria": "Kerti- és kéziszerszám",
  "fokategoria": "Barkács",
  "slug": "kerti-es-keziszerszam",
- "feed_frissitve": "Fri, 11 Sep 2026 07:50:16 GMT",
- "osszes_termek": 360,
- "raktaron": 335,
+ "feed_frissitve": "Sat, 12 Sep 2026 07:50:15 GMT",
+ "osszes_termek": 359,
+ "raktaron": 334,
  "termekek": [
   {
    "id": "UH-775327",
@@ -70,15 +70,6 @@
    "marka": "Fiskars"
   },
   {
-   "id": "SOL-53031301",
-   "nev": "Sola HKM 1/10 W mérőléc 1 m",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/sol-53031301-1_vwssoh3i.jpg?v=2",
-   "link": "https://epitoanyag.hu/sola-hkm-110-w-merolec-1-m-pU09MLTUzMDMxMzAx",
-   "ar": "2 800 Ft",
-   "akcios_ar": "",
-   "marka": "Sola"
-  },
-  {
    "id": "UH-775343",
    "nev": "Fiskars PowerGear Aviation lemezvágó olló bulldog, balkezes",
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-fis-1027212_9orow0lg.jpg?v=2",
@@ -86,6 +77,15 @@
    "ar": "9 670 Ft",
    "akcios_ar": "",
    "marka": "Fiskars"
+  },
+  {
+   "id": "SOL-53031301",
+   "nev": "Sola HKM 1/10 W mérőléc 1 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/sol-53031301-1_vwssoh3i.jpg?v=2",
+   "link": "https://epitoanyag.hu/sola-hkm-110-w-merolec-1-m-pU09MLTUzMDMxMzAx",
+   "ar": "2 800 Ft",
+   "akcios_ar": "",
+   "marka": "Sola"
   },
   {
    "id": "UH-179543",

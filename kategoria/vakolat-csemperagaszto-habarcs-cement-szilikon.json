@@ -2,9 +2,9 @@
  "kategoria": "Vakolat, csemperagasztó, habarcs, cement, szilikon",
  "fokategoria": "Építőanyag",
  "slug": "vakolat-csemperagaszto-habarcs-cement-szilikon",
- "feed_frissitve": "Fri, 11 Sep 2026 07:50:16 GMT",
+ "feed_frissitve": "Sat, 12 Sep 2026 07:50:15 GMT",
  "osszes_termek": 13673,
- "raktaron": 301,
+ "raktaron": 306,
  "termekek": [
   {
    "id": "UH-518826",
@@ -34,15 +34,6 @@
    "marka": "Mapei"
   },
   {
-   "id": "UH-035639",
-   "nev": "Cemix 5522 NivoPlus 3-15 önterülő padlókiegyenlítő 25 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-035639_wdndtojq.png?v=2",
-   "link": "https://epitoanyag.hu/cemix-5522-nivoplus-3-15-onterulo-padlokiegyenlito-25-kg-pVUgtMDM1NjM5",
-   "ar": "5 890 Ft",
-   "akcios_ar": "",
-   "marka": "Cemix"
-  },
-  {
    "id": "UH-554875",
    "nev": "Baumit KlímaUni meszes könnyűvakolat, kézi, fehér 25 kg",
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-020456_csy5r1k3.jpeg?v=2",
@@ -52,31 +43,31 @@
    "marka": "Baumit"
   },
   {
-   "id": "UH-834897",
-   "nev": "Duna-Dráva cement 42,5 N, 25 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/cem-ii-b-ll-425-n-vac_87uiozed.png?v=1",
-   "link": "https://epitoanyag.hu/duna-drava-cement-425-n-25-kg-pVUgtODM0ODk3",
-   "ar": "2 290 Ft",
+   "id": "UH-035639",
+   "nev": "Cemix 5522 NivoPlus 3-15 önterülő padlókiegyenlítő 25 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-035639_wdndtojq.png?v=2",
+   "link": "https://epitoanyag.hu/cemix-5522-nivoplus-3-15-onterulo-padlokiegyenlito-25-kg-pVUgtMDM1NjM5",
+   "ar": "5 890 Ft",
+   "akcios_ar": "",
+   "marka": "Cemix"
+  },
+  {
+   "id": "UH-001571",
+   "nev": "Duna-Dráva cement 32,5 R, 25 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/ddc-vaci-zsakok_7tqg8wys.png?v=1",
+   "link": "https://epitoanyag.hu/duna-drava-cement-325-r-25-kg-pVUgtMDAxNTcx",
+   "ar": "2 190 Ft",
    "akcios_ar": "",
    "marka": "DUNA-DRÁVA CEMENT"
   },
   {
-   "id": "UH-006897",
-   "nev": "Baumit Esztrich E225 40 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-006897_trvvm24j.jpg?v=2",
-   "link": "https://epitoanyag.hu/baumit-esztrich-e225-40-kg-pVUgtMDA2ODk3",
-   "ar": "2 540 Ft",
+   "id": "UH-293288",
+   "nev": "újHÁZ Estrich 40 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/estrich_4lxdz7d9.png?v=2",
+   "link": "https://epitoanyag.hu/ujhaz-estrich-40-kg-pVUgtMjkzMjg4",
+   "ar": "2 110 Ft",
    "akcios_ar": "",
-   "marka": "Baumit"
-  },
-  {
-   "id": "UH-599607",
-   "nev": "Revco Vario+ Struktúra gördülőszemcsés vékonyvakolat 2 mm bonbon 4 16 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-599607-2_xjpj64c4.png?v=2",
-   "link": "https://epitoanyag.hu/revco-vario-struktura-gorduloszemcses-vekonyvakolat-2-mm-bonbon-4-16-kg-pVUgtNTk5NjA3",
-   "ar": "14 655 Ft",
-   "akcios_ar": "",
-   "marka": "Revco"
+   "marka": "ÚjHáz"
   },
   {
    "id": "UH-088540",
@@ -86,6 +77,15 @@
    "ar": "7 050 Ft",
    "akcios_ar": "",
    "marka": "Mapei"
+  },
+  {
+   "id": "UH-599607",
+   "nev": "Revco Vario+ Struktúra gördülőszemcsés vékonyvakolat 2 mm bonbon 4 16 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-599607-2_xjpj64c4.png?v=2",
+   "link": "https://epitoanyag.hu/revco-vario-struktura-gorduloszemcses-vekonyvakolat-2-mm-bonbon-4-16-kg-pVUgtNTk5NjA3",
+   "ar": "14 655 Ft",
+   "akcios_ar": "",
+   "marka": "Revco"
   },
   {
    "id": "MÉSZOLTOTT25KAL",

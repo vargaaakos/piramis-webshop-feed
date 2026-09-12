@@ -2,9 +2,9 @@
  "kategoria": "Rögzítéstechnika",
  "fokategoria": "Barkács",
  "slug": "rogzitestechnika",
- "feed_frissitve": "Fri, 11 Sep 2026 07:50:16 GMT",
- "osszes_termek": 25,
- "raktaron": 25,
+ "feed_frissitve": "Sat, 12 Sep 2026 07:50:15 GMT",
+ "osszes_termek": 27,
+ "raktaron": 27,
  "termekek": [
   {
    "id": "JKH-3903740",
@@ -25,20 +25,20 @@
    "marka": "Egyéb"
   },
   {
+   "id": "KOE-51542",
+   "nev": "Koelner Rawlplug B-KDS08100 tokrögzítő dübel 8x100 mm + csavar 4,8x105 mm, 4 db/csomag",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/koe-51542_cpj4tdrk.jpg?v=2",
+   "link": "https://epitoanyag.hu/koelner-rawlplug-b-kds08100-tokrogzito-dubel-8x100-mm-csavar-48x105-mm-4-dbcsomag-pS09FLTUxNTQy",
+   "ar": "450 Ft",
+   "akcios_ar": "",
+   "marka": "Koelner"
+  },
+  {
    "id": "KOE-51543",
    "nev": "Koelner Rawlplug B-KDS08120 tokrögzítő dübel 8x120 mm + csavar 4,8x125 mm, 4 db/csomag",
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/koe-51543_d8n5fqxs.jpg?v=2",
    "link": "https://epitoanyag.hu/koelner-rawlplug-b-kds08120-tokrogzito-dubel-8x120-mm-csavar-48x125-mm-4-dbcsomag-pS09FLTUxNTQz",
    "ar": "560 Ft",
-   "akcios_ar": "",
-   "marka": "Koelner"
-  },
-  {
-   "id": "KOE-51545",
-   "nev": "Koelner Rawlplug B-KDS10080 tokrögzítő dübel 10x80 mm + csavar 6,8x85 mm, 6 db/csomag",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/koe-51545_k13mtrj2.jpg?v=2",
-   "link": "https://epitoanyag.hu/koelner-rawlplug-b-kds10080-tokrogzito-dubel-10x80-mm-csavar-68x85-mm-6-dbcsomag-pS09FLTUxNTQ1",
-   "ar": "720 Ft",
    "akcios_ar": "",
    "marka": "Koelner"
   },
@@ -52,11 +52,11 @@
    "marka": "Egyéb"
   },
   {
-   "id": "KOE-51546",
-   "nev": "Koelner Rawlplug B-KDS10100 tokrögzítő dübel 10x100 mm + csavar 6,8x105 mm, 6 db/csomag",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/koe-51546_7zh2ptqk.jpg?v=2",
-   "link": "https://epitoanyag.hu/koelner-rawlplug-b-kds10100-tokrogzito-dubel-10x100-mm-csavar-68x105-mm-6-dbcsomag-pS09FLTUxNTQ2",
-   "ar": "900 Ft",
+   "id": "KOE-51545",
+   "nev": "Koelner Rawlplug B-KDS10080 tokrögzítő dübel 10x80 mm + csavar 6,8x85 mm, 6 db/csomag",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/koe-51545_k13mtrj2.jpg?v=2",
+   "link": "https://epitoanyag.hu/koelner-rawlplug-b-kds10080-tokrogzito-dubel-10x80-mm-csavar-68x85-mm-6-dbcsomag-pS09FLTUxNTQ1",
+   "ar": "720 Ft",
    "akcios_ar": "",
    "marka": "Koelner"
   },
@@ -70,11 +70,11 @@
    "marka": "Egyéb"
   },
   {
-   "id": "KOE-51547",
-   "nev": "Koelner Rawlplug B-KDS10120 tokrögzítő dübel 10x120 mm + csavar 6,8x125 mm, 6 db/csomag",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/koe-51547_5re4lvvy.jpg?v=2",
-   "link": "https://epitoanyag.hu/koelner-rawlplug-b-kds10120-tokrogzito-dubel-10x120-mm-csavar-68x125-mm-6-dbcsomag-pS09FLTUxNTQ3",
-   "ar": "1 020 Ft",
+   "id": "KOE-51546",
+   "nev": "Koelner Rawlplug B-KDS10100 tokrögzítő dübel 10x100 mm + csavar 6,8x105 mm, 6 db/csomag",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/koe-51546_7zh2ptqk.jpg?v=2",
+   "link": "https://epitoanyag.hu/koelner-rawlplug-b-kds10100-tokrogzito-dubel-10x100-mm-csavar-68x105-mm-6-dbcsomag-pS09FLTUxNTQ2",
+   "ar": "900 Ft",
    "akcios_ar": "",
    "marka": "Koelner"
   },
@@ -86,6 +86,15 @@
    "ar": "65 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
+  },
+  {
+   "id": "KOE-51547",
+   "nev": "Koelner Rawlplug B-KDS10120 tokrögzítő dübel 10x120 mm + csavar 6,8x125 mm, 6 db/csomag",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/koe-51547_5re4lvvy.jpg?v=2",
+   "link": "https://epitoanyag.hu/koelner-rawlplug-b-kds10120-tokrogzito-dubel-10x120-mm-csavar-68x125-mm-6-dbcsomag-pS09FLTUxNTQ3",
+   "ar": "1 020 Ft",
+   "akcios_ar": "",
+   "marka": "Koelner"
   },
   {
    "id": "KOE-64603",
@@ -102,15 +111,6 @@
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/koe-64604_fy6j7obv.png?v=2",
    "link": "https://epitoanyag.hu/koelner-rawlplug-r-s11-ff1n10k1006-peremes-dubel-10x100-mm-hatlapfejutorx-peremes-csavar-70x109-mm-6-dbcsomag-pS09FLTY0NjA0",
    "ar": "1 300 Ft",
-   "akcios_ar": "",
-   "marka": "Koelner"
-  },
-  {
-   "id": "KOE-64605",
-   "nev": "Koelner Rawlplug R-S11-FF1N10K120/4 peremes dübel 10x120 mm + hatlapfejű/Torx, peremes csavar 7,0x129 mm, 4 db/csomag",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/koe-64605_63ym8v1o.png?v=2",
-   "link": "https://epitoanyag.hu/koelner-rawlplug-r-s11-ff1n10k1204-peremes-dubel-10x120-mm-hatlapfejutorx-peremes-csavar-70x129-mm-4-dbcsomag-pS09FLTY0NjA1",
-   "ar": "1 090 Ft",
    "akcios_ar": "",
    "marka": "Koelner"
   }
