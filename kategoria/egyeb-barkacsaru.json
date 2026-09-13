@@ -2,9 +2,9 @@
  "kategoria": "Egyéb barkácsáru",
  "fokategoria": "Barkács",
  "slug": "egyeb-barkacsaru",
- "feed_frissitve": "Sat, 12 Sep 2026 07:50:15 GMT",
- "osszes_termek": 7,
- "raktaron": 7,
+ "feed_frissitve": "Sun, 13 Sep 2026 07:50:16 GMT",
+ "osszes_termek": 6,
+ "raktaron": 6,
  "termekek": [
   {
    "id": "UH-229893",
@@ -48,15 +48,6 @@
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-130329_e00nmnix.png?v=2",
    "link": "https://epitoanyag.hu/muanyag-zarodugo-zartszelvenyhez-fekete-40x20-mm-pVUgtMTMwMzI5",
    "ar": "25 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
-  },
-  {
-   "id": "UH-130333",
-   "nev": "Műanyag záródugó zártszelvényhez fekete, 40x40 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-130333_70x9ur6u.png?v=2",
-   "link": "https://epitoanyag.hu/muanyag-zarodugo-zartszelvenyhez-fekete-40x40-mm-pVUgtMTMwMzMz",
-   "ar": "55 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   },

@@ -2,10 +2,46 @@
  "kategoria": "Tetőtéri ablak, tetőtéri ablak kiegészítő",
  "fokategoria": "Nyílászáró",
  "slug": "tetoteri-ablak-tetoteri-ablak-kiegeszito",
- "feed_frissitve": "Sat, 12 Sep 2026 07:50:15 GMT",
+ "feed_frissitve": "Sun, 13 Sep 2026 07:50:16 GMT",
  "osszes_termek": 455,
- "raktaron": 37,
+ "raktaron": 30,
  "termekek": [
+  {
+   "id": "UH-104382",
+   "nev": "Fakro ARS I 78x140 cm, 010-es színkódú fényszűrő kampós roló",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-104382_xnegdmea.jpg?v=2",
+   "link": "https://epitoanyag.hu/fakro-ars-i-78x140-cm-010-es-szinkodu-fenyszuro-kampos-rolo-pVUgtMTA0Mzgy",
+   "ar": "22 875 Ft",
+   "akcios_ar": "",
+   "marka": "Fakro"
+  },
+  {
+   "id": "UH-324763",
+   "nev": "VELUX GLL 1061B 78x118 cm, billenő fa tetőtéri ablak",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-324763-2_kuc1j18g.jpg?v=2",
+   "link": "https://epitoanyag.hu/velux-gll-1061b-78x118-cm-billeno-fa-tetoteri-ablak-pVUgtMzI0NzYz",
+   "ar": "197 050 Ft",
+   "akcios_ar": "",
+   "marka": ".VELUX"
+  },
+  {
+   "id": "UH-615703",
+   "nev": "Velux ZIL MK10 0000SWL szúnyogháló, rolós",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-205177-2_k97i3ins.jpg?v=2",
+   "link": "https://epitoanyag.hu/velux-zil-mk10-0000swl-szunyoghalo-rolos-pVUgtNjE1NzAz",
+   "ar": "69 065 Ft",
+   "akcios_ar": "",
+   "marka": ".VELUX"
+  },
+  {
+   "id": "UH-104385",
+   "nev": "Fakro ARS I 78x140 cm, 013-as színkódú fényszűrő kampós roló",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-104385_l7e41sa8.jpg?v=2",
+   "link": "https://epitoanyag.hu/fakro-ars-i-78x140-cm-013-as-szinkodu-fenyszuro-kampos-rolo-pVUgtMTA0Mzg1",
+   "ar": "22 875 Ft",
+   "akcios_ar": "",
+   "marka": "Fakro"
+  },
   {
    "id": "UH-104960",
    "nev": "Fakro FTS-V U2 78x118 cm, billenő fa tetőtéri ablak",
@@ -25,15 +61,6 @@
    "marka": ".VELUX"
   },
   {
-   "id": "UH-615703",
-   "nev": "Velux ZIL MK10 0000SWL szúnyogháló, rolós",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-205177-2_k97i3ins.jpg?v=2",
-   "link": "https://epitoanyag.hu/velux-zil-mk10-0000swl-szunyoghalo-rolos-pVUgtNjE1NzAz",
-   "ar": "69 065 Ft",
-   "akcios_ar": "",
-   "marka": ".VELUX"
-  },
-  {
    "id": "UH-104961",
    "nev": "Fakro FTS-V U2 78x140 cm, billenő fa tetőtéri ablak",
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-104961-4_2v2vgt40.jpg?v=2",
@@ -41,42 +68,6 @@
    "ar": "141 590 Ft",
    "akcios_ar": "",
    "marka": "Fakro"
-  },
-  {
-   "id": "UH-104382",
-   "nev": "Fakro ARS I 78x140 cm, 010-es színkódú fényszűrő kampós roló",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-104382_xnegdmea.jpg?v=2",
-   "link": "https://epitoanyag.hu/fakro-ars-i-78x140-cm-010-es-szinkodu-fenyszuro-kampos-rolo-pVUgtMTA0Mzgy",
-   "ar": "22 875 Ft",
-   "akcios_ar": "",
-   "marka": "Fakro"
-  },
-  {
-   "id": "UH-324755",
-   "nev": "VELUX GLL 1061 78x140 cm, billenő fa tetőtéri ablak",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/207-with-stroke-new-3_fmy1lkl1.png?v=2",
-   "link": "https://epitoanyag.hu/velux-gll-1061-78x140-cm-billeno-fa-tetoteri-ablak-pVUgtMzI0NzU1",
-   "ar": "210 845 Ft",
-   "akcios_ar": "",
-   "marka": ".VELUX"
-  },
-  {
-   "id": "UH-104385",
-   "nev": "Fakro ARS I 78x140 cm, 013-as színkódú fényszűrő kampós roló",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-104385_l7e41sa8.jpg?v=2",
-   "link": "https://epitoanyag.hu/fakro-ars-i-78x140-cm-013-as-szinkodu-fenyszuro-kampos-rolo-pVUgtMTA0Mzg1",
-   "ar": "22 875 Ft",
-   "akcios_ar": "",
-   "marka": "Fakro"
-  },
-  {
-   "id": "UH-324763",
-   "nev": "VELUX GLL 1061B 78x118 cm, billenő fa tetőtéri ablak",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-324763-2_kuc1j18g.jpg?v=2",
-   "link": "https://epitoanyag.hu/velux-gll-1061b-78x118-cm-billeno-fa-tetoteri-ablak-pVUgtMzI0NzYz",
-   "ar": "197 050 Ft",
-   "akcios_ar": "",
-   "marka": ".VELUX"
   },
   {
    "id": "UH-205321",
@@ -106,11 +97,20 @@
    "marka": ".VELUX"
   },
   {
-   "id": "UH-324774",
-   "nev": "VELUX GLU 0061 55x78 cm, billenő műanyag tetőtéri ablak",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/standard-flying-mf-new_smmttxd9.png?v=2",
-   "link": "https://epitoanyag.hu/velux-glu-0061-55x78-cm-billeno-muanyag-tetoteri-ablak-pVUgtMzI0Nzc0",
-   "ar": "179 710 Ft",
+   "id": "UH-419643",
+   "nev": "VELUX GLU 0061B 78x140 cm, billenő műanyag tetőtéri ablak",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-419643-5_frhgivrk.jpg?v=2",
+   "link": "https://epitoanyag.hu/velux-glu-0061b-78x140-cm-billeno-muanyag-tetoteri-ablak-pVUgtNDE5NjQz",
+   "ar": "253 010 Ft",
+   "akcios_ar": "",
+   "marka": ".VELUX"
+  },
+  {
+   "id": "UH-212799",
+   "nev": "VELUX RHL 55 cm-es sötétkék fényszűrő kampós roletta",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-212799-4_yqw0qheu.jpg?v=2",
+   "link": "https://epitoanyag.hu/velux-rhl-55-cm-es-sotetkek-fenyszuro-kampos-roletta-pVUgtMjEyNzk5",
+   "ar": "17 020 Ft",
    "akcios_ar": "",
    "marka": ".VELUX"
   }
