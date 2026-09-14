@@ -2,9 +2,9 @@
  "kategoria": "Homlokzati nyílászáró kiegészítő",
  "fokategoria": "Nyílászáró",
  "slug": "homlokzati-nyilaszaro-kiegeszito",
- "feed_frissitve": "Sun, 13 Sep 2026 07:50:16 GMT",
- "osszes_termek": 5,
- "raktaron": 5,
+ "feed_frissitve": "Mon, 14 Sep 2026 08:50:18 GMT",
+ "osszes_termek": 3,
+ "raktaron": 3,
  "termekek": [
   {
    "id": "O-ES7040TF",
@@ -21,24 +21,6 @@
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/o-eshsf_mkp8pask.png?v=2",
    "link": "https://epitoanyag.hu/ekosun-h-sorolo-feher-pTy1FU0hTRg_eq2",
    "ar": "15 795 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
-  },
-  {
-   "id": "O-GE30TF",
-   "nev": "GreenEvolution 76 toktoldó 30 mm, fehér",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/o-ge30tf_fsydvbmz.png?v=2",
-   "link": "https://epitoanyag.hu/greenevolution-76-toktoldo-30-mm-feher-pTy1HRTMwVEY_eq1",
-   "ar": "19 920 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
-  },
-  {
-   "id": "O-GE60TF",
-   "nev": "GreenEvolution 76 toktoldó 60 mm, fehér",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/o-ge60tf_skg4ersn.png?v=2",
-   "link": "https://epitoanyag.hu/greenevolution-76-toktoldo-60-mm-feher-pTy1HRTYwVEY_eq1",
-   "ar": "32 820 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   },
