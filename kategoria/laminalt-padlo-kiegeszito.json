@@ -2,9 +2,9 @@
  "kategoria": "Laminált padló, kiegészítő",
  "fokategoria": "Belsőépítészet",
  "slug": "laminalt-padlo-kiegeszito",
- "feed_frissitve": "Tue, 15 Sep 2026 08:50:16 GMT",
+ "feed_frissitve": "Wed, 16 Sep 2026 07:50:17 GMT",
  "osszes_termek": 48,
- "raktaron": 23,
+ "raktaron": 24,
  "termekek": [
   {
    "id": "BF-D3880",
@@ -70,13 +70,13 @@
    "marka": "SWISS KRONO"
   },
   {
-   "id": "BF-58/AC14B",
-   "nev": "Laminált szegőléc sarokelem belső MDF 58; AC14 színkódú",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/14b_0fk61iu3.png?v=2",
-   "link": "https://epitoanyag.hu/laminalt-szegolec-sarokelem-belso-mdf-58-ac14-szinkodu-pQkYtNTgvQUMxNEI_eq1",
-   "ar": "2 980 Ft",
+   "id": "UH-005085",
+   "nev": "Baudekor ProfiFloor XPS Thermo padlóalátét, padlófűtéshez 2 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/xps-therm_qov1houl.png?v=2",
+   "link": "https://epitoanyag.hu/baudekor-profifloor-xps-thermo-padloalatet-padlofuteshez-2-mm-pVUgtMDA1MDg1",
+   "ar": "10 115 Ft",
    "akcios_ar": "",
-   "marka": "Egyéb"
+   "marka": "baudekor"
   },
   {
    "id": "BF-58N/AN512/2.4",
@@ -88,10 +88,10 @@
    "marka": "Egyéb"
   },
   {
-   "id": "BF-58/AC14K",
-   "nev": "Laminált szegőléc sarokelem külső MDF 58; AC14 színkódú",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/14k_ctweom1y.png?v=2",
-   "link": "https://epitoanyag.hu/laminalt-szegolec-sarokelem-kulso-mdf-58-ac14-szinkodu-pQkYtNTgvQUMxNEs_eq1",
+   "id": "BF-58/AC14B",
+   "nev": "Laminált szegőléc sarokelem belső MDF 58; AC14 színkódú",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/14b_0fk61iu3.png?v=2",
+   "link": "https://epitoanyag.hu/laminalt-szegolec-sarokelem-belso-mdf-58-ac14-szinkodu-pQkYtNTgvQUMxNEI_eq1",
    "ar": "2 980 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
@@ -106,10 +106,10 @@
    "marka": "Egyéb"
   },
   {
-   "id": "BF-58/AC14V",
-   "nev": "Laminált szegőléc végzáró MDF 58; AC14 színkódú",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/14v_8co8vl8x.png?v=2",
-   "link": "https://epitoanyag.hu/laminalt-szegolec-vegzaro-mdf-58-ac14-szinkodu-pQkYtNTgvQUMxNFY_eq1",
+   "id": "BF-58/AC14K",
+   "nev": "Laminált szegőléc sarokelem külső MDF 58; AC14 színkódú",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/14k_ctweom1y.png?v=2",
+   "link": "https://epitoanyag.hu/laminalt-szegolec-sarokelem-kulso-mdf-58-ac14-szinkodu-pQkYtNTgvQUMxNEs_eq1",
    "ar": "2 980 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"

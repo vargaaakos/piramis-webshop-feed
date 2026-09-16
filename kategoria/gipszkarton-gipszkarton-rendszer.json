@@ -2,7 +2,7 @@
  "kategoria": "Gipszkarton, gipszkarton rendszer",
  "fokategoria": "Belsőépítészet",
  "slug": "gipszkarton-gipszkarton-rendszer",
- "feed_frissitve": "Tue, 15 Sep 2026 08:50:16 GMT",
+ "feed_frissitve": "Wed, 16 Sep 2026 07:50:17 GMT",
  "osszes_termek": 337,
  "raktaron": 128,
  "termekek": [
@@ -25,15 +25,6 @@
    "marka": "Egyéb"
   },
   {
-   "id": "UH-739884",
-   "nev": "Rigips Blue Acoustic RF 120x200x1,25 cm hanggátló-tűzgátló gipszkartonlap",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-001628_knsdk1si.jpg?v=2",
-   "link": "https://epitoanyag.hu/rigips-blue-acoustic-rf-120x200x125-cm-hanggatlo-tuzgatlo-gipszkartonlap-pVUgtNzM5ODg0",
-   "ar": "4 490 Ft",
-   "akcios_ar": "",
-   "marka": "Rigips"
-  },
-  {
    "id": "UH-744093",
    "nev": "DK Profifix szigetelő szivacscsík gipszkartonhoz 3x30 mm x 30 m",
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-744093_dzymh6pz.jpg?v=2",
@@ -41,6 +32,15 @@
    "ar": "1 885 Ft",
    "akcios_ar": "",
    "marka": "DK"
+  },
+  {
+   "id": "UH-739885",
+   "nev": "Rigips Blue Acoustic RFI 120x200x1,25 cm hanggátló-tűzgátló impregnált gipszkartonlap",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-001627_0qzww6js.png?v=2",
+   "link": "https://epitoanyag.hu/rigips-blue-acoustic-rfi-120x200x125-cm-hanggatlo-tuzgatlo-impregnalt-gipszkartonlap-pVUgtNzM5ODg1",
+   "ar": "4 990 Ft",
+   "akcios_ar": "",
+   "marka": "Rigips"
   },
   {
    "id": "UH-731121",
@@ -61,15 +61,6 @@
    "marka": "Egyéb"
   },
   {
-   "id": "UH-739885",
-   "nev": "Rigips Blue Acoustic RFI 120x200x1,25 cm hanggátló-tűzgátló impregnált gipszkartonlap",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-001627_0qzww6js.png?v=2",
-   "link": "https://epitoanyag.hu/rigips-blue-acoustic-rfi-120x200x125-cm-hanggatlo-tuzgatlo-impregnalt-gipszkartonlap-pVUgtNzM5ODg1",
-   "ar": "4 990 Ft",
-   "akcios_ar": "",
-   "marka": "Rigips"
-  },
-  {
    "id": "UH-744095",
    "nev": "DK Profifix szigetelő szivacscsík gipszkartonhoz 3x45 mm x 30 m",
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-744095_6mxelr07.jpg?v=2",
@@ -77,6 +68,15 @@
    "ar": "1 990 Ft",
    "akcios_ar": "",
    "marka": "DK"
+  },
+  {
+   "id": "UH-810425",
+   "nev": "Rigips RBI Impregnált gipszkarton lap 120x200x1,25 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-001791_671s7yke.jpg?v=1",
+   "link": "https://epitoanyag.hu/rigips-rbi-impregnalt-gipszkarton-lap-120x200x125-cm-pVUgtODEwNDI1",
+   "ar": "3 790 Ft",
+   "akcios_ar": "",
+   "marka": "Rigips"
   },
   {
    "id": "UH-731122",
@@ -97,15 +97,6 @@
    "marka": "DK"
   },
   {
-   "id": "UH-810425",
-   "nev": "Rigips RBI Impregnált gipszkarton lap 120x200x1,25 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-001791_671s7yke.jpg?v=1",
-   "link": "https://epitoanyag.hu/rigips-rbi-impregnalt-gipszkarton-lap-120x200x125-cm-pVUgtODEwNDI1",
-   "ar": "3 790 Ft",
-   "akcios_ar": "",
-   "marka": "Rigips"
-  },
-  {
    "id": "UH-744099",
    "nev": "DK Profifix szigetelő szivacscsík gipszkartonhoz 3x70 mm x 30 m",
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-744099_f8ypcn49.jpg?v=2",
@@ -113,6 +104,15 @@
    "ar": "4 220 Ft",
    "akcios_ar": "",
    "marka": "DK"
+  },
+  {
+   "id": "UH-001805",
+   "nev": "Rigips RF 120x200x1,25 cm tűzgátló gipszkartonlap",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-001805_5371aspg.jpg?v=2",
+   "link": "https://epitoanyag.hu/rigips-rf-120x200x125-cm-tuzgatlo-gipszkartonlap-pVUgtMDAxODA1",
+   "ar": "3 590 Ft",
+   "akcios_ar": "",
+   "marka": "Rigips"
   }
  ]
 }
