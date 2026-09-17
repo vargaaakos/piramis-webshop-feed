@@ -1,6 +1,6 @@
 {
- "feed_frissitve": "Wed, 16 Sep 2026 07:50:17 GMT",
- "termek_osszesen": 23888,
+ "feed_frissitve": "Thu, 17 Sep 2026 08:50:14 GMT",
+ "termek_osszesen": 23881,
  "kategoriak": [
   {
    "kategoria": "Egyéb barkácsáru",
@@ -13,7 +13,7 @@
    "kategoria": "Festés",
    "fokategoria": "Barkács",
    "slug": "festes",
-   "osszes": 439,
+   "osszes": 437,
    "kirakva": 12
   },
   {
@@ -27,7 +27,7 @@
    "kategoria": "Munkaruházat, védőfelszerelés",
    "fokategoria": "Barkács",
    "slug": "munkaruhazat-vedofelszereles",
-   "osszes": 186,
+   "osszes": 185,
    "kirakva": 12
   },
   {
@@ -41,15 +41,15 @@
    "kategoria": "Szerszám, szerszámgép",
    "fokategoria": "Barkács",
    "slug": "szerszam-szerszamgep",
-   "osszes": 748,
+   "osszes": 747,
    "kirakva": 12
   },
   {
    "kategoria": "Szerszámgép kiegészítő alkatrész",
    "fokategoria": "Barkács",
    "slug": "szerszamgep-kiegeszito-alkatresz",
-   "osszes": 11,
-   "kirakva": 11
+   "osszes": 10,
+   "kirakva": 10
   },
   {
    "kategoria": "Villamosság",
@@ -136,18 +136,11 @@
    "kirakva": 7
   },
   {
-   "kategoria": "Tűzifa",
-   "fokategoria": "Faanyag",
-   "slug": "tuzifa",
-   "osszes": 1,
-   "kirakva": 1
-  },
-  {
    "kategoria": "Egyéb kerti kiegészítő",
    "fokategoria": "Kert",
    "slug": "egyeb-kerti-kiegeszito",
    "osszes": 8,
-   "kirakva": 3
+   "kirakva": 4
   },
   {
    "kategoria": "Geotextília",
@@ -307,7 +300,7 @@
    "kategoria": "Tégla",
    "fokategoria": "Építőanyag",
    "slug": "tegla",
-   "osszes": 93,
+   "osszes": 92,
    "kirakva": 12
   },
   {
