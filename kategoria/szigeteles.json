@@ -2,9 +2,9 @@
  "kategoria": "Szigetelés",
  "fokategoria": "Építőanyag",
  "slug": "szigeteles",
- "feed_frissitve": "Thu, 17 Sep 2026 08:50:14 GMT",
+ "feed_frissitve": "Fri, 18 Sep 2026 07:50:14 GMT",
  "osszes_termek": 1073,
- "raktaron": 239,
+ "raktaron": 243,
  "termekek": [
   {
    "id": "UH-816976",
@@ -43,6 +43,15 @@
    "marka": "Cemix"
   },
   {
+   "id": "UH-042814",
+   "nev": "Aco perforált FF Drain cső D100",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-042814_ruzh4fp0.jpg?v=2",
+   "link": "https://epitoanyag.hu/aco-perforalt-ff-drain-cso-d100-pVUgtMDQyODE0",
+   "ar": "67 000 Ft",
+   "akcios_ar": "",
+   "marka": "ACO"
+  },
+  {
    "id": "UH-571065",
    "nev": "Dilatációs habszivacs csík 0,5 cm",
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-001400_twat1wie.jpg?v=2",
@@ -52,22 +61,13 @@
    "marka": "Egyéb"
   },
   {
-   "id": "UH-359646",
-   "nev": "Dörken Berner beütőék 5x50 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-359646_1lmvdg8r.png?v=2",
-   "link": "https://epitoanyag.hu/dorken-berner-beutoek-5x50-mm-pVUgtMzU5NjQ2",
-   "ar": "60 Ft",
+   "id": "UH-754731",
+   "nev": "Dörken Delta-Vízszintes Falszigetelés 25 cm x 25 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-753082_k2ov005q.png?v=2",
+   "link": "https://epitoanyag.hu/dorken-delta-vizszintes-falszigeteles-25-cm-x-25-m-pVUgtNzU0NzMx",
+   "ar": "6 050 Ft",
    "akcios_ar": "",
    "marka": "Dörken"
-  },
-  {
-   "id": "UH-805223",
-   "nev": "Izobud Izobit GV35 oxidált bitumenes vízszigetelő lemez 10 m2",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-350725_0xicz44j.jpg?v=2",
-   "link": "https://epitoanyag.hu/izobud-izobit-gv35-oxidalt-bitumenes-vizszigetelo-lemez-10-m2-pVUgtODA1MjIz",
-   "ar": "10 860 Ft",
-   "akcios_ar": "",
-   "marka": "Izobud"
   },
   {
    "id": "UH-710236",
@@ -106,13 +106,13 @@
    "marka": "Henkel"
   },
   {
-   "id": "UH-556407",
-   "nev": "Dilatációs habszivacs csík 1 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-001398_0yi348uv.jpg?v=2",
-   "link": "https://epitoanyag.hu/dilatacios-habszivacs-csik-1-cm-pVUgtNTU2NDA3",
-   "ar": "2 510 Ft",
+   "id": "UH-359646",
+   "nev": "Dörken Berner beütőék 5x50 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-359646_1lmvdg8r.png?v=2",
+   "link": "https://epitoanyag.hu/dorken-berner-beutoek-5x50-mm-pVUgtMzU5NjQ2",
+   "ar": "60 Ft",
    "akcios_ar": "",
-   "marka": "Egyéb"
+   "marka": "Dörken"
   }
  ]
 }
