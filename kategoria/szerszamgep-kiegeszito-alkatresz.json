@@ -2,9 +2,9 @@
  "kategoria": "Szerszámgép kiegészítő alkatrész",
  "fokategoria": "Barkács",
  "slug": "szerszamgep-kiegeszito-alkatresz",
- "feed_frissitve": "Fri, 18 Sep 2026 07:50:14 GMT",
- "osszes_termek": 10,
- "raktaron": 10,
+ "feed_frissitve": "Sat, 19 Sep 2026 07:50:12 GMT",
+ "osszes_termek": 11,
+ "raktaron": 11,
  "termekek": [
   {
    "id": "UH-229890",
@@ -16,15 +16,6 @@
    "marka": "Egyéb"
   },
   {
-   "id": "UH-405662",
-   "nev": "Makita gyémánttárcsa folyamatos élű 110 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-405662_20eo80zz.png?v=2",
-   "link": "https://epitoanyag.hu/makita-gyemanttarcsa-folyamatos-elu-110-mm-pVUgtNDA1NjYy",
-   "ar": "2 460 Ft",
-   "akcios_ar": "",
-   "marka": "Makita"
-  },
-  {
    "id": "UH-230060",
    "nev": "Fugakaparó tartalék penge vídiás",
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-230060_pahe40n7.png?v=2",
@@ -32,6 +23,15 @@
    "ar": "590 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
+  },
+  {
+   "id": "UH-405662",
+   "nev": "Makita gyémánttárcsa folyamatos élű 110 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-405662_20eo80zz.png?v=2",
+   "link": "https://epitoanyag.hu/makita-gyemanttarcsa-folyamatos-elu-110-mm-pVUgtNDA1NjYy",
+   "ar": "2 460 Ft",
+   "akcios_ar": "",
+   "marka": "Makita"
   },
   {
    "id": "UH-250300",
@@ -52,6 +52,15 @@
    "marka": "Egyéb"
   },
   {
+   "id": "UH-250305",
+   "nev": "Makita vágótárcsa inox, 230 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-250305_l7bomgk3.jpg?v=2",
+   "link": "https://epitoanyag.hu/makita-vagotarcsa-inox-230-mm-pVUgtMjUwMzA1",
+   "ar": "910 Ft",
+   "akcios_ar": "",
+   "marka": "Makita"
+  },
+  {
    "id": "UH-493018",
    "nev": "Vágótárcsa fémhez 1,9x230 mm",
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-493018_df7k8c16.jpg?v=2",
@@ -70,20 +79,20 @@
    "marka": "Hikoki"
   },
   {
-   "id": "UH-250305",
-   "nev": "Makita vágótárcsa inox, 230 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-250305_l7bomgk3.jpg?v=2",
-   "link": "https://epitoanyag.hu/makita-vagotarcsa-inox-230-mm-pVUgtMjUwMzA1",
-   "ar": "910 Ft",
-   "akcios_ar": "",
-   "marka": "Makita"
-  },
-  {
    "id": "UH-528612",
    "nev": "Gyémántfúró sarokcsiszolóhoz M14-es menettel, 67 mm",
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-528612_fzncjr25.png?v=2",
    "link": "https://epitoanyag.hu/gyemantfuro-sarokcsiszolohoz-m14-es-menettel-67-mm-pVUgtNTI4NjEy",
    "ar": "17 940 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-127230",
+   "nev": "Hiltiszalag 8 mm x 10 m",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-127230_odo6z496.jpg?v=2",
+   "link": "https://epitoanyag.hu/hiltiszalag-8-mm-x-10-m-pVUgtMTI3MjMw",
+   "ar": "3 695 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   },
