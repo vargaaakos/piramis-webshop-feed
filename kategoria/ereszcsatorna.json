@@ -2,9 +2,9 @@
  "kategoria": "Ereszcsatorna",
  "fokategoria": "Építőanyag",
  "slug": "ereszcsatorna",
- "feed_frissitve": "Mon, 21 Sep 2026 08:50:19 GMT",
+ "feed_frissitve": "Tue, 22 Sep 2026 07:50:17 GMT",
  "osszes_termek": 581,
- "raktaron": 121,
+ "raktaron": 129,
  "termekek": [
   {
    "id": "CF149133-KURZ-7016",
@@ -34,11 +34,11 @@
    "marka": "Galeco"
   },
   {
-   "id": "CF149133-KURZ-3016",
-   "nev": "Colorferr 33 acél, hajlított csatornavas, téglavörös",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/cf149133-kurz-3016_rh3cl2jz.png?v=2",
-   "link": "https://epitoanyag.hu/colorferr-33-acel-hajlitott-csatornavas-teglavoros-pQ0YxNDkxMzMtS1VSWi0zMDE2",
-   "ar": "1 070 Ft",
+   "id": "CR149133KURZ-8017",
+   "nev": "Colorferr 33 acél, hajlított csatornavas, rézbarna",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/cr149133kurz-8017_pi69y0yd.png?v=2",
+   "link": "https://epitoanyag.hu/colorferr-33-acel-hajlitott-csatornavas-rezbarna-pQ1IxNDkxMzNLVVJaLTgwMTc_eq1",
+   "ar": "1 040 Ft",
    "akcios_ar": "",
    "marka": "Colorferr"
   },
@@ -61,10 +61,10 @@
    "marka": "Galeco"
   },
   {
-   "id": "CF149133-KURZ-E-3016",
-   "nev": "Colorferr acél 33 csatornatartó egyenes, rövid 20 cm RAL 3016 téglavörös",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/cf149133-kurz-e-3016_bnegm9wl.png?v=2",
-   "link": "https://epitoanyag.hu/colorferr-acel-33-csatornatarto-egyenes-rovid-20-cm-ral-3016-teglavoros-pQ0YxNDkxMzMtS1VSWi1FLTMwMTY_eq1",
+   "id": "CF149133-KURZ-3016",
+   "nev": "Colorferr 33 acél, hajlított csatornavas, téglavörös",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/cf149133-kurz-3016_rh3cl2jz.png?v=2",
+   "link": "https://epitoanyag.hu/colorferr-33-acel-hajlitott-csatornavas-teglavoros-pQ0YxNDkxMzMtS1VSWi0zMDE2",
    "ar": "1 070 Ft",
    "akcios_ar": "",
    "marka": "Colorferr"
@@ -88,11 +88,11 @@
    "marka": "Galeco"
   },
   {
-   "id": "COLOR149133KURZE7016",
-   "nev": "Colorferr acél 33 csatornatartó egyenes, rövid 20 cm RAL 7016 antracit",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/color149133kurze7016_a3kphicq.png?v=2",
-   "link": "https://epitoanyag.hu/colorferr-acel-33-csatornatarto-egyenes-rovid-20-cm-ral-7016-antracit-pQ09MT1IxNDkxMzNLVVJaRTcwMTY_eq1",
-   "ar": "1 040 Ft",
+   "id": "CF149133-KURZ-E-3016",
+   "nev": "Colorferr acél 33 csatornatartó egyenes, rövid 20 cm RAL 3016 téglavörös",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/cf149133-kurz-e-3016_bnegm9wl.png?v=2",
+   "link": "https://epitoanyag.hu/colorferr-acel-33-csatornatarto-egyenes-rovid-20-cm-ral-3016-teglavoros-pQ0YxNDkxMzMtS1VSWi1FLTMwMTY_eq1",
+   "ar": "1 070 Ft",
    "akcios_ar": "",
    "marka": "Colorferr"
   },
