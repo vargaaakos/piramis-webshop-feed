@@ -2,9 +2,9 @@
  "kategoria": "Padlásfeljáró",
  "fokategoria": "Nyílászáró",
  "slug": "padlasfeljaro",
- "feed_frissitve": "Tue, 22 Sep 2026 07:50:17 GMT",
+ "feed_frissitve": "Wed, 23 Sep 2026 07:50:14 GMT",
  "osszes_termek": 14,
- "raktaron": 4,
+ "raktaron": 3,
  "termekek": [
   {
    "id": "UH-105253",
@@ -21,15 +21,6 @@
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/lwk-konfirt_f9hbyc7f.png?v=2",
    "link": "https://epitoanyag.hu/fakro-komfort-60x120-cm-padlasfeljaro-lwk-280-pVUgtMTA1Mjg5",
    "ar": "77 110 Ft",
-   "akcios_ar": "",
-   "marka": "Fakro"
-  },
-  {
-   "id": "UH-359671",
-   "nev": "Fakro Komfort 60x130 cm padlásfeljáró LWK 305",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/lwk-konfirt_f9hbyc7f.png?v=2",
-   "link": "https://epitoanyag.hu/fakro-komfort-60x130-cm-padlasfeljaro-lwk-305-pVUgtMzU5Njcx",
-   "ar": "92 530 Ft",
    "akcios_ar": "",
    "marka": "Fakro"
   },

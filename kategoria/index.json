@@ -1,6 +1,6 @@
 {
- "feed_frissitve": "Tue, 22 Sep 2026 07:50:17 GMT",
- "termek_osszesen": 23865,
+ "feed_frissitve": "Wed, 23 Sep 2026 07:50:14 GMT",
+ "termek_osszesen": 23861,
  "kategoriak": [
   {
    "kategoria": "Egyéb barkácsáru",
@@ -13,14 +13,14 @@
    "kategoria": "Festés",
    "fokategoria": "Barkács",
    "slug": "festes",
-   "osszes": 433,
+   "osszes": 432,
    "kirakva": 12
   },
   {
    "kategoria": "Kerti- és kéziszerszám",
    "fokategoria": "Barkács",
    "slug": "kerti-es-keziszerszam",
-   "osszes": 356,
+   "osszes": 355,
    "kirakva": 12
   },
   {
@@ -41,7 +41,7 @@
    "kategoria": "Szerszám, szerszámgép",
    "fokategoria": "Barkács",
    "slug": "szerszam-szerszamgep",
-   "osszes": 741,
+   "osszes": 740,
    "kirakva": 12
   },
   {
@@ -174,7 +174,7 @@
    "kategoria": "Kerti bútor, árnyékolás",
    "fokategoria": "Kert",
    "slug": "kerti-butor-arnyekolas",
-   "osszes": 43,
+   "osszes": 42,
    "kirakva": 12
   },
   {
@@ -252,14 +252,14 @@
    "fokategoria": "Nyílászáró",
    "slug": "padlasfeljaro",
    "osszes": 14,
-   "kirakva": 4
+   "kirakva": 3
   },
   {
    "kategoria": "Tetőkijárat, tetőkibúvó",
    "fokategoria": "Nyílászáró",
    "slug": "tetokijarat-tetokibuvo",
    "osszes": 23,
-   "kirakva": 1
+   "kirakva": 2
   },
   {
    "kategoria": "Tetőtéri ablak, tetőtéri ablak kiegészítő",
