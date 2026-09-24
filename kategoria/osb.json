@@ -2,9 +2,9 @@
  "kategoria": "OSB",
  "fokategoria": "Faanyag",
  "slug": "osb",
- "feed_frissitve": "Wed, 23 Sep 2026 07:50:14 GMT",
+ "feed_frissitve": "Thu, 24 Sep 2026 07:50:16 GMT",
  "osszes_termek": 10,
- "raktaron": 10,
+ "raktaron": 9,
  "termekek": [
   {
    "id": "OSB10",
@@ -84,15 +84,6 @@
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/osb18nf675_atptnwrm.jpg?v=2",
    "link": "https://epitoanyag.hu/osb3-hancslap-nutfederes-18-mm-pT1NCMThORjY3NQ_eq2",
    "ar": "5 880 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
-  },
-  {
-   "id": "OSB22NF",
-   "nev": "OSB3 háncslap nútféderes 22 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/osb22nf_6yptlgnt.jpg?v=2",
-   "link": "https://epitoanyag.hu/osb3-hancslap-nutfederes-22-mm-pT1NCMjJORg_eq2",
-   "ar": "7 190 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   }

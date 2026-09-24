@@ -2,9 +2,9 @@
  "kategoria": "Gipszkarton, gipszkarton rendszer",
  "fokategoria": "Belsőépítészet",
  "slug": "gipszkarton-gipszkarton-rendszer",
- "feed_frissitve": "Wed, 23 Sep 2026 07:50:14 GMT",
+ "feed_frissitve": "Thu, 24 Sep 2026 07:50:16 GMT",
  "osszes_termek": 337,
- "raktaron": 124,
+ "raktaron": 127,
  "termekek": [
   {
    "id": "UH-731120",
@@ -34,11 +34,11 @@
    "marka": "DK"
   },
   {
-   "id": "UH-810425",
-   "nev": "Rigips RBI Impregnált gipszkarton lap 120x200x1,25 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-001791_671s7yke.jpg?v=1",
-   "link": "https://epitoanyag.hu/rigips-rbi-impregnalt-gipszkarton-lap-120x200x125-cm-pVUgtODEwNDI1",
-   "ar": "3 790 Ft",
+   "id": "UH-739884",
+   "nev": "Rigips Blue Acoustic RF 120x200x1,25 cm hanggátló-tűzgátló gipszkartonlap",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-001628_knsdk1si.jpg?v=2",
+   "link": "https://epitoanyag.hu/rigips-blue-acoustic-rf-120x200x125-cm-hanggatlo-tuzgatlo-gipszkartonlap-pVUgtNzM5ODg0",
+   "ar": "4 490 Ft",
    "akcios_ar": "",
    "marka": "Rigips"
   },
@@ -70,11 +70,11 @@
    "marka": "DK"
   },
   {
-   "id": "UH-001805",
-   "nev": "Rigips RF 120x200x1,25 cm tűzgátló gipszkartonlap",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-001805_5371aspg.jpg?v=2",
-   "link": "https://epitoanyag.hu/rigips-rf-120x200x125-cm-tuzgatlo-gipszkartonlap-pVUgtMDAxODA1",
-   "ar": "3 590 Ft",
+   "id": "UH-810425",
+   "nev": "Rigips RBI Impregnált gipszkarton lap 120x200x1,25 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-001791_671s7yke.jpg?v=1",
+   "link": "https://epitoanyag.hu/rigips-rbi-impregnalt-gipszkarton-lap-120x200x125-cm-pVUgtODEwNDI1",
+   "ar": "3 790 Ft",
    "akcios_ar": "",
    "marka": "Rigips"
   },
@@ -106,11 +106,11 @@
    "marka": "DK"
   },
   {
-   "id": "UH-001809",
-   "nev": "Rigips RFI 120x200x1,25 cm tűzgátló impregnált gipszkartonlap",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-001809_lkwumf4a.png?v=2",
-   "link": "https://epitoanyag.hu/rigips-rfi-120x200x125-cm-tuzgatlo-impregnalt-gipszkartonlap-pVUgtMDAxODA5",
-   "ar": "4 790 Ft",
+   "id": "UH-001805",
+   "nev": "Rigips RF 120x200x1,25 cm tűzgátló gipszkartonlap",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-001805_5371aspg.jpg?v=2",
+   "link": "https://epitoanyag.hu/rigips-rf-120x200x125-cm-tuzgatlo-gipszkartonlap-pVUgtMDAxODA1",
+   "ar": "3 590 Ft",
    "akcios_ar": "",
    "marka": "Rigips"
   }
