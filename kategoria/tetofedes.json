@@ -2,9 +2,9 @@
  "kategoria": "Tetőfedés",
  "fokategoria": "Építőanyag",
  "slug": "tetofedes",
- "feed_frissitve": "Thu, 24 Sep 2026 07:50:16 GMT",
- "osszes_termek": 3292,
- "raktaron": 437,
+ "feed_frissitve": "Fri, 25 Sep 2026 08:50:15 GMT",
+ "osszes_termek": 3289,
+ "raktaron": 432,
  "termekek": [
   {
    "id": "ECX-BB-LS4-BD70",
@@ -23,15 +23,6 @@
    "ar": "22 000 Ft",
    "akcios_ar": "",
    "marka": "BMI Bramac"
-  },
-  {
-   "id": "UH-527352",
-   "nev": "Gutta Eco Hobby hódfarkú zsindely barna",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-734517_xoc48oy0.jpg?v=1",
-   "link": "https://epitoanyag.hu/gutta-eco-hobby-hodfarku-zsindely-barna-pVUgtNTI3MzUy",
-   "ar": "10 305 Ft",
-   "akcios_ar": "",
-   "marka": "Gutta"
   },
   {
    "id": "UH-344833",
@@ -61,15 +52,6 @@
    "marka": "Leier"
   },
   {
-   "id": "UH-497943",
-   "nev": "Gutta Eco Hobby téglány zsindely barna",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-733149_t8govb2d.jpg?v=1",
-   "link": "https://epitoanyag.hu/gutta-eco-hobby-teglany-zsindely-barna-pVUgtNDk3OTQz",
-   "ar": "10 080 Ft",
-   "akcios_ar": "",
-   "marka": "Gutta"
-  },
-  {
    "id": "ECX-BB-LW-BK45",
    "nev": "B-Bariyer BK-45 párazáró fólia 1,6x100 m",
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/bk45_t14jtalz.png?v=1",
@@ -88,15 +70,6 @@
    "marka": "swissporTON"
   },
   {
-   "id": "UH-497942",
-   "nev": "Gutta Eco Hobby téglány zsindely zöld",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-737011_v1s93mx5.png?v=1",
-   "link": "https://epitoanyag.hu/gutta-eco-hobby-teglany-zsindely-zold-pVUgtNDk3OTQy",
-   "ar": "10 080 Ft",
-   "akcios_ar": "",
-   "marka": "Gutta"
-  },
-  {
    "id": "UH-659448",
    "nev": "Dörken Delta Liquixx GT10 flíz 10 cm x 20 m",
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-659448_ijk80pmq.png?v=2",
@@ -113,6 +86,33 @@
    "ar": "2 100 Ft",
    "akcios_ar": "",
    "marka": "Leier"
+  },
+  {
+   "id": "UH-033634",
+   "nev": "Bramac Veltitech 120 nem páraáteresztő tetőfólia 120 g, 75 m2",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-033634_9dmw3mp3.jpg?v=2",
+   "link": "https://epitoanyag.hu/bramac-veltitech-120-nem-paraatereszto-tetofolia-120-g-75-m2-pVUgtMDMzNjM0",
+   "ar": "48 375 Ft",
+   "akcios_ar": "",
+   "marka": "BMI Bramac"
+  },
+  {
+   "id": "UH-108419",
+   "nev": "swissporTON Hortobágy alapcserép natúrvörös",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-108419_3brz21b6.jpg?v=2",
+   "link": "https://epitoanyag.hu/swissporton-hortobagy-alapcserep-naturvoros-pVUgtMTA4NDE5",
+   "ar": "345 Ft",
+   "akcios_ar": "",
+   "marka": "swissporTON"
+  },
+  {
+   "id": "UH-728144",
+   "nev": "Dörken Delta XX Plus Strong páraáteresztő tetőfólia, hálóerősítéssel, két ragasztósávval 180 g/m²",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-728144_q8p8b4zt.png?v=2",
+   "link": "https://epitoanyag.hu/dorken-delta-xx-plus-strong-paraatereszto-tetofolia-haloerositessel-ket-ragasztosavval-180-gm-pVUgtNzI4MTQ0",
+   "ar": "93 000 Ft",
+   "akcios_ar": "",
+   "marka": "Dörken"
   }
  ]
 }

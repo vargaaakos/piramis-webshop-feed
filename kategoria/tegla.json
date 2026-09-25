@@ -2,9 +2,9 @@
  "kategoria": "Tégla",
  "fokategoria": "Építőanyag",
  "slug": "tegla",
- "feed_frissitve": "Thu, 24 Sep 2026 07:50:16 GMT",
+ "feed_frissitve": "Fri, 25 Sep 2026 08:50:15 GMT",
  "osszes_termek": 92,
- "raktaron": 58,
+ "raktaron": 60,
  "termekek": [
   {
    "id": "UH-198166",
@@ -61,13 +61,13 @@
    "marka": "Egyéb"
   },
   {
-   "id": "UH-198070",
-   "nev": "Leier kisméretű tömör tégla 25x12x6,5 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-198070_kod11vnq.jpg?v=2",
-   "link": "https://epitoanyag.hu/leier-kismeretu-tomor-tegla-25x12x65-cm-pVUgtMTk4MDcw",
-   "ar": "440 Ft",
+   "id": "UH-831734",
+   "nev": "Porotherm kisméretű, nagyszilárdságú tömör tégla",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-268766_cx758eil.jpg?v=2",
+   "link": "https://epitoanyag.hu/porotherm-kismeretu-nagyszilardsagu-tomor-tegla-pVUgtODMxNzM0",
+   "ar": "485 Ft",
    "akcios_ar": "",
-   "marka": "Leier"
+   "marka": "Wienerberger"
   },
   {
    "id": "UH-001215",
@@ -97,13 +97,13 @@
    "marka": "Egyéb"
   },
   {
-   "id": "PUTKMTT/448RKL",
-   "nev": "Putnoki kisméretű tömör tégla 25x12x6,5 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-kismeretu-tegla-1024x738_8ljxpo83.jpg?v=2",
-   "link": "https://epitoanyag.hu/putnoki-kismeretu-tomor-tegla-25x12x65-cm-pUFVUS01UVC80NDhSS0w_eq1",
-   "ar": "195 Ft",
+   "id": "UH-198070",
+   "nev": "Leier kisméretű tömör tégla 25x12x6,5 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-198070_kod11vnq.jpg?v=2",
+   "link": "https://epitoanyag.hu/leier-kismeretu-tomor-tegla-25x12x65-cm-pVUgtMTk4MDcw",
+   "ar": "440 Ft",
    "akcios_ar": "",
-   "marka": "Egyéb"
+   "marka": "Leier"
   },
   {
    "id": "UH-831643",
