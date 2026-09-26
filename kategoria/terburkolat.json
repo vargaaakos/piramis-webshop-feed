@@ -2,9 +2,9 @@
  "kategoria": "Térburkolat",
  "fokategoria": "Kert",
  "slug": "terburkolat",
- "feed_frissitve": "Fri, 25 Sep 2026 08:50:15 GMT",
- "osszes_termek": 1017,
- "raktaron": 111,
+ "feed_frissitve": "Sat, 26 Sep 2026 07:50:13 GMT",
+ "osszes_termek": 1018,
+ "raktaron": 115,
  "termekek": [
   {
    "id": "UH-002954",
@@ -34,11 +34,11 @@
    "marka": "Egyéb"
   },
   {
-   "id": "RF04050503",
-   "nev": "ReFlex esésvédő gumilap 4x50x50 cm, szürke",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/rf04050503-2_ek49lkeg.jpg?v=2",
-   "link": "https://epitoanyag.hu/reflex-esesvedo-gumilap-4x50x50-cm-szurke-pUkYwNDA1MDUwMw_eq2",
-   "ar": "2 750 Ft",
+   "id": "RF04050506",
+   "nev": "ReFlex esésvédő gumilap 4x50x50 cm, fekete",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/rf04050506-2_tbnmwwov.jpg?v=2",
+   "link": "https://epitoanyag.hu/reflex-esesvedo-gumilap-4x50x50-cm-fekete-pUkYwNDA1MDUwNg_eq2",
+   "ar": "2 660 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   },
@@ -106,11 +106,11 @@
    "marka": "Scherf"
   },
   {
-   "id": "RF04050501",
-   "nev": "ReFlex esésvédő gumilap 4x50x50 cm, vörös",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/rf04050501-2_71mon0v7.png?v=2",
-   "link": "https://epitoanyag.hu/reflex-esesvedo-gumilap-4x50x50-cm-voros-pUkYwNDA1MDUwMQ_eq2",
-   "ar": "2 840 Ft",
+   "id": "RF04050503",
+   "nev": "ReFlex esésvédő gumilap 4x50x50 cm, szürke",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/rf04050503-2_ek49lkeg.jpg?v=2",
+   "link": "https://epitoanyag.hu/reflex-esesvedo-gumilap-4x50x50-cm-szurke-pUkYwNDA1MDUwMw_eq2",
+   "ar": "2 750 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   }
