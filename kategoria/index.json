@@ -1,6 +1,6 @@
 {
- "feed_frissitve": "Sun, 27 Sep 2026 08:50:13 GMT",
- "termek_osszesen": 23863,
+ "feed_frissitve": "Mon, 28 Sep 2026 09:50:15 GMT",
+ "termek_osszesen": 23870,
  "kategoriak": [
   {
    "kategoria": "Egyéb barkácsáru",
@@ -27,7 +27,7 @@
    "kategoria": "Munkaruházat, védőfelszerelés",
    "fokategoria": "Barkács",
    "slug": "munkaruhazat-vedofelszereles",
-   "osszes": 185,
+   "osszes": 193,
    "kirakva": 12
   },
   {
@@ -62,7 +62,7 @@
    "kategoria": "Csempe, járólap, falburkolat",
    "fokategoria": "Belsőépítészet",
    "slug": "csempe-jarolap-falburkolat",
-   "osszes": 251,
+   "osszes": 250,
    "kirakva": 12
   },
   {
