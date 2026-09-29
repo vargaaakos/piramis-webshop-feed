@@ -2,19 +2,10 @@
  "kategoria": "Stafni, tetőléc",
  "fokategoria": "Faanyag",
  "slug": "stafni-tetolec",
- "feed_frissitve": "Mon, 28 Sep 2026 09:50:15 GMT",
+ "feed_frissitve": "Tue, 29 Sep 2026 09:50:14 GMT",
  "osszes_termek": 7,
- "raktaron": 7,
+ "raktaron": 6,
  "termekek": [
-  {
-   "id": "FA30x50x4BRAM",
-   "nev": "Bramac tetőléc 3*5 cm 4 m natúr",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/fa30x50x4bram_ihya0zfj.png?v=2",
-   "link": "https://epitoanyag.hu/bramac-tetolec-35-cm-4-m-natur-pRkEzMHg1MHg0QlJBTQ_eq2",
-   "ar": "1 200 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
-  },
   {
    "id": "FA30x50x5BRAM",
    "nev": "Bramac tetőléc 3x5cm 5 m natúr",

@@ -1,6 +1,6 @@
 {
- "feed_frissitve": "Mon, 28 Sep 2026 09:50:15 GMT",
- "termek_osszesen": 23870,
+ "feed_frissitve": "Tue, 29 Sep 2026 09:50:14 GMT",
+ "termek_osszesen": 23868,
  "kategoriak": [
   {
    "kategoria": "Egyéb barkácsáru",
@@ -13,7 +13,7 @@
    "kategoria": "Festés",
    "fokategoria": "Barkács",
    "slug": "festes",
-   "osszes": 429,
+   "osszes": 434,
    "kirakva": 12
   },
   {
@@ -27,7 +27,7 @@
    "kategoria": "Munkaruházat, védőfelszerelés",
    "fokategoria": "Barkács",
    "slug": "munkaruhazat-vedofelszereles",
-   "osszes": 193,
+   "osszes": 192,
    "kirakva": 12
   },
   {
@@ -41,7 +41,7 @@
    "kategoria": "Szerszám, szerszámgép",
    "fokategoria": "Barkács",
    "slug": "szerszam-szerszamgep",
-   "osszes": 746,
+   "osszes": 742,
    "kirakva": 12
   },
   {
@@ -111,7 +111,7 @@
    "kategoria": "Kiegészítők",
    "fokategoria": "Faanyag",
    "slug": "kiegeszitok",
-   "osszes": 171,
+   "osszes": 170,
    "kirakva": 12
   },
   {
@@ -133,7 +133,7 @@
    "fokategoria": "Faanyag",
    "slug": "stafni-tetolec",
    "osszes": 7,
-   "kirakva": 7
+   "kirakva": 6
   },
   {
    "kategoria": "Egyéb kerti kiegészítő",
@@ -209,7 +209,7 @@
    "kategoria": "Térburkolat",
    "fokategoria": "Kert",
    "slug": "terburkolat",
-   "osszes": 1018,
+   "osszes": 1017,
    "kirakva": 12
   },
   {
@@ -259,7 +259,7 @@
    "fokategoria": "Nyílászáró",
    "slug": "tetokijarat-tetokibuvo",
    "osszes": 23,
-   "kirakva": 2
+   "kirakva": 3
   },
   {
    "kategoria": "Tetőtéri ablak, tetőtéri ablak kiegészítő",

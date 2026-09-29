@@ -2,10 +2,19 @@
  "kategoria": "Tetőkijárat, tetőkibúvó",
  "fokategoria": "Nyílászáró",
  "slug": "tetokijarat-tetokibuvo",
- "feed_frissitve": "Mon, 28 Sep 2026 09:50:15 GMT",
+ "feed_frissitve": "Tue, 29 Sep 2026 09:50:14 GMT",
  "osszes_termek": 23,
- "raktaron": 2,
+ "raktaron": 3,
  "termekek": [
+  {
+   "id": "CF125130",
+   "nev": "Colorferr horganyzott acél tetőkibúvó 50x50 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-cf125130tetokib_7qro3l5c.png?v=1",
+   "link": "https://epitoanyag.hu/colorferr-horganyzott-acel-tetokibuvo-50x50-cm-pQ0YxMjUxMzA_eq1",
+   "ar": "20 010 Ft",
+   "akcios_ar": "",
+   "marka": "Colorferr"
+  },
   {
    "id": "UH-204826",
    "nev": "VELUX VLT 025 45x55 cm tetőkibúvó, oldalra nyíló",
