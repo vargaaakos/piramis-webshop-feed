@@ -2,9 +2,9 @@
  "kategoria": "Vakolat, csemperagasztó, habarcs, cement, szilikon",
  "fokategoria": "Építőanyag",
  "slug": "vakolat-csemperagaszto-habarcs-cement-szilikon",
- "feed_frissitve": "Tue, 29 Sep 2026 09:50:14 GMT",
+ "feed_frissitve": "Wed, 30 Sep 2026 09:50:15 GMT",
  "osszes_termek": 13672,
- "raktaron": 304,
+ "raktaron": 302,
  "termekek": [
   {
    "id": "UH-518826",
@@ -52,15 +52,6 @@
    "marka": "Cemix"
   },
   {
-   "id": "UH-001571",
-   "nev": "Duna-Dráva cement 32,5 R, 25 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/ddc-vaci-zsakok_7tqg8wys.png?v=1",
-   "link": "https://epitoanyag.hu/duna-drava-cement-325-r-25-kg-pVUgtMDAxNTcx",
-   "ar": "2 190 Ft",
-   "akcios_ar": "",
-   "marka": "DUNA-DRÁVA CEMENT"
-  },
-  {
    "id": "UH-293288",
    "nev": "újHÁZ Estrich 40 kg",
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/estrich_4lxdz7d9.png?v=2",
@@ -68,6 +59,15 @@
    "ar": "2 110 Ft",
    "akcios_ar": "",
    "marka": "ÚjHáz"
+  },
+  {
+   "id": "UH-001571",
+   "nev": "Duna-Dráva cement 32,5 R, 25 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/ddc-vaci-zsakok_7tqg8wys.png?v=1",
+   "link": "https://epitoanyag.hu/duna-drava-cement-325-r-25-kg-pVUgtMDAxNTcx",
+   "ar": "2 190 Ft",
+   "akcios_ar": "",
+   "marka": "DUNA-DRÁVA CEMENT"
   },
   {
    "id": "UH-088540",

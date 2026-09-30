@@ -2,9 +2,9 @@
  "kategoria": "Egyéb kerti kiegészítő",
  "fokategoria": "Kert",
  "slug": "egyeb-kerti-kiegeszito",
- "feed_frissitve": "Tue, 29 Sep 2026 09:50:14 GMT",
+ "feed_frissitve": "Wed, 30 Sep 2026 09:50:15 GMT",
  "osszes_termek": 8,
- "raktaron": 4,
+ "raktaron": 3,
  "termekek": [
   {
    "id": "AJ027A",
@@ -14,15 +14,6 @@
    "ar": "78 900 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
-  },
-  {
-   "id": "UH-198112",
-   "nev": "Leier körszelvényű talpas cső 30 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-198109_wqgea1kh.jpg?v=2",
-   "link": "https://epitoanyag.hu/leier-korszelvenyu-talpas-cso-30-cm-pVUgtMTk4MTEy",
-   "ar": "9 015 Ft",
-   "akcios_ar": "",
-   "marka": "Leier"
   },
   {
    "id": "UH-198113",
