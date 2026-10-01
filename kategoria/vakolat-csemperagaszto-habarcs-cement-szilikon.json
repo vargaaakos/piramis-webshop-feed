@@ -2,9 +2,9 @@
  "kategoria": "Vakolat, csemperagasztó, habarcs, cement, szilikon",
  "fokategoria": "Építőanyag",
  "slug": "vakolat-csemperagaszto-habarcs-cement-szilikon",
- "feed_frissitve": "Wed, 30 Sep 2026 09:50:15 GMT",
+ "feed_frissitve": "Thu, 01 Oct 2026 09:50:13 GMT",
  "osszes_termek": 13672,
- "raktaron": 302,
+ "raktaron": 300,
  "termekek": [
   {
    "id": "UH-518826",
@@ -25,6 +25,15 @@
    "marka": "Baumit"
   },
   {
+   "id": "UH-035639",
+   "nev": "Cemix 5522 NivoPlus 3-15 önterülő padlókiegyenlítő 25 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-035639_wdndtojq.png?v=2",
+   "link": "https://epitoanyag.hu/cemix-5522-nivoplus-3-15-onterulo-padlokiegyenlito-25-kg-pVUgtMDM1NjM5",
+   "ar": "5 890 Ft",
+   "akcios_ar": "",
+   "marka": "Cemix"
+  },
+  {
    "id": "UH-089560",
    "nev": "Mapei Mapepur Cleaner purhab tisztító 500 ml",
    "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-089560_bzy5tylo.png?v=2",
@@ -41,15 +50,6 @@
    "ar": "3 230 Ft",
    "akcios_ar": "",
    "marka": "Baumit"
-  },
-  {
-   "id": "UH-035639",
-   "nev": "Cemix 5522 NivoPlus 3-15 önterülő padlókiegyenlítő 25 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-035639_wdndtojq.png?v=2",
-   "link": "https://epitoanyag.hu/cemix-5522-nivoplus-3-15-onterulo-padlokiegyenlito-25-kg-pVUgtMDM1NjM5",
-   "ar": "5 890 Ft",
-   "akcios_ar": "",
-   "marka": "Cemix"
   },
   {
    "id": "UH-293288",
