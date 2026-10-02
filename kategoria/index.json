@@ -1,6 +1,6 @@
 {
- "feed_frissitve": "Thu, 01 Oct 2026 09:50:13 GMT",
- "termek_osszesen": 23863,
+ "feed_frissitve": "Fri, 02 Oct 2026 09:50:15 GMT",
+ "termek_osszesen": 23860,
  "kategoriak": [
   {
    "kategoria": "Egyéb barkácsáru",
@@ -13,14 +13,14 @@
    "kategoria": "Festés",
    "fokategoria": "Barkács",
    "slug": "festes",
-   "osszes": 432,
+   "osszes": 430,
    "kirakva": 12
   },
   {
    "kategoria": "Kerti- és kéziszerszám",
    "fokategoria": "Barkács",
    "slug": "kerti-es-keziszerszam",
-   "osszes": 356,
+   "osszes": 355,
    "kirakva": 12
   },
   {
@@ -133,7 +133,7 @@
    "fokategoria": "Faanyag",
    "slug": "stafni-tetolec",
    "osszes": 7,
-   "kirakva": 6
+   "kirakva": 7
   },
   {
    "kategoria": "Egyéb kerti kiegészítő",

@@ -2,14 +2,14 @@
  "kategoria": "Kerti- és kéziszerszám",
  "fokategoria": "Barkács",
  "slug": "kerti-es-keziszerszam",
- "feed_frissitve": "Thu, 01 Oct 2026 09:50:13 GMT",
- "osszes_termek": 356,
- "raktaron": 331,
+ "feed_frissitve": "Fri, 02 Oct 2026 09:50:15 GMT",
+ "osszes_termek": 355,
+ "raktaron": 330,
  "termekek": [
   {
    "id": "UH-775327",
    "nev": "Fiskars 3 utas csatlakozó, különböző méretű tömlőkhöz",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-fis-1027070_9w1h88z2.jpg?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-fis-1027070_9w1h88z2.jpg?v=3",
    "link": "https://epitoanyag.hu/fiskars-3-utas-csatlakozo-kulonbozo-meretu-tomlokhoz-pVUgtNzc1MzI3",
    "ar": "2 030 Ft",
    "akcios_ar": "",
@@ -18,7 +18,7 @@
   {
    "id": "MWK-4932480582",
    "nev": "Milwaukee 14-az-1-ben racsnis csavarhúzó",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4932480582-3_vmpovm4b.jpg?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/mwk-4932480582-3_vmpovm4b.jpg?v=3",
    "link": "https://epitoanyag.hu/milwaukee-14-az-1-ben-racsnis-csavarhuzo-pTVdLLTQ5MzI0ODA1ODI_eq1",
    "ar": "10 900 Ft",
    "akcios_ar": "",
@@ -27,7 +27,7 @@
   {
    "id": "MWK-4932459067",
    "nev": "Milwaukee Redstick Backbone vízmérték mágneses, 100 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4932459067_dgzfm5c0.jpg?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/mwk-4932459067_dgzfm5c0.jpg?v=3",
    "link": "https://epitoanyag.hu/milwaukee-redstick-backbone-vizmertek-magneses-100-cm-pTVdLLTQ5MzI0NTkwNjc_eq1",
    "ar": "27 000 Ft",
    "akcios_ar": "",
@@ -36,7 +36,7 @@
   {
    "id": "UH-775347",
    "nev": "Fiskars CarbonMax Snap-off pengekés 18 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-fis-1027227_dcabi1zg.jpg?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-fis-1027227_dcabi1zg.jpg?v=3",
    "link": "https://epitoanyag.hu/fiskars-carbonmax-snap-off-pengekes-18-mm-pVUgtNzc1MzQ3",
    "ar": "6 330 Ft",
    "akcios_ar": "",
@@ -45,7 +45,7 @@
   {
    "id": "MWK-4932471637",
    "nev": "Milwaukee cserezsinór kicsapóhoz 45 m",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-4932471637-1_pg8wc4sf.jpg?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/mwk-4932471637-1_pg8wc4sf.jpg?v=3",
    "link": "https://epitoanyag.hu/milwaukee-cserezsinor-kicsapohoz-45-m-pTVdLLTQ5MzI0NzE2Mzc_eq1",
    "ar": "3 800 Ft",
    "akcios_ar": "",
@@ -54,7 +54,7 @@
   {
    "id": "UH-775295",
    "nev": "Fiskars IsoCore kalapács L",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-fis-1020218_qtnc3sf0.jpg?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-fis-1020218_qtnc3sf0.jpg?v=3",
    "link": "https://epitoanyag.hu/fiskars-isocore-kalapacs-l-pVUgtNzc1Mjk1",
    "ar": "16 900 Ft",
    "akcios_ar": "",
@@ -63,7 +63,7 @@
   {
    "id": "UH-783708",
    "nev": "Fiskars PB-8 L nagy, professzionális metszőolló, mellévágó",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-fis-111870_5jki7ujb.jpg?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-fis-111870_5jki7ujb.jpg?v=3",
    "link": "https://epitoanyag.hu/fiskars-pb-8-l-nagy-professzionalis-metszoollo-mellevago-pVUgtNzgzNzA4",
    "ar": "21 740 Ft",
    "akcios_ar": "",
@@ -72,7 +72,7 @@
   {
    "id": "UH-775343",
    "nev": "Fiskars PowerGear Aviation lemezvágó olló bulldog, balkezes",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-fis-1027212_9orow0lg.jpg?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-fis-1027212_9orow0lg.jpg?v=3",
    "link": "https://epitoanyag.hu/fiskars-powergear-aviation-lemezvago-ollo-bulldog-balkezes-pVUgtNzc1MzQz",
    "ar": "9 670 Ft",
    "akcios_ar": "",
@@ -81,7 +81,7 @@
   {
    "id": "SOL-53031301",
    "nev": "Sola HKM 1/10 W mérőléc 1 m",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/sol-53031301-1_vwssoh3i.jpg?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/sol-53031301-1_vwssoh3i.jpg?v=3",
    "link": "https://epitoanyag.hu/sola-hkm-110-w-merolec-1-m-pU09MLTUzMDMxMzAx",
    "ar": "2 800 Ft",
    "akcios_ar": "",
@@ -90,7 +90,7 @@
   {
    "id": "UH-179543",
    "nev": "Schuller Corkpad parafa csiszolótuskó 60x100 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-179543_ajdjeuw9.jpg?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-179543_ajdjeuw9.jpg?v=3",
    "link": "https://epitoanyag.hu/schuller-corkpad-parafa-csiszolotusko-60x100-mm-pVUgtMTc5NTQz",
    "ar": "1 100 Ft",
    "akcios_ar": "",
@@ -99,7 +99,7 @@
   {
    "id": "MWK-48227212",
    "nev": "Milwaukee alumínium nyelű csőfogó 12\"/30 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/mwk-48227212-2_4e8fynwv.jpg?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/mwk-48227212-2_4e8fynwv.jpg?v=3",
    "link": "https://epitoanyag.hu/milwaukee-aluminium-nyelu-csofogo-1230-cm-pTVdLLTQ4MjI3MjEy",
    "ar": "10 900 Ft",
    "akcios_ar": "",
@@ -108,7 +108,7 @@
   {
    "id": "UH-775246",
    "nev": "Fiskars csavart hasítóék",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-fis-120020_g02q2nti.jpg?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-fis-120020_g02q2nti.jpg?v=3",
    "link": "https://epitoanyag.hu/fiskars-csavart-hasitoek-pVUgtNzc1MjQ2",
    "ar": "13 000 Ft",
    "akcios_ar": "",

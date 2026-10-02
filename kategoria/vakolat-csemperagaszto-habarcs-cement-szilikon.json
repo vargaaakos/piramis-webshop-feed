@@ -2,14 +2,14 @@
  "kategoria": "Vakolat, csemperagasztó, habarcs, cement, szilikon",
  "fokategoria": "Építőanyag",
  "slug": "vakolat-csemperagaszto-habarcs-cement-szilikon",
- "feed_frissitve": "Thu, 01 Oct 2026 09:50:13 GMT",
+ "feed_frissitve": "Fri, 02 Oct 2026 09:50:15 GMT",
  "osszes_termek": 13672,
- "raktaron": 300,
+ "raktaron": 307,
  "termekek": [
   {
    "id": "UH-518826",
    "nev": "Mapei Mapeflex AC3 festhető akril fehér 310 ml",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-518826_hmxq5cla.png?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-518826_hmxq5cla.png?v=3",
    "link": "https://epitoanyag.hu/mapei-mapeflex-ac3-festheto-akril-feher-310-ml-pVUgtNTE4ODI2",
    "ar": "1 225 Ft",
    "akcios_ar": "",
@@ -18,52 +18,43 @@
   {
    "id": "UH-675544",
    "nev": "Baumit Finish Expert Prémium beltéri glett 20 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-xim0041972pngpagespeedicznkaxnsqgk_jzyqedf5.png?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-xim0041972pngpagespeedicznkaxnsqgk_jzyqedf5.png?v=3",
    "link": "https://epitoanyag.hu/baumit-finish-expert-premium-belteri-glett-20-kg-pVUgtNjc1NTQ0",
    "ar": "9 065 Ft",
    "akcios_ar": "",
    "marka": "Baumit"
   },
   {
-   "id": "UH-035639",
-   "nev": "Cemix 5522 NivoPlus 3-15 önterülő padlókiegyenlítő 25 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-035639_wdndtojq.png?v=2",
-   "link": "https://epitoanyag.hu/cemix-5522-nivoplus-3-15-onterulo-padlokiegyenlito-25-kg-pVUgtMDM1NjM5",
-   "ar": "5 890 Ft",
-   "akcios_ar": "",
-   "marka": "Cemix"
-  },
-  {
    "id": "UH-089560",
    "nev": "Mapei Mapepur Cleaner purhab tisztító 500 ml",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-089560_bzy5tylo.png?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-089560_bzy5tylo.png?v=3",
    "link": "https://epitoanyag.hu/mapei-mapepur-cleaner-purhab-tisztito-500-ml-pVUgtMDg5NTYw",
    "ar": "3 530 Ft",
    "akcios_ar": "",
    "marka": "Mapei"
   },
   {
+   "id": "UH-035639",
+   "nev": "Cemix 5522 NivoPlus 3-15 önterülő padlókiegyenlítő 25 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-035639_wdndtojq.png?v=3",
+   "link": "https://epitoanyag.hu/cemix-5522-nivoplus-3-15-onterulo-padlokiegyenlito-25-kg-pVUgtMDM1NjM5",
+   "ar": "5 890 Ft",
+   "akcios_ar": "",
+   "marka": "Cemix"
+  },
+  {
    "id": "UH-554875",
    "nev": "Baumit KlímaUni meszes könnyűvakolat, kézi, fehér 25 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-uh-020456_csy5r1k3.jpeg?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-uh-020456_csy5r1k3.jpeg?v=3",
    "link": "https://epitoanyag.hu/baumit-klimauni-meszes-konnyuvakolat-kezi-feher-25-kg-pVUgtNTU0ODc1",
    "ar": "3 230 Ft",
    "akcios_ar": "",
    "marka": "Baumit"
   },
   {
-   "id": "UH-293288",
-   "nev": "újHÁZ Estrich 40 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/estrich_4lxdz7d9.png?v=2",
-   "link": "https://epitoanyag.hu/ujhaz-estrich-40-kg-pVUgtMjkzMjg4",
-   "ar": "2 110 Ft",
-   "akcios_ar": "",
-   "marka": "ÚjHáz"
-  },
-  {
    "id": "UH-001571",
    "nev": "Duna-Dráva cement 32,5 R, 25 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/ddc-vaci-zsakok_7tqg8wys.png?v=1",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/ddc-vaci-zsakok_7tqg8wys.png?v=2",
    "link": "https://epitoanyag.hu/duna-drava-cement-325-r-25-kg-pVUgtMDAxNTcx",
    "ar": "2 190 Ft",
    "akcios_ar": "",
@@ -72,16 +63,25 @@
   {
    "id": "UH-088540",
    "nev": "Mapei Eporip Turbo kétkomponensű gyorskötő repedésjavító gyanta 0,5 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-088540_524b3kox.png?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-088540_524b3kox.png?v=3",
    "link": "https://epitoanyag.hu/mapei-eporip-turbo-ketkomponensu-gyorskoto-repedesjavito-gyanta-05-kg-pVUgtMDg4NTQw",
    "ar": "7 050 Ft",
    "akcios_ar": "",
    "marka": "Mapei"
   },
   {
+   "id": "UH-293288",
+   "nev": "újHÁZ Estrich 40 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/estrich_4lxdz7d9.png?v=3",
+   "link": "https://epitoanyag.hu/ujhaz-estrich-40-kg-pVUgtMjkzMjg4",
+   "ar": "2 110 Ft",
+   "akcios_ar": "",
+   "marka": "ÚjHáz"
+  },
+  {
    "id": "UH-599607",
    "nev": "Revco Vario+ Struktúra gördülőszemcsés vékonyvakolat 2 mm bonbon 4 16 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-599607-2_xjpj64c4.png?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-599607-2_xjpj64c4.png?v=3",
    "link": "https://epitoanyag.hu/revco-vario-struktura-gorduloszemcses-vekonyvakolat-2-mm-bonbon-4-16-kg-pVUgtNTk5NjA3",
    "ar": "14 655 Ft",
    "akcios_ar": "",
@@ -90,7 +90,7 @@
   {
    "id": "MÉSZOLTOTT25KAL",
    "nev": "Oltott mész 25 kg (10 q/vas kaloda)",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-meszoltott25_kgiiug8m.jpg?v=3",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-meszoltott25_kgiiug8m.jpg?v=4",
    "link": "https://epitoanyag.hu/oltott-mesz-25-kg-10-qvas-kaloda-pTcOJU1pPTFRPVFQyNUtBTA_eq2",
    "ar": "1 880 Ft",
    "akcios_ar": "",
@@ -99,7 +99,7 @@
   {
    "id": "UH-526281",
    "nev": "Mapei Mapeflex MS 45 Festhető hézagkitöltő ragasztó fehér 300 ml",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-526281_lt66iwv5.png?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-526281_lt66iwv5.png?v=3",
    "link": "https://epitoanyag.hu/mapei-mapeflex-ms-45-festheto-hezagkitolto-ragaszto-feher-300-ml-pVUgtNTI2Mjgx",
    "ar": "4 770 Ft",
    "akcios_ar": "",
@@ -108,7 +108,7 @@
   {
    "id": "AKN-5274286",
    "nev": "Dulux Pre-Paint Fine filler készrekevert extra finom glett 1 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/akn-5274286_48vowwmx.jpg?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/akn-5274286_48vowwmx.jpg?v=3",
    "link": "https://epitoanyag.hu/dulux-pre-paint-fine-filler-keszrekevert-extra-finom-glett-1-kg-pQUtOLTUyNzQyODY_eq1",
    "ar": "2 865 Ft",
    "akcios_ar": "",

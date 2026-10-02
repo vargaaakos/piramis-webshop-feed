@@ -2,14 +2,14 @@
  "kategoria": "Térburkolat",
  "fokategoria": "Kert",
  "slug": "terburkolat",
- "feed_frissitve": "Thu, 01 Oct 2026 09:50:13 GMT",
+ "feed_frissitve": "Fri, 02 Oct 2026 09:50:15 GMT",
  "osszes_termek": 1017,
- "raktaron": 118,
+ "raktaron": 117,
  "termekek": [
   {
    "id": "UH-002954",
    "nev": "ABeton Balaton térkő normálkő őszilomb 12x24x6 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-002954_jkl6vkls.jpg?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-002954_jkl6vkls.jpg?v=3",
    "link": "https://epitoanyag.hu/abeton-balaton-terko-normalko-oszilomb-12x24x6-cm-pVUgtMDAyOTU0",
    "ar": "69 046 Ft",
    "akcios_ar": "",
@@ -18,7 +18,7 @@
   {
    "id": "BETV-KSZEG",
    "nev": "BetonLM K-szegély szürke 25x25x15/10 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/k-01_8neg39fa.jpg?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/k-01_8neg39fa.jpg?v=3",
    "link": "https://epitoanyag.hu/betonlm-k-szegely-szurke-25x25x1510-cm-pQkVUVi1LU1pFRw_eq2",
    "ar": "645 Ft",
    "akcios_ar": "",
@@ -27,7 +27,7 @@
   {
    "id": "SO008",
    "nev": "Pilisi murva 5-12 mm, 25 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/kerti-murva_h2w6f2pa.jpg?v=3",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/kerti-murva_h2w6f2pa.jpg?v=4",
    "link": "https://epitoanyag.hu/pilisi-murva-5-12-mm-25-kg-pU08wMDg_eq1",
    "ar": "2 600 Ft",
    "akcios_ar": "",
@@ -36,7 +36,7 @@
   {
    "id": "RF04050506",
    "nev": "ReFlex esésvédő gumilap 4x50x50 cm, fekete",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/rf04050506-2_tbnmwwov.jpg?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/rf04050506-2_tbnmwwov.jpg?v=3",
    "link": "https://epitoanyag.hu/reflex-esesvedo-gumilap-4x50x50-cm-fekete-pUkYwNDA1MDUwNg_eq2",
    "ar": "2 660 Ft",
    "akcios_ar": "",
@@ -45,7 +45,7 @@
   {
    "id": "UH-810982",
    "nev": "AV Costarica műfű, 4 m tekercsszélesség",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-810982_hr5umxwg.png?v=1",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-810982_hr5umxwg.png?v=2",
    "link": "https://epitoanyag.hu/av-costarica-mufu-4-m-tekercsszelesseg-pVUgtODEwOTgy",
    "ar": "31 300 Ft",
    "akcios_ar": "27 980 Ft",
@@ -54,7 +54,7 @@
   {
    "id": "UH-233550",
    "nev": "Bergdeck WPC alátétszerkezet natúr felület, barna, 2,4 m",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/barna-alatet_s42c7miz.png?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/barna-alatet_s42c7miz.png?v=3",
    "link": "https://epitoanyag.hu/bergdeck-wpc-alatetszerkezet-natur-felulet-barna-24-m-pVUgtMjMzNTUw",
    "ar": "6 120 Ft",
    "akcios_ar": "",
@@ -63,7 +63,7 @@
   {
    "id": "BETEJGYÖNGYK40*40*5",
    "nev": "EPAG gyöngykavicsos járdalap 40x40x5 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/betejgyongyk40405_acntx75l.jpg?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/betejgyongyk40405_acntx75l.jpg?v=3",
    "link": "https://epitoanyag.hu/epag-gyongykavicsos-jardalap-40x40x5-cm-pQkVURUpHWcOWTkdZSzQwKjQwKjU_eq1",
    "ar": "1 760 Ft",
    "akcios_ar": "",
@@ -72,7 +72,7 @@
   {
    "id": "BETV-GYEPR40",
    "nev": "BetonLM gyeprács 40x40x10 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/sz_1t71m0zy.png?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/sz_1t71m0zy.png?v=3",
    "link": "https://epitoanyag.hu/betonlm-gyepracs-40x40x10-cm-pQkVUVi1HWUVQUjQw",
    "ar": "825 Ft",
    "akcios_ar": "",
@@ -81,7 +81,7 @@
   {
    "id": "UH-035587",
    "nev": "Cemix 1050 QuarzSand kvarchomok 40 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/1050-quarzsand-25kg-2023-3d_ekjr4vfu.png?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/1050-quarzsand-25kg-2023-3d_ekjr4vfu.png?v=3",
    "link": "https://epitoanyag.hu/cemix-1050-quarzsand-kvarchomok-40-kg-pVUgtMDM1NTg3",
    "ar": "3 880 Ft",
    "akcios_ar": "",
@@ -90,7 +90,7 @@
   {
    "id": "UH-186740",
    "nev": "KK Kavics  süllyesztett szegélykő 15x40x20 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/uh-530442_k4oej4s8.png?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-530442_k4oej4s8.png?v=3",
    "link": "https://epitoanyag.hu/kk-kavics-sullyesztett-szegelyko-15x40x20-cm-pVUgtMTg2NzQw",
    "ar": "1 170 Ft",
    "akcios_ar": "",
@@ -99,7 +99,7 @@
   {
    "id": "UH-760898",
    "nev": "Scherf carrarai márvány díszkavics fehér 16-25 mm, 25 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/copied-scherf-43404-carrara-weiss-16-25mm-trocken_vj5oyfcr.jpg?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-scherf-43404-carrara-weiss-16-25mm-trocken_vj5oyfcr.jpg?v=3",
    "link": "https://epitoanyag.hu/scherf-carrarai-marvany-diszkavics-feher-16-25-mm-25-kg-pVUgtNzYwODk4",
    "ar": "3 850 Ft",
    "akcios_ar": "",
@@ -108,7 +108,7 @@
   {
    "id": "RF04050503",
    "nev": "ReFlex esésvédő gumilap 4x50x50 cm, szürke",
-   "kep": "https://file.epitoanyag.hu/product_images/535x400/resize/rf04050503-2_ek49lkeg.jpg?v=2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/rf04050503-2_ek49lkeg.jpg?v=3",
    "link": "https://epitoanyag.hu/reflex-esesvedo-gumilap-4x50x50-cm-szurke-pUkYwNDA1MDUwMw_eq2",
    "ar": "2 750 Ft",
    "akcios_ar": "",
