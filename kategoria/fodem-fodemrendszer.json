@@ -2,16 +2,16 @@
  "kategoria": "Födém, födémrendszer",
  "fokategoria": "Építőanyag",
  "slug": "fodem-fodemrendszer",
- "feed_frissitve": "Fri, 02 Oct 2026 09:50:15 GMT",
+ "feed_frissitve": "Sat, 03 Oct 2026 08:50:13 GMT",
  "osszes_termek": 37,
- "raktaron": 34,
+ "raktaron": 35,
  "termekek": [
   {
-   "id": "UH-100171",
-   "nev": "Wienerberger Porotherm födémgerenda 2,5 m",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-100171_lezh9bp9.jpg?v=3",
-   "link": "https://epitoanyag.hu/wienerberger-porotherm-fodemgerenda-25-m-pVUgtMTAwMTcx",
-   "ar": "9 900 Ft",
+   "id": "UH-100184",
+   "nev": "Wienerberger  Porotherm födémgerenda 5,75 m",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-100184_q91s0fkd.jpg?v=3",
+   "link": "https://epitoanyag.hu/wienerberger-porotherm-fodemgerenda-575-m-pVUgtMTAwMTg0",
+   "ar": "22 800 Ft",
    "akcios_ar": "",
    "marka": "Wienerberger"
   },
@@ -34,11 +34,11 @@
    "marka": "BetonLM 2000"
   },
   {
-   "id": "UH-100172",
-   "nev": "Wienerberger Porotherm födémgerenda 2,75 m",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-100172_7jm29ny3.jpg?v=3",
-   "link": "https://epitoanyag.hu/wienerberger-porotherm-fodemgerenda-275-m-pVUgtMTAwMTcy",
-   "ar": "10 900 Ft",
+   "id": "UH-100171",
+   "nev": "Wienerberger Porotherm födémgerenda 2,5 m",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-100171_lezh9bp9.jpg?v=3",
+   "link": "https://epitoanyag.hu/wienerberger-porotherm-fodemgerenda-25-m-pVUgtMTAwMTcx",
+   "ar": "9 900 Ft",
    "akcios_ar": "",
    "marka": "Wienerberger"
   },
@@ -61,11 +61,11 @@
    "marka": "Wienerberger"
   },
   {
-   "id": "UH-100173",
-   "nev": "Wienerberger Porotherm födémgerenda 3 m",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-100173_3cdba1ow.jpg?v=3",
-   "link": "https://epitoanyag.hu/wienerberger-porotherm-fodemgerenda-3-m-pVUgtMTAwMTcz",
-   "ar": "11 900 Ft",
+   "id": "UH-100172",
+   "nev": "Wienerberger Porotherm födémgerenda 2,75 m",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-100172_7jm29ny3.jpg?v=3",
+   "link": "https://epitoanyag.hu/wienerberger-porotherm-fodemgerenda-275-m-pVUgtMTAwMTcy",
+   "ar": "10 900 Ft",
    "akcios_ar": "",
    "marka": "Wienerberger"
   },
@@ -88,11 +88,11 @@
    "marka": "SW"
   },
   {
-   "id": "UH-100174",
-   "nev": "Wienerberger Porotherm födémgerenda 3,25 m",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-100174_zegdkcu2.jpg?v=3",
-   "link": "https://epitoanyag.hu/wienerberger-porotherm-fodemgerenda-325-m-pVUgtMTAwMTc0",
-   "ar": "12 900 Ft",
+   "id": "UH-100173",
+   "nev": "Wienerberger Porotherm födémgerenda 3 m",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-100173_3cdba1ow.jpg?v=3",
+   "link": "https://epitoanyag.hu/wienerberger-porotherm-fodemgerenda-3-m-pVUgtMTAwMTcz",
+   "ar": "11 900 Ft",
    "akcios_ar": "",
    "marka": "Wienerberger"
   },
