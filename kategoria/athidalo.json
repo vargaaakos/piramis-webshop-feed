@@ -2,9 +2,9 @@
  "kategoria": "Áthidaló",
  "fokategoria": "Építőanyag",
  "slug": "athidalo",
- "feed_frissitve": "Sat, 03 Oct 2026 08:50:13 GMT",
+ "feed_frissitve": "Sun, 04 Oct 2026 09:50:13 GMT",
  "osszes_termek": 85,
- "raktaron": 77,
+ "raktaron": 76,
  "termekek": [
   {
    "id": "UH-198379",
@@ -97,20 +97,20 @@
    "marka": "Leier"
   },
   {
-   "id": "UH-198413",
-   "nev": "Leier MDE 150 elemmagas áthidaló 150x23,8x8 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-198413_1a8h9al1.jpg?v=3",
-   "link": "https://epitoanyag.hu/leier-mde-150-elemmagas-athidalo-150x238x8-cm-pVUgtMTk4NDEz",
-   "ar": "5 215 Ft",
-   "akcios_ar": "",
-   "marka": "Leier"
-  },
-  {
    "id": "UH-198415",
    "nev": "Leier MDE 175 elemmagas áthidaló 175x23,8x8 cm",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-198415_9v56lic1.jpg?v=3",
    "link": "https://epitoanyag.hu/leier-mde-175-elemmagas-athidalo-175x238x8-cm-pVUgtMTk4NDE1",
    "ar": "6 180 Ft",
+   "akcios_ar": "",
+   "marka": "Leier"
+  },
+  {
+   "id": "UH-198417",
+   "nev": "Leier MDE 200 elemmagas áthidaló 200x23,8x8 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-198417_3zw27xoq.jpg?v=3",
+   "link": "https://epitoanyag.hu/leier-mde-200-elemmagas-athidalo-200x238x8-cm-pVUgtMTk4NDE3",
+   "ar": "7 145 Ft",
    "akcios_ar": "",
    "marka": "Leier"
   }
