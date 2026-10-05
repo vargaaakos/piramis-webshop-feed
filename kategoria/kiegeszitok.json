@@ -2,9 +2,9 @@
  "kategoria": "Kiegészítők",
  "fokategoria": "Faanyag",
  "slug": "kiegeszitok",
- "feed_frissitve": "Sun, 04 Oct 2026 09:50:13 GMT",
+ "feed_frissitve": "Mon, 05 Oct 2026 09:50:14 GMT",
  "osszes_termek": 171,
- "raktaron": 151,
+ "raktaron": 150,
  "termekek": [
   {
    "id": "UH-125178",
@@ -30,15 +30,6 @@
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-125181_lcxnn0qx.jpg?v=3",
    "link": "https://epitoanyag.hu/anyacsavar-m16-horganyzott-8-mm-pVUgtMTI1MTgx",
    "ar": "75 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
-  },
-  {
-   "id": "UH-125182",
-   "nev": "Anyacsavar M16 natúr 8 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/sg100_cnk7lp7r.jpg?v=3",
-   "link": "https://epitoanyag.hu/anyacsavar-m16-natur-8-mm-pVUgtMTI1MTgy",
-   "ar": "50 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   },
@@ -111,6 +102,15 @@
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-copied-copied-copied-copied-copied-uh-129511_d4ypuv8m.jpg?v=2",
    "link": "https://epitoanyag.hu/bognarszeg-horganyzott-20x40-mm-pVUgtMTI5NTE3",
    "ar": "185 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-129521",
+   "nev": "Bognárszeg horganyzott 2,8x65 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-copied-copied-copied-copied-copied-copied-copied-uh-129511_qmp5gdac.jpg?v=2",
+   "link": "https://epitoanyag.hu/bognarszeg-horganyzott-28x65-mm-pVUgtMTI5NTIx",
+   "ar": "187 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   }
