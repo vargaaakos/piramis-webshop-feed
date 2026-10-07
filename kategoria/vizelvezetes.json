@@ -2,9 +2,9 @@
  "kategoria": "Vízelvezetés",
  "fokategoria": "Kert",
  "slug": "vizelvezetes",
- "feed_frissitve": "Tue, 06 Oct 2026 09:50:14 GMT",
+ "feed_frissitve": "Wed, 07 Oct 2026 09:50:13 GMT",
  "osszes_termek": 312,
- "raktaron": 64,
+ "raktaron": 65,
  "termekek": [
   {
    "id": "MA017",
@@ -79,11 +79,11 @@
    "marka": "ACO"
   },
   {
-   "id": "UH-761363",
-   "nev": "Valplast KG PVC többrétegű tokos cső gumigyűrűvel 110 mm, 2 m",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-761363_95cosuzx.jpg?v=3",
-   "link": "https://epitoanyag.hu/valplast-kg-pvc-tobbretegu-tokos-cso-gumigyuruvel-110-mm-2-m-pVUgtNzYxMzYz",
-   "ar": "3 840 Ft",
+   "id": "UH-761362",
+   "nev": "Valplast KG PVC többrétegű tokos cső gumigyűrűvel 110 mm, 1 m",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-761362_5o6uzrrc.jpg?v=3",
+   "link": "https://epitoanyag.hu/valplast-kg-pvc-tobbretegu-tokos-cso-gumigyuruvel-110-mm-1-m-pVUgtNzYxMzYy",
+   "ar": "1 500 Ft",
    "akcios_ar": "",
    "marka": "Valplast"
   },
@@ -97,11 +97,11 @@
    "marka": "ACO"
   },
   {
-   "id": "UH-761358",
-   "nev": "Valplast KG PVC végelzáró 110 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-761358_g8m8uhon.jpg?v=3",
-   "link": "https://epitoanyag.hu/valplast-kg-pvc-vegelzaro-110-mm-pVUgtNzYxMzU4",
-   "ar": "255 Ft",
+   "id": "UH-761363",
+   "nev": "Valplast KG PVC többrétegű tokos cső gumigyűrűvel 110 mm, 2 m",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-761363_95cosuzx.jpg?v=3",
+   "link": "https://epitoanyag.hu/valplast-kg-pvc-tobbretegu-tokos-cso-gumigyuruvel-110-mm-2-m-pVUgtNzYxMzYz",
+   "ar": "3 840 Ft",
    "akcios_ar": "",
    "marka": "Valplast"
   },
