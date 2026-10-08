@@ -2,16 +2,16 @@
  "kategoria": "Festés",
  "fokategoria": "Barkács",
  "slug": "festes",
- "feed_frissitve": "Wed, 07 Oct 2026 09:50:13 GMT",
- "osszes_termek": 423,
- "raktaron": 419,
+ "feed_frissitve": "Thu, 08 Oct 2026 10:50:15 GMT",
+ "osszes_termek": 418,
+ "raktaron": 414,
  "termekek": [
   {
-   "id": "AKN-5093916",
-   "nev": "Hammerite Közvetlenül a Rozsdára fényes arany 0,25 l",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/akn-5093916_ab2m2enq.jpg?v=3",
-   "link": "https://epitoanyag.hu/hammerite-kozvetlenul-a-rozsdara-fenyes-arany-025-l-pQUtOLTUwOTM5MTY_eq1",
-   "ar": "2 950 Ft",
+   "id": "AKN-5180719",
+   "nev": "Hammerite Közvetlenül a Rozsdára fényes barna 2,5 l",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/akn-5180719_n5f66hb8.jpg?v=3",
+   "link": "https://epitoanyag.hu/hammerite-kozvetlenul-a-rozsdara-fenyes-barna-25-l-pQUtOLTUxODA3MTk_eq1",
+   "ar": "21 945 Ft",
    "akcios_ar": "",
    "marka": "Hammerite"
   },
@@ -52,11 +52,11 @@
    "marka": "Dulux"
   },
   {
-   "id": "AKN-5180719",
-   "nev": "Hammerite Közvetlenül a Rozsdára fényes barna 2,5 l",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/akn-5180719_n5f66hb8.jpg?v=3",
-   "link": "https://epitoanyag.hu/hammerite-kozvetlenul-a-rozsdara-fenyes-barna-25-l-pQUtOLTUxODA3MTk_eq1",
-   "ar": "21 945 Ft",
+   "id": "AKN-5094044",
+   "nev": "Hammerite Közvetlenül a Rozsdára fényes ezüst 0,25 l",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/akn-5094044_f0mcn9tf.jpg?v=3",
+   "link": "https://epitoanyag.hu/hammerite-kozvetlenul-a-rozsdara-fenyes-ezust-025-l-pQUtOLTUwOTQwNDQ_eq1",
+   "ar": "2 950 Ft",
    "akcios_ar": "",
    "marka": "Hammerite"
   },
@@ -88,19 +88,19 @@
    "marka": "Dulux"
   },
   {
-   "id": "NVS-255",
-   "nev": "PintyPlus Tech fluoreszkáló jelölőfestékspray 360°, T143 narancs 500 ml",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/nvs-255_8ez3tj9f.png?v=3",
-   "link": "https://epitoanyag.hu/pintyplus-tech-fluoreszkalo-jelolofestekspray-360-t143-narancs-500-ml-pTlZTLTI1NQ_eq2",
-   "ar": "2 760 Ft",
+   "id": "NVS-293",
+   "nev": "PintyPlus Tech folttakaró spray fehér 400 ml",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/nvs-293_dcjvi9ul.png?v=3",
+   "link": "https://epitoanyag.hu/pintyplus-tech-folttakaro-spray-feher-400-ml-pTlZTLTI5Mw_eq2",
+   "ar": "2 960 Ft",
    "akcios_ar": "",
    "marka": "Novasol"
   },
   {
-   "id": "AKN-5094044",
-   "nev": "Hammerite Közvetlenül a Rozsdára fényes ezüst 0,25 l",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/akn-5094044_f0mcn9tf.jpg?v=3",
-   "link": "https://epitoanyag.hu/hammerite-kozvetlenul-a-rozsdara-fenyes-ezust-025-l-pQUtOLTUwOTQwNDQ_eq1",
+   "id": "AKN-5094090",
+   "nev": "Hammerite Közvetlenül a Rozsdára fényes fehér 0,25 l",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/akn-5094090_rvqqkje2.jpg?v=3",
+   "link": "https://epitoanyag.hu/hammerite-kozvetlenul-a-rozsdara-fenyes-feher-025-l-pQUtOLTUwOTQwOTA_eq1",
    "ar": "2 950 Ft",
    "akcios_ar": "",
    "marka": "Hammerite"
