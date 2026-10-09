@@ -1,6 +1,6 @@
 {
- "feed_frissitve": "Thu, 08 Oct 2026 10:50:15 GMT",
- "termek_osszesen": 23832,
+ "feed_frissitve": "Fri, 09 Oct 2026 09:50:14 GMT",
+ "termek_osszesen": 23830,
  "kategoriak": [
   {
    "kategoria": "Egyéb barkácsáru",
@@ -13,7 +13,7 @@
    "kategoria": "Festés",
    "fokategoria": "Barkács",
    "slug": "festes",
-   "osszes": 418,
+   "osszes": 417,
    "kirakva": 12
   },
   {
@@ -27,21 +27,21 @@
    "kategoria": "Munkaruházat, védőfelszerelés",
    "fokategoria": "Barkács",
    "slug": "munkaruhazat-vedofelszereles",
-   "osszes": 190,
+   "osszes": 191,
    "kirakva": 12
   },
   {
    "kategoria": "Rögzítéstechnika",
    "fokategoria": "Barkács",
    "slug": "rogzitestechnika",
-   "osszes": 27,
+   "osszes": 26,
    "kirakva": 12
   },
   {
    "kategoria": "Szerszám, szerszámgép",
    "fokategoria": "Barkács",
    "slug": "szerszam-szerszamgep",
-   "osszes": 735,
+   "osszes": 734,
    "kirakva": 12
   },
   {
@@ -140,14 +140,14 @@
    "fokategoria": "Kert",
    "slug": "egyeb-kerti-kiegeszito",
    "osszes": 8,
-   "kirakva": 2
+   "kirakva": 3
   },
   {
    "kategoria": "Geotextília",
    "fokategoria": "Kert",
    "slug": "geotextilia",
    "osszes": 17,
-   "kirakva": 6
+   "kirakva": 7
   },
   {
    "kategoria": "Grill, kerti sütő, bogrács",
@@ -286,14 +286,14 @@
    "kategoria": "Szigetelés",
    "fokategoria": "Építőanyag",
    "slug": "szigeteles",
-   "osszes": 1070,
+   "osszes": 1071,
    "kirakva": 12
   },
   {
    "kategoria": "Tetőfedés",
    "fokategoria": "Építőanyag",
    "slug": "tetofedes",
-   "osszes": 3284,
+   "osszes": 3283,
    "kirakva": 12
   },
   {

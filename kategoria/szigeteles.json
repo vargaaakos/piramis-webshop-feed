@@ -2,9 +2,9 @@
  "kategoria": "Szigetelés",
  "fokategoria": "Építőanyag",
  "slug": "szigeteles",
- "feed_frissitve": "Thu, 08 Oct 2026 10:50:15 GMT",
- "osszes_termek": 1070,
- "raktaron": 240,
+ "feed_frissitve": "Fri, 09 Oct 2026 09:50:14 GMT",
+ "osszes_termek": 1071,
+ "raktaron": 239,
  "termekek": [
   {
    "id": "UH-816976",
@@ -79,10 +79,10 @@
    "marka": "Carboland"
   },
   {
-   "id": "UH-703110",
-   "nev": "Rockwool Airrock LD Super 10 cm kőzetgyapot hőszigetelő lemez",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-703110-2_lzou8zpy.png?v=3",
-   "link": "https://epitoanyag.hu/rockwool-airrock-ld-super-10-cm-kozetgyapot-hoszigetelo-lemez-pVUgtNzAzMTEw",
+   "id": "UH-705393",
+   "nev": "Rockwool Airrock LD Super 15 cm kőzetgyapot hőszigetelő lemez",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-705393-2_zwxie6d3.png?v=3",
+   "link": "https://epitoanyag.hu/rockwool-airrock-ld-super-15-cm-kozetgyapot-hoszigetelo-lemez-pVUgtNzA1Mzkz",
    "ar": "13 824 Ft",
    "akcios_ar": "",
    "marka": "Rockwool"

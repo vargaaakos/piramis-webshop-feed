@@ -2,9 +2,9 @@
  "kategoria": "Geotextília",
  "fokategoria": "Kert",
  "slug": "geotextilia",
- "feed_frissitve": "Thu, 08 Oct 2026 10:50:15 GMT",
+ "feed_frissitve": "Fri, 09 Oct 2026 09:50:14 GMT",
  "osszes_termek": 17,
- "raktaron": 6,
+ "raktaron": 7,
  "termekek": [
   {
    "id": "UH-788144",
@@ -23,6 +23,15 @@
    "ar": "580 Ft",
    "akcios_ar": "",
    "marka": "Gutta"
+  },
+  {
+   "id": "UH-730138",
+   "nev": "Mapei Polydren PP geotextília 200 g, 2x100 m",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-image_1zl8dkpk.jpg?v=3",
+   "link": "https://epitoanyag.hu/mapei-polydren-pp-geotextilia-200-g-2x100-m-pVUgtNzMwMTM4",
+   "ar": "960 Ft",
+   "akcios_ar": "",
+   "marka": "Mapei"
   },
   {
    "id": "UH-788143",
