@@ -2,8 +2,8 @@
  "kategoria": "Zsalukő",
  "fokategoria": "Építőanyag",
  "slug": "zsaluko",
- "feed_frissitve": "Fri, 09 Oct 2026 09:50:14 GMT",
- "osszes_termek": 26,
+ "feed_frissitve": "Sat, 10 Oct 2026 09:50:12 GMT",
+ "osszes_termek": 27,
  "raktaron": 17,
  "termekek": [
   {
@@ -61,13 +61,13 @@
    "marka": "Leier"
   },
   {
-   "id": "BETV-ZS20",
-   "nev": "BetonLM zsalukő 20 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/betvzs502025_mua1lt14.jpg?v=4",
-   "link": "https://epitoanyag.hu/betonlm-zsaluko-20-cm-pQkVUVi1aUzIw",
-   "ar": "700 Ft",
+   "id": "UH-056827",
+   "nev": "Frühwald zsalukő 25 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-056827_7oavt9uf.jpg?v=4",
+   "link": "https://epitoanyag.hu/fruhwald-zsaluko-25-cm-pVUgtMDU2ODI3",
+   "ar": "1 120 Ft",
    "akcios_ar": "",
-   "marka": "BetonLM 2000"
+   "marka": "Frühwald"
   },
   {
    "id": "UH-197001",
@@ -79,13 +79,13 @@
    "marka": "Leier"
   },
   {
-   "id": "UH-056827",
-   "nev": "Frühwald zsalukő 25 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-056827_7oavt9uf.jpg?v=4",
-   "link": "https://epitoanyag.hu/fruhwald-zsaluko-25-cm-pVUgtMDU2ODI3",
-   "ar": "1 120 Ft",
+   "id": "UH-197027",
+   "nev": "Leier zsalukő 20 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-uh-197024_aiu2lwp4.jpg?v=4",
+   "link": "https://epitoanyag.hu/leier-zsaluko-20-cm-pVUgtMTk3MDI3",
+   "ar": "760 Ft",
    "akcios_ar": "",
-   "marka": "Frühwald"
+   "marka": "Leier"
   },
   {
    "id": "BETV-PILL20",
