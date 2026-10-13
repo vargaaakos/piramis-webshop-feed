@@ -2,9 +2,9 @@
  "kategoria": "Szerszámgép kiegészítő alkatrész",
  "fokategoria": "Barkács",
  "slug": "szerszamgep-kiegeszito-alkatresz",
- "feed_frissitve": "Mon, 12 Oct 2026 10:50:13 GMT",
- "osszes_termek": 10,
- "raktaron": 10,
+ "feed_frissitve": "Tue, 13 Oct 2026 10:50:13 GMT",
+ "osszes_termek": 9,
+ "raktaron": 9,
  "termekek": [
   {
    "id": "UH-229890",
@@ -43,15 +43,6 @@
    "marka": "Makita"
   },
   {
-   "id": "UH-492950",
-   "nev": "Gyémántfúró sarokcsiszolóhoz M14-es menettel, 35 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-492950-masolata-masolata-2_sxsq2y77.png?v=3",
-   "link": "https://epitoanyag.hu/gyemantfuro-sarokcsiszolohoz-m14-es-menettel-35-mm-pVUgtNDkyOTUw",
-   "ar": "9 370 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
-  },
-  {
    "id": "UH-493018",
    "nev": "Vágótárcsa fémhez 1,9x230 mm",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-493018_df7k8c16.jpg?v=3",
@@ -70,6 +61,15 @@
    "marka": "Hikoki"
   },
   {
+   "id": "UH-492950",
+   "nev": "Gyémántfúró sarokcsiszolóhoz M14-es menettel, 35 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-492950-masolata-masolata-2_sxsq2y77.png?v=3",
+   "link": "https://epitoanyag.hu/gyemantfuro-sarokcsiszolohoz-m14-es-menettel-35-mm-pVUgtNDkyOTUw",
+   "ar": "9 370 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
    "id": "UH-528612",
    "nev": "Gyémántfúró sarokcsiszolóhoz M14-es menettel, 67 mm",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-528612_fzncjr25.png?v=3",
@@ -84,15 +84,6 @@
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-127230_odo6z496.jpg?v=3",
    "link": "https://epitoanyag.hu/hiltiszalag-8-mm-x-10-m-pVUgtMTI3MjMw",
    "ar": "3 695 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
-  },
-  {
-   "id": "REISSERR45545",
-   "nev": "Reisser DNS Plus  3,5x40 mm, duplamenetes facsavar, részmenetes",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/reisserr45545_x30ip0d2.png?v=3",
-   "link": "https://epitoanyag.hu/reisser-dns-plus-35x40-mm-duplamenetes-facsavar-reszmenetes-pUkVJU1NFUlI0NTU0NQ_eq2",
-   "ar": "5 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   }

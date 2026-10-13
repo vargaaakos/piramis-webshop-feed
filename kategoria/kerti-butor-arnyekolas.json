@@ -2,9 +2,9 @@
  "kategoria": "Kerti bútor, árnyékolás",
  "fokategoria": "Kert",
  "slug": "kerti-butor-arnyekolas",
- "feed_frissitve": "Mon, 12 Oct 2026 10:50:13 GMT",
- "osszes_termek": 42,
- "raktaron": 33,
+ "feed_frissitve": "Tue, 13 Oct 2026 10:50:13 GMT",
+ "osszes_termek": 41,
+ "raktaron": 32,
  "termekek": [
   {
    "id": "UH-837598",
@@ -22,15 +22,6 @@
    "link": "https://epitoanyag.hu/j-home-nero-ketszemelyes-kerti-hintaagy-166x145x190-cm-fekete-pVUgtODM3NjAz",
    "ar": "99 900 Ft",
    "akcios_ar": "79 990 Ft",
-   "marka": "ÚjHáz"
-  },
-  {
-   "id": "UH-837605",
-   "nev": "J-Home Rayne kétszárnyú napernyő, 270x460 cm, taupe",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-837605_nko40jtr.png?v=2",
-   "link": "https://epitoanyag.hu/j-home-rayne-ketszarnyu-napernyo-270x460-cm-taupe-pVUgtODM3NjA1",
-   "ar": "69 990 Ft",
-   "akcios_ar": "59 990 Ft",
    "marka": "ÚjHáz"
   },
   {
@@ -112,6 +103,15 @@
    "link": "https://epitoanyag.hu/l-yo-peacock-rattan-etkezoszek-565x615x77-cm-parnaval-taupe-pVUgtODM3NTcx",
    "ar": "39 990 Ft",
    "akcios_ar": "34 990 Ft",
+   "marka": "ÚjHáz"
+  },
+  {
+   "id": "UH-847951",
+   "nev": "L-YO Verano kinyitható kerti étkezőasztal, 184/250x89x75 cm, sötét szürke",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-847951_0vtqmxt1.png?v=2",
+   "link": "https://epitoanyag.hu/l-yo-verano-kinyithato-kerti-etkezoasztal-184250x89x75-cm-sotet-szurke-pVUgtODQ3OTUx",
+   "ar": "229 990 Ft",
+   "akcios_ar": "199 990 Ft",
    "marka": "ÚjHáz"
   }
  ]

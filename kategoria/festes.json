@@ -2,9 +2,9 @@
  "kategoria": "Festés",
  "fokategoria": "Barkács",
  "slug": "festes",
- "feed_frissitve": "Mon, 12 Oct 2026 10:50:13 GMT",
- "osszes_termek": 420,
- "raktaron": 416,
+ "feed_frissitve": "Tue, 13 Oct 2026 10:50:13 GMT",
+ "osszes_termek": 425,
+ "raktaron": 421,
  "termekek": [
   {
    "id": "AKN-5180719",
@@ -88,11 +88,11 @@
    "marka": "Dulux"
   },
   {
-   "id": "NVS-293",
-   "nev": "PintyPlus Tech folttakaró spray fehér 400 ml",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/nvs-293_dcjvi9ul.png?v=3",
-   "link": "https://epitoanyag.hu/pintyplus-tech-folttakaro-spray-feher-400-ml-pTlZTLTI5Mw_eq2",
-   "ar": "2 960 Ft",
+   "id": "NVS-255",
+   "nev": "PintyPlus Tech fluoreszkáló jelölőfestékspray 360°, T143 narancs 500 ml",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/nvs-255_8ez3tj9f.png?v=3",
+   "link": "https://epitoanyag.hu/pintyplus-tech-fluoreszkalo-jelolofestekspray-360-t143-narancs-500-ml-pTlZTLTI1NQ_eq2",
+   "ar": "2 760 Ft",
    "akcios_ar": "",
    "marka": "Novasol"
   },
