@@ -1,6 +1,6 @@
 {
- "feed_frissitve": "Tue, 13 Oct 2026 10:50:13 GMT",
- "termek_osszesen": 23832,
+ "feed_frissitve": "Wed, 14 Oct 2026 08:50:14 GMT",
+ "termek_osszesen": 23831,
  "kategoriak": [
   {
    "kategoria": "Egyéb barkácsáru",
@@ -111,7 +111,7 @@
    "kategoria": "Kiegészítők",
    "fokategoria": "Faanyag",
    "slug": "kiegeszitok",
-   "osszes": 171,
+   "osszes": 170,
    "kirakva": 12
   },
   {
@@ -126,7 +126,7 @@
    "fokategoria": "Faanyag",
    "slug": "osb",
    "osszes": 10,
-   "kirakva": 9
+   "kirakva": 10
   },
   {
    "kategoria": "Stafni, tetőléc",
@@ -209,7 +209,7 @@
    "kategoria": "Térburkolat",
    "fokategoria": "Kert",
    "slug": "terburkolat",
-   "osszes": 1015,
+   "osszes": 1016,
    "kirakva": 12
   },
   {
@@ -286,7 +286,7 @@
    "kategoria": "Szigetelés",
    "fokategoria": "Építőanyag",
    "slug": "szigeteles",
-   "osszes": 1071,
+   "osszes": 1070,
    "kirakva": 12
   },
   {

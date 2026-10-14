@@ -2,9 +2,9 @@
  "kategoria": "Deszka, padló",
  "fokategoria": "Faanyag",
  "slug": "deszka-padlo",
- "feed_frissitve": "Tue, 13 Oct 2026 10:50:13 GMT",
+ "feed_frissitve": "Wed, 14 Oct 2026 08:50:14 GMT",
  "osszes_termek": 19,
- "raktaron": 19,
+ "raktaron": 17,
  "termekek": [
   {
    "id": "FA2.5x10x4",
@@ -12,15 +12,6 @@
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/fa25x10x4_wkubc6lo.jpg?v=3",
    "link": "https://epitoanyag.hu/deszka-25x10-cm-4-m-pRkEyLjV4MTB4NA_eq2",
    "ar": "1 860 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
-  },
-  {
-   "id": "FA2.5x10x5",
-   "nev": "Deszka 2,5x10 cm 5 m",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/fa25x10x5_nbbmpooh.jpg?v=3",
-   "link": "https://epitoanyag.hu/deszka-25x10-cm-5-m-pRkEyLjV4MTB4NQ_eq2",
-   "ar": "2 330 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   },
@@ -111,6 +102,15 @@
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/fa5154_6cfz1cvq.jpg?v=3",
    "link": "https://epitoanyag.hu/padlo-5x15-cm-4-m-pRkE1eDE1eDQ_eq1",
    "ar": "5 580 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "FA5x15x5",
+   "nev": "Padló 5x15 cm 5 m",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/fa5155_m8qp71up.jpg?v=3",
+   "link": "https://epitoanyag.hu/padlo-5x15-cm-5-m-pRkE1eDE1eDU_eq1",
+   "ar": "6 980 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   }

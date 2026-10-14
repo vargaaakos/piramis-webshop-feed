@@ -2,9 +2,9 @@
  "kategoria": "Zsalukő",
  "fokategoria": "Építőanyag",
  "slug": "zsaluko",
- "feed_frissitve": "Tue, 13 Oct 2026 10:50:13 GMT",
+ "feed_frissitve": "Wed, 14 Oct 2026 08:50:14 GMT",
  "osszes_termek": 27,
- "raktaron": 17,
+ "raktaron": 16,
  "termekek": [
   {
    "id": "BETV-VFAL10",
@@ -43,13 +43,13 @@
    "marka": "betonEPAG"
   },
   {
-   "id": "BETV-ZS15",
-   "nev": "BetonLM zsalukő 15 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/betvzs501525_ecg3vjzg.jpg?v=4",
-   "link": "https://epitoanyag.hu/betonlm-zsaluko-15-cm-pQkVUVi1aUzE1",
-   "ar": "650 Ft",
+   "id": "UH-056827",
+   "nev": "Frühwald zsalukő 25 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-056827_7oavt9uf.jpg?v=4",
+   "link": "https://epitoanyag.hu/fruhwald-zsaluko-25-cm-pVUgtMDU2ODI3",
+   "ar": "1 120 Ft",
    "akcios_ar": "",
-   "marka": "BetonLM 2000"
+   "marka": "Frühwald"
   },
   {
    "id": "UH-197000",
@@ -61,13 +61,13 @@
    "marka": "Leier"
   },
   {
-   "id": "UH-056827",
-   "nev": "Frühwald zsalukő 25 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-056827_7oavt9uf.jpg?v=4",
-   "link": "https://epitoanyag.hu/fruhwald-zsaluko-25-cm-pVUgtMDU2ODI3",
-   "ar": "1 120 Ft",
+   "id": "UH-197027",
+   "nev": "Leier zsalukő 20 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-uh-197024_aiu2lwp4.jpg?v=4",
+   "link": "https://epitoanyag.hu/leier-zsaluko-20-cm-pVUgtMTk3MDI3",
+   "ar": "760 Ft",
    "akcios_ar": "",
-   "marka": "Frühwald"
+   "marka": "Leier"
   },
   {
    "id": "UH-197001",
@@ -79,13 +79,13 @@
    "marka": "Leier"
   },
   {
-   "id": "UH-197027",
-   "nev": "Leier zsalukő 20 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-uh-197024_aiu2lwp4.jpg?v=4",
-   "link": "https://epitoanyag.hu/leier-zsaluko-20-cm-pVUgtMTk3MDI3",
-   "ar": "760 Ft",
+   "id": "BETV-ZS15",
+   "nev": "BetonLM zsalukő 15 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/betvzs501525_ecg3vjzg.jpg?v=4",
+   "link": "https://epitoanyag.hu/betonlm-zsaluko-15-cm-pQkVUVi1aUzE1",
+   "ar": "650 Ft",
    "akcios_ar": "",
-   "marka": "Leier"
+   "marka": "BetonLM 2000"
   },
   {
    "id": "BETV-PILL20",
