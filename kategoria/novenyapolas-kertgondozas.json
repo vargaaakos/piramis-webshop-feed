@@ -2,9 +2,9 @@
  "kategoria": "Növényápolás, kertgondozás",
  "fokategoria": "Kert",
  "slug": "novenyapolas-kertgondozas",
- "feed_frissitve": "Thu, 15 Oct 2026 07:50:16 GMT",
+ "feed_frissitve": "Fri, 16 Oct 2026 07:50:12 GMT",
  "osszes_termek": 58,
- "raktaron": 48,
+ "raktaron": 47,
  "termekek": [
   {
    "id": "UH-851846",
@@ -12,15 +12,6 @@
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-851846_253ral5i.jpg?v=2",
    "link": "https://epitoanyag.hu/agro-largo-hobby-garden-zoldsziget-altalanos-fumagkeverek-5-kg-pVUgtODUxODQ2",
    "ar": "8 290 Ft",
-   "akcios_ar": "",
-   "marka": "Agro-Largo"
-  },
-  {
-   "id": "UH-851876",
-   "nev": "Agro-Largo Magic Garden Biliárd Sport intenzív használatra fűmagkeverék, 10 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-851876_cpmalzm6.jpg?v=2",
-   "link": "https://epitoanyag.hu/agro-largo-magic-garden-biliard-sport-intenziv-hasznalatra-fumagkeverek-10-kg-pVUgtODUxODc2",
-   "ar": "17 990 Ft",
    "akcios_ar": "",
    "marka": "Agro-Largo"
   },
@@ -111,6 +102,15 @@
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-779682_nbtrhplv.png?v=2",
    "link": "https://epitoanyag.hu/bambusz-novenytamasz-szett-natur-14-16-mmx180-cm-pVUgtNzc5Njg2",
    "ar": "660 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-779687",
+   "nev": "Bambusz növénytámasz szett, natúr, 16-18 mmx210 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-779682_8qbel5ml.png?v=2",
+   "link": "https://epitoanyag.hu/bambusz-novenytamasz-szett-natur-16-18-mmx210-cm-pVUgtNzc5Njg3",
+   "ar": "1 050 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   }

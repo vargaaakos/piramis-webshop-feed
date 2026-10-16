@@ -2,9 +2,9 @@
  "kategoria": "Szigetelés",
  "fokategoria": "Építőanyag",
  "slug": "szigeteles",
- "feed_frissitve": "Thu, 15 Oct 2026 07:50:16 GMT",
+ "feed_frissitve": "Fri, 16 Oct 2026 07:50:12 GMT",
  "osszes_termek": 1070,
- "raktaron": 234,
+ "raktaron": 236,
  "termekek": [
   {
    "id": "UH-816976",
@@ -25,15 +25,6 @@
    "marka": "Ravatherm"
   },
   {
-   "id": "UH-374317",
-   "nev": "Isover Akuplat+ 10 cm üveggyapot lemez",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-099256_k9pzxs5r.jpg?v=3",
-   "link": "https://epitoanyag.hu/isover-akuplat-10-cm-uveggyapot-lemez-pVUgtMzc0MzE3",
-   "ar": "15 012 Ft",
-   "akcios_ar": "",
-   "marka": "Isover"
-  },
-  {
    "id": "UH-331270",
    "nev": "Cemix 8100 Aquastop Band hajlaterősítő szalag 50 m",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/8100-aquastoptape-50m-3d2_zhjdrjoq.png?v=2",
@@ -41,6 +32,15 @@
    "ar": "60 500 Ft",
    "akcios_ar": "",
    "marka": "Cemix"
+  },
+  {
+   "id": "UH-374317",
+   "nev": "Isover Akuplat+ 10 cm üveggyapot lemez",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-099256_k9pzxs5r.jpg?v=3",
+   "link": "https://epitoanyag.hu/isover-akuplat-10-cm-uveggyapot-lemez-pVUgtMzc0MzE3",
+   "ar": "15 012 Ft",
+   "akcios_ar": "",
+   "marka": "Isover"
   },
   {
    "id": "UH-571065",
@@ -79,22 +79,13 @@
    "marka": "Carboland"
   },
   {
-   "id": "UH-705393",
-   "nev": "Rockwool Airrock LD Super 15 cm kőzetgyapot hőszigetelő lemez",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-705393-2_zwxie6d3.png?v=3",
-   "link": "https://epitoanyag.hu/rockwool-airrock-ld-super-15-cm-kozetgyapot-hoszigetelo-lemez-pVUgtNzA1Mzkz",
-   "ar": "13 824 Ft",
+   "id": "UH-101614",
+   "nev": "Rockwool Airrock HD 10 cm kőzetgyapot hőszigetelő lemez",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-copied-kepkivagas_rrqtcq6t.png?v=3",
+   "link": "https://epitoanyag.hu/rockwool-airrock-hd-10-cm-kozetgyapot-hoszigetelo-lemez-pVUgtMTAxNjE0",
+   "ar": "19 890 Ft",
    "akcios_ar": "",
    "marka": "Rockwool"
-  },
-  {
-   "id": "UH-374446",
-   "nev": "Isover Akuplat+ 15 cm üveggyapot lemez",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-099256_k9pzxs5r.jpg?v=3",
-   "link": "https://epitoanyag.hu/isover-akuplat-15-cm-uveggyapot-lemez-pVUgtMzc0NDQ2",
-   "ar": "13 543 Ft",
-   "akcios_ar": "",
-   "marka": "Isover"
   },
   {
    "id": "UH-594271",
@@ -104,6 +95,15 @@
    "ar": "16 630 Ft",
    "akcios_ar": "",
    "marka": "Henkel"
+  },
+  {
+   "id": "UH-374446",
+   "nev": "Isover Akuplat+ 15 cm üveggyapot lemez",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-099256_k9pzxs5r.jpg?v=3",
+   "link": "https://epitoanyag.hu/isover-akuplat-15-cm-uveggyapot-lemez-pVUgtMzc0NDQ2",
+   "ar": "13 543 Ft",
+   "akcios_ar": "",
+   "marka": "Isover"
   },
   {
    "id": "UH-556407",
