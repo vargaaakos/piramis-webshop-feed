@@ -1,6 +1,6 @@
 {
- "feed_frissitve": "Fri, 16 Oct 2026 07:50:12 GMT",
- "termek_osszesen": 23820,
+ "feed_frissitve": "Sat, 17 Oct 2026 07:50:13 GMT",
+ "termek_osszesen": 23815,
  "kategoriak": [
   {
    "kategoria": "Egyéb barkácsáru",
@@ -13,7 +13,7 @@
    "kategoria": "Festés",
    "fokategoria": "Barkács",
    "slug": "festes",
-   "osszes": 423,
+   "osszes": 421,
    "kirakva": 12
   },
   {
@@ -41,15 +41,15 @@
    "kategoria": "Szerszám, szerszámgép",
    "fokategoria": "Barkács",
    "slug": "szerszam-szerszamgep",
-   "osszes": 728,
+   "osszes": 726,
    "kirakva": 12
   },
   {
    "kategoria": "Szerszámgép kiegészítő alkatrész",
    "fokategoria": "Barkács",
    "slug": "szerszamgep-kiegeszito-alkatresz",
-   "osszes": 9,
-   "kirakva": 9
+   "osszes": 10,
+   "kirakva": 10
   },
   {
    "kategoria": "Villamosság",
@@ -265,7 +265,7 @@
    "kategoria": "Tetőtéri ablak, tetőtéri ablak kiegészítő",
    "fokategoria": "Nyílászáró",
    "slug": "tetoteri-ablak-tetoteri-ablak-kiegeszito",
-   "osszes": 455,
+   "osszes": 454,
    "kirakva": 12
   },
   {
@@ -314,7 +314,7 @@
    "kategoria": "Zsalukő",
    "fokategoria": "Építőanyag",
    "slug": "zsaluko",
-   "osszes": 27,
+   "osszes": 26,
    "kirakva": 12
   },
   {
