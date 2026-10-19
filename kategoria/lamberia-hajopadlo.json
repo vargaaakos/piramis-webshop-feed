@@ -2,19 +2,10 @@
  "kategoria": "Lambéria, hajópadló",
  "fokategoria": "Faanyag",
  "slug": "lamberia-hajopadlo",
- "feed_frissitve": "Sun, 18 Oct 2026 07:50:13 GMT",
+ "feed_frissitve": "Mon, 19 Oct 2026 08:50:14 GMT",
  "osszes_termek": 3,
- "raktaron": 2,
+ "raktaron": 1,
  "termekek": [
-  {
-   "id": "LAMBSOFT19x121x400",
-   "nev": "Hajópadló soft 19 mm, 4 fm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/14410294-b-1_10wuxxxm.jpg?v=3",
-   "link": "https://epitoanyag.hu/hajopadlo-soft-19-mm-4-fm-pTEFNQlNPRlQxOXgxMjF4NDAw",
-   "ar": "17 743 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
-  },
   {
    "id": "LAMBBOHÁCS008",
    "nev": "Lambéria luc trapéz 12,5 mm, 4 fm",
