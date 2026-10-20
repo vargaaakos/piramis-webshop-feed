@@ -2,9 +2,9 @@
  "kategoria": "Kerti- és kéziszerszám",
  "fokategoria": "Barkács",
  "slug": "kerti-es-keziszerszam",
- "feed_frissitve": "Mon, 19 Oct 2026 08:50:14 GMT",
- "osszes_termek": 351,
- "raktaron": 328,
+ "feed_frissitve": "Tue, 20 Oct 2026 07:50:13 GMT",
+ "osszes_termek": 368,
+ "raktaron": 345,
  "termekek": [
   {
    "id": "UH-775327",
@@ -52,29 +52,20 @@
    "marka": "Milwaukee"
   },
   {
+   "id": "UH-775274",
+   "nev": "Fiskars P90 professzionális metszőolló, mellévágó",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-fis-111960_de8p0m6w.jpg?v=3",
+   "link": "https://epitoanyag.hu/fiskars-p90-professzionalis-metszoollo-mellevago-pVUgtNzc1Mjc0",
+   "ar": "7 530 Ft",
+   "akcios_ar": "",
+   "marka": "Fiskars"
+  },
+  {
    "id": "UH-775295",
    "nev": "Fiskars IsoCore kalapács L",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-fis-1020218_qtnc3sf0.jpg?v=3",
    "link": "https://epitoanyag.hu/fiskars-isocore-kalapacs-l-pVUgtNzc1Mjk1",
    "ar": "16 900 Ft",
-   "akcios_ar": "",
-   "marka": "Fiskars"
-  },
-  {
-   "id": "UH-783708",
-   "nev": "Fiskars PB-8 L nagy, professzionális metszőolló, mellévágó",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-fis-111870_5jki7ujb.jpg?v=3",
-   "link": "https://epitoanyag.hu/fiskars-pb-8-l-nagy-professzionalis-metszoollo-mellevago-pVUgtNzgzNzA4",
-   "ar": "21 740 Ft",
-   "akcios_ar": "",
-   "marka": "Fiskars"
-  },
-  {
-   "id": "UH-775343",
-   "nev": "Fiskars PowerGear Aviation lemezvágó olló bulldog, balkezes",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-fis-1027212_9orow0lg.jpg?v=3",
-   "link": "https://epitoanyag.hu/fiskars-powergear-aviation-lemezvago-ollo-bulldog-balkezes-pVUgtNzc1MzQz",
-   "ar": "9 670 Ft",
    "akcios_ar": "",
    "marka": "Fiskars"
   },
@@ -86,6 +77,24 @@
    "ar": "2 800 Ft",
    "akcios_ar": "",
    "marka": "Sola"
+  },
+  {
+   "id": "UH-775343",
+   "nev": "Fiskars PowerGear Aviation lemezvágó olló bulldog, balkezes",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-fis-1027212_9orow0lg.jpg?v=3",
+   "link": "https://epitoanyag.hu/fiskars-powergear-aviation-lemezvago-ollo-bulldog-balkezes-pVUgtNzc1MzQz",
+   "ar": "9 670 Ft",
+   "akcios_ar": "",
+   "marka": "Fiskars"
+  },
+  {
+   "id": "UH-775246",
+   "nev": "Fiskars csavart hasítóék",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-fis-120020_g02q2nti.jpg?v=3",
+   "link": "https://epitoanyag.hu/fiskars-csavart-hasitoek-pVUgtNzc1MjQ2",
+   "ar": "13 000 Ft",
+   "akcios_ar": "",
+   "marka": "Fiskars"
   },
   {
    "id": "UH-179543",
@@ -104,15 +113,6 @@
    "ar": "10 900 Ft",
    "akcios_ar": "",
    "marka": "Milwaukee"
-  },
-  {
-   "id": "UH-775246",
-   "nev": "Fiskars csavart hasítóék",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-fis-120020_g02q2nti.jpg?v=3",
-   "link": "https://epitoanyag.hu/fiskars-csavart-hasitoek-pVUgtNzc1MjQ2",
-   "ar": "13 000 Ft",
-   "akcios_ar": "",
-   "marka": "Fiskars"
   }
  ]
 }
