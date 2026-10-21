@@ -2,9 +2,9 @@
  "kategoria": "Szigetelés",
  "fokategoria": "Építőanyag",
  "slug": "szigeteles",
- "feed_frissitve": "Tue, 20 Oct 2026 07:50:13 GMT",
- "osszes_termek": 1070,
- "raktaron": 231,
+ "feed_frissitve": "Wed, 21 Oct 2026 07:50:13 GMT",
+ "osszes_termek": 1071,
+ "raktaron": 236,
  "termekek": [
   {
    "id": "UH-710226",
@@ -25,15 +25,6 @@
    "marka": "Ravatherm"
   },
   {
-   "id": "UH-331270",
-   "nev": "Cemix 8100 Aquastop Band hajlaterősítő szalag 50 m",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/8100-aquastoptape-50m-3d2_zhjdrjoq.png?v=2",
-   "link": "https://epitoanyag.hu/cemix-8100-aquastop-band-hajlaterosito-szalag-50-m-pVUgtMzMxMjcw",
-   "ar": "60 500 Ft",
-   "akcios_ar": "",
-   "marka": "Cemix"
-  },
-  {
    "id": "UH-374317",
    "nev": "Isover Akuplat+ 10 cm üveggyapot lemez",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-099256_k9pzxs5r.jpg?v=3",
@@ -41,6 +32,15 @@
    "ar": "15 012 Ft",
    "akcios_ar": "",
    "marka": "Isover"
+  },
+  {
+   "id": "UH-331270",
+   "nev": "Cemix 8100 Aquastop Band hajlaterősítő szalag 50 m",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/8100-aquastoptape-50m-3d2_zhjdrjoq.png?v=2",
+   "link": "https://epitoanyag.hu/cemix-8100-aquastop-band-hajlaterosito-szalag-50-m-pVUgtMzMxMjcw",
+   "ar": "60 500 Ft",
+   "akcios_ar": "",
+   "marka": "Cemix"
   },
   {
    "id": "UH-571065",
@@ -88,15 +88,6 @@
    "marka": "Rockwool"
   },
   {
-   "id": "UH-594271",
-   "nev": "Henkel Ceresit CR 90 kristályképző vízszigetelő 25 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-594271_kv79wv3i.jpg?v=3",
-   "link": "https://epitoanyag.hu/henkel-ceresit-cr-90-kristalykepzo-vizszigetelo-25-kg-pVUgtNTk0Mjcx",
-   "ar": "16 630 Ft",
-   "akcios_ar": "",
-   "marka": "Henkel"
-  },
-  {
    "id": "UH-374446",
    "nev": "Isover Akuplat+ 15 cm üveggyapot lemez",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-099256_k9pzxs5r.jpg?v=3",
@@ -106,13 +97,22 @@
    "marka": "Isover"
   },
   {
-   "id": "UH-556407",
-   "nev": "Dilatációs habszivacs csík 1 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-001398_0yi348uv.jpg?v=3",
-   "link": "https://epitoanyag.hu/dilatacios-habszivacs-csik-1-cm-pVUgtNTU2NDA3",
-   "ar": "2 510 Ft",
+   "id": "UH-594271",
+   "nev": "Henkel Ceresit CR 90 kristályképző vízszigetelő 25 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-594271_kv79wv3i.jpg?v=3",
+   "link": "https://epitoanyag.hu/henkel-ceresit-cr-90-kristalykepzo-vizszigetelo-25-kg-pVUgtNTk0Mjcx",
+   "ar": "16 630 Ft",
    "akcios_ar": "",
-   "marka": "Egyéb"
+   "marka": "Henkel"
+  },
+  {
+   "id": "UH-179852",
+   "nev": "Schuller Targa BlueCore takarófólia ragasztócsíkkal 140 cm x 33 m",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-179852_s9jvakz2.png?v=3",
+   "link": "https://epitoanyag.hu/schuller-targa-bluecore-takarofolia-ragasztocsikkal-140-cm-x-33-m-pVUgtMTc5ODUy",
+   "ar": "2 860 Ft",
+   "akcios_ar": "",
+   "marka": "Schuller"
   }
  ]
 }
