@@ -2,9 +2,9 @@
  "kategoria": "Szigetelés",
  "fokategoria": "Építőanyag",
  "slug": "szigeteles",
- "feed_frissitve": "Thu, 22 Oct 2026 08:50:15 GMT",
+ "feed_frissitve": "Fri, 23 Oct 2026 07:50:13 GMT",
  "osszes_termek": 1071,
- "raktaron": 237,
+ "raktaron": 236,
  "termekek": [
   {
    "id": "UH-710226",
@@ -25,11 +25,11 @@
    "marka": "Ravatherm"
   },
   {
-   "id": "UH-374317",
-   "nev": "Isover Akuplat+ 10 cm üveggyapot lemez",
+   "id": "UH-374446",
+   "nev": "Isover Akuplat+ 15 cm üveggyapot lemez",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-099256_k9pzxs5r.jpg?v=3",
-   "link": "https://epitoanyag.hu/isover-akuplat-10-cm-uveggyapot-lemez-pVUgtMzc0MzE3",
-   "ar": "15 012 Ft",
+   "link": "https://epitoanyag.hu/isover-akuplat-15-cm-uveggyapot-lemez-pVUgtMzc0NDQ2",
+   "ar": "13 543 Ft",
    "akcios_ar": "",
    "marka": "Isover"
   },
@@ -88,11 +88,11 @@
    "marka": "Rockwool"
   },
   {
-   "id": "UH-374446",
-   "nev": "Isover Akuplat+ 15 cm üveggyapot lemez",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-099256_k9pzxs5r.jpg?v=3",
-   "link": "https://epitoanyag.hu/isover-akuplat-15-cm-uveggyapot-lemez-pVUgtMzc0NDQ2",
-   "ar": "13 543 Ft",
+   "id": "UH-374310",
+   "nev": "Isover Akuplat+ 5 cm üveggyapot lemez",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-374310_tiv9w879.jpg?v=3",
+   "link": "https://epitoanyag.hu/isover-akuplat-5-cm-uveggyapot-lemez-pVUgtMzc0MzEw",
+   "ar": "15 048 Ft",
    "akcios_ar": "",
    "marka": "Isover"
   },

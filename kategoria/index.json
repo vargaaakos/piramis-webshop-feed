@@ -1,6 +1,6 @@
 {
- "feed_frissitve": "Thu, 22 Oct 2026 08:50:15 GMT",
- "termek_osszesen": 23826,
+ "feed_frissitve": "Fri, 23 Oct 2026 07:50:13 GMT",
+ "termek_osszesen": 23824,
  "kategoriak": [
   {
    "kategoria": "Egyéb barkácsáru",
@@ -13,7 +13,7 @@
    "kategoria": "Festés",
    "fokategoria": "Barkács",
    "slug": "festes",
-   "osszes": 421,
+   "osszes": 420,
    "kirakva": 12
   },
   {
@@ -41,7 +41,7 @@
    "kategoria": "Szerszám, szerszámgép",
    "fokategoria": "Barkács",
    "slug": "szerszam-szerszamgep",
-   "osszes": 733,
+   "osszes": 732,
    "kirakva": 12
   },
   {
@@ -83,7 +83,7 @@
    "kategoria": "Laminált padló, kiegészítő",
    "fokategoria": "Belsőépítészet",
    "slug": "laminalt-padlo-kiegeszito",
-   "osszes": 48,
+   "osszes": 47,
    "kirakva": 12
   },
   {
@@ -188,7 +188,7 @@
    "kategoria": "Kerítés és falak",
    "fokategoria": "Kert",
    "slug": "kerites-es-falak",
-   "osszes": 207,
+   "osszes": 208,
    "kirakva": 12
   },
   {
@@ -238,7 +238,7 @@
    "fokategoria": "Nyílászáró",
    "slug": "fenycsatorna",
    "osszes": 11,
-   "kirakva": 1
+   "kirakva": 0
   },
   {
    "kategoria": "Homlokzati nyílászáró kiegészítő",

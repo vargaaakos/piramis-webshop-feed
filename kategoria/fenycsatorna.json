@@ -2,18 +2,8 @@
  "kategoria": "Fénycsatorna",
  "fokategoria": "Nyílászáró",
  "slug": "fenycsatorna",
- "feed_frissitve": "Thu, 22 Oct 2026 08:50:15 GMT",
+ "feed_frissitve": "Fri, 23 Oct 2026 07:50:13 GMT",
  "osszes_termek": 11,
- "raktaron": 1,
- "termekek": [
-  {
-   "id": "UH-215083",
-   "nev": "VELUX BFX 35 cm-es alátétfólia fénycsatornákhoz",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-215083-2_okcm800d.jpg?v=3",
-   "link": "https://epitoanyag.hu/velux-bfx-35-cm-es-alatetfolia-fenycsatornakhoz-pVUgtMjE1MDgz",
-   "ar": "27 900 Ft",
-   "akcios_ar": "",
-   "marka": ".VELUX"
-  }
- ]
+ "raktaron": 0,
+ "termekek": []
 }
