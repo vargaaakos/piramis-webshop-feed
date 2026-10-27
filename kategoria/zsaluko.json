@@ -2,9 +2,9 @@
  "kategoria": "Zsalukő",
  "fokategoria": "Építőanyag",
  "slug": "zsaluko",
- "feed_frissitve": "Mon, 26 Oct 2026 08:50:16 GMT",
+ "feed_frissitve": "Tue, 27 Oct 2026 08:50:13 GMT",
  "osszes_termek": 26,
- "raktaron": 16,
+ "raktaron": 17,
  "termekek": [
   {
    "id": "BETV-VFAL10",
@@ -12,6 +12,24 @@
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/betvvfal10_3kyly2vt.jpg?v=4",
    "link": "https://epitoanyag.hu/betonlm-beton-valaszfal-50x24x10-cm-pQkVUVi1WRkFMMTA_eq1",
    "ar": "670 Ft",
+   "akcios_ar": "",
+   "marka": "BetonLM 2000"
+  },
+  {
+   "id": "BETV-KÖRP30",
+   "nev": "BetonLM körpillér 30 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/betvkorpiller_6nluy7ph.jpg?v=3",
+   "link": "https://epitoanyag.hu/betonlm-korpiller-30-cm-pQkVUVi1Lw5ZSUDMw",
+   "ar": "845 Ft",
+   "akcios_ar": "",
+   "marka": "BetonLM 2000"
+  },
+  {
+   "id": "BETV-PINCE",
+   "nev": "BetonLM UNI pincefalazó 38x30x24 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/betvpince383024_k9ih347o.jpg?v=5",
+   "link": "https://epitoanyag.hu/betonlm-uni-pincefalazo-38x30x24-cm-pQkVUVi1QSU5DRQ_eq2",
+   "ar": "895 Ft",
    "akcios_ar": "",
    "marka": "BetonLM 2000"
   },
@@ -25,11 +43,11 @@
    "marka": "betonEPAG"
   },
   {
-   "id": "BETV-PINCE",
-   "nev": "BetonLM UNI pincefalazó 38x30x24 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/betvpince383024_k9ih347o.jpg?v=5",
-   "link": "https://epitoanyag.hu/betonlm-uni-pincefalazo-38x30x24-cm-pQkVUVi1QSU5DRQ_eq2",
-   "ar": "895 Ft",
+   "id": "BETV-ZS15",
+   "nev": "BetonLM zsalukő 15 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/betvzs501525_ecg3vjzg.jpg?v=4",
+   "link": "https://epitoanyag.hu/betonlm-zsaluko-15-cm-pQkVUVi1aUzE1",
+   "ar": "650 Ft",
    "akcios_ar": "",
    "marka": "BetonLM 2000"
   },
@@ -43,11 +61,11 @@
    "marka": "Leier"
   },
   {
-   "id": "BETV-ZS15",
-   "nev": "BetonLM zsalukő 15 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/betvzs501525_ecg3vjzg.jpg?v=4",
-   "link": "https://epitoanyag.hu/betonlm-zsaluko-15-cm-pQkVUVi1aUzE1",
-   "ar": "650 Ft",
+   "id": "BETV-ZS20",
+   "nev": "BetonLM zsalukő 20 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/betvzs502025_mua1lt14.jpg?v=4",
+   "link": "https://epitoanyag.hu/betonlm-zsaluko-20-cm-pQkVUVi1aUzIw",
+   "ar": "700 Ft",
    "akcios_ar": "",
    "marka": "BetonLM 2000"
   },
@@ -59,24 +77,6 @@
    "ar": "900 Ft",
    "akcios_ar": "",
    "marka": "Leier"
-  },
-  {
-   "id": "BETV-ZS20",
-   "nev": "BetonLM zsalukő 20 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/betvzs502025_mua1lt14.jpg?v=4",
-   "link": "https://epitoanyag.hu/betonlm-zsaluko-20-cm-pQkVUVi1aUzIw",
-   "ar": "700 Ft",
-   "akcios_ar": "",
-   "marka": "BetonLM 2000"
-  },
-  {
-   "id": "BETV-KÖRP30",
-   "nev": "BetonLM körpillér 30 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/betvkorpiller_6nluy7ph.jpg?v=3",
-   "link": "https://epitoanyag.hu/betonlm-korpiller-30-cm-pQkVUVi1Lw5ZSUDMw",
-   "ar": "845 Ft",
-   "akcios_ar": "",
-   "marka": "BetonLM 2000"
   },
   {
    "id": "UH-056827",

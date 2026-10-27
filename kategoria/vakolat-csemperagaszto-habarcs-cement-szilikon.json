@@ -2,9 +2,9 @@
  "kategoria": "Vakolat, csemperagasztó, habarcs, cement, szilikon",
  "fokategoria": "Építőanyag",
  "slug": "vakolat-csemperagaszto-habarcs-cement-szilikon",
- "feed_frissitve": "Mon, 26 Oct 2026 08:50:16 GMT",
+ "feed_frissitve": "Tue, 27 Oct 2026 08:50:13 GMT",
  "osszes_termek": 13672,
- "raktaron": 297,
+ "raktaron": 304,
  "termekek": [
   {
    "id": "UH-518826",
@@ -34,15 +34,6 @@
    "marka": "Mapei"
   },
   {
-   "id": "UH-554875",
-   "nev": "Baumit KlímaUni meszes könnyűvakolat, kézi, fehér 25 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-uh-020456_csy5r1k3.jpeg?v=3",
-   "link": "https://epitoanyag.hu/baumit-klimauni-meszes-konnyuvakolat-kezi-feher-25-kg-pVUgtNTU0ODc1",
-   "ar": "3 230 Ft",
-   "akcios_ar": "",
-   "marka": "Baumit"
-  },
-  {
    "id": "UH-035639",
    "nev": "Cemix 5522 NivoPlus 3-15 önterülő padlókiegyenlítő 25 kg",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-035639_wdndtojq.png?v=3",
@@ -50,6 +41,15 @@
    "ar": "5 890 Ft",
    "akcios_ar": "",
    "marka": "Cemix"
+  },
+  {
+   "id": "UH-554875",
+   "nev": "Baumit KlímaUni meszes könnyűvakolat, kézi, fehér 25 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-uh-020456_csy5r1k3.jpeg?v=3",
+   "link": "https://epitoanyag.hu/baumit-klimauni-meszes-konnyuvakolat-kezi-feher-25-kg-pVUgtNTU0ODc1",
+   "ar": "3 230 Ft",
+   "akcios_ar": "",
+   "marka": "Baumit"
   },
   {
    "id": "UH-001571",

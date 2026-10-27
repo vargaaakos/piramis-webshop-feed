@@ -2,9 +2,9 @@
  "kategoria": "Gerenda",
  "fokategoria": "Faanyag",
  "slug": "gerenda",
- "feed_frissitve": "Mon, 26 Oct 2026 08:50:16 GMT",
+ "feed_frissitve": "Tue, 27 Oct 2026 08:50:13 GMT",
  "osszes_termek": 16,
- "raktaron": 15,
+ "raktaron": 13,
  "termekek": [
   {
    "id": "FA10x10x4",
@@ -43,29 +43,11 @@
    "marka": "Egyéb"
   },
   {
-   "id": "FA10x15x5",
-   "nev": "Gerenda 10x15 cm 5 m",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/fa10155_5jjtnuv7.jpg?v=3",
-   "link": "https://epitoanyag.hu/gerenda-10x15-cm-5-m-pRkExMHgxNXg1",
-   "ar": "13 960 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
-  },
-  {
    "id": "FA10x15x6",
    "nev": "Gerenda 10x15 cm 6 m",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/fa10156_168sejqe.jpg?v=3",
    "link": "https://epitoanyag.hu/gerenda-10x15-cm-6-m-pRkExMHgxNXg2",
    "ar": "16 750 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
-  },
-  {
-   "id": "FA10x15x7",
-   "nev": "Gerenda 10x15 cm 7 m",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/fa10x15x7_t3rh74yx.jpg?v=3",
-   "link": "https://epitoanyag.hu/gerenda-10x15-cm-7-m-pRkExMHgxNXg3",
-   "ar": "21 390 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   },
@@ -111,6 +93,24 @@
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/fa15155_tc5sabvr.jpg?v=3",
    "link": "https://epitoanyag.hu/gerenda-15x15-cm-5-m-pRkExNXgxNXg1",
    "ar": "20 940 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "FA15x15x6",
+   "nev": "Gerenda 15x15 cm 6 m",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/fa15156_5vk37vny.jpg?v=3",
+   "link": "https://epitoanyag.hu/gerenda-15x15-cm-6-m-pRkExNXgxNXg2",
+   "ar": "25 120 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "FA7.5x15x5",
+   "nev": "Gerenda 7,5x15 cm 5 m",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/fa75154_b1t8fo8s.jpg?v=3",
+   "link": "https://epitoanyag.hu/gerenda-75x15-cm-5-m-pRkE3LjV4MTV4NQ_eq2",
+   "ar": "10 470 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   }
