@@ -1,6 +1,6 @@
 {
- "feed_frissitve": "Tue, 27 Oct 2026 08:50:13 GMT",
- "termek_osszesen": 23836,
+ "feed_frissitve": "Wed, 28 Oct 2026 09:50:13 GMT",
+ "termek_osszesen": 23835,
  "kategoriak": [
   {
    "kategoria": "Egyéb barkácsáru",
@@ -105,7 +105,7 @@
    "fokategoria": "Faanyag",
    "slug": "gerenda",
    "osszes": 16,
-   "kirakva": 12
+   "kirakva": 11
   },
   {
    "kategoria": "Kiegészítők",
@@ -209,7 +209,7 @@
    "kategoria": "Térburkolat",
    "fokategoria": "Kert",
    "slug": "terburkolat",
-   "osszes": 1014,
+   "osszes": 1013,
    "kirakva": 12
   },
   {

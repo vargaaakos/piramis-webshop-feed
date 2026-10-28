@@ -2,9 +2,9 @@
  "kategoria": "Tetőfedés",
  "fokategoria": "Építőanyag",
  "slug": "tetofedes",
- "feed_frissitve": "Tue, 27 Oct 2026 08:50:13 GMT",
+ "feed_frissitve": "Wed, 28 Oct 2026 09:50:13 GMT",
  "osszes_termek": 3277,
- "raktaron": 430,
+ "raktaron": 432,
  "termekek": [
   {
    "id": "ECX-BB-LS4-BD70",
@@ -106,11 +106,11 @@
    "marka": "swissporTON"
   },
   {
-   "id": "UH-728144",
-   "nev": "Dörken Delta XX Plus Strong páraáteresztő tetőfólia, hálóerősítéssel, két ragasztósávval 180 g/m²",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-728144_q8p8b4zt.png?v=3",
-   "link": "https://epitoanyag.hu/dorken-delta-xx-plus-strong-paraatereszto-tetofolia-haloerositessel-ket-ragasztosavval-180-gm-pVUgtNzI4MTQ0",
-   "ar": "93 000 Ft",
+   "id": "UH-728147",
+   "nev": "Dörken Delta XX Plus Universal páraáteresztő tetőfólia, két ragasztósávval 150 g/m²",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-728147_e5zp8uh4.png?v=3",
+   "link": "https://epitoanyag.hu/dorken-delta-xx-plus-universal-paraatereszto-tetofolia-ket-ragasztosavval-150-gm-pVUgtNzI4MTQ3",
+   "ar": "78 000 Ft",
    "akcios_ar": "",
    "marka": "Dörken"
   }

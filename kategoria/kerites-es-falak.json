@@ -2,9 +2,9 @@
  "kategoria": "Kerítés és falak",
  "fokategoria": "Kert",
  "slug": "kerites-es-falak",
- "feed_frissitve": "Tue, 27 Oct 2026 08:50:13 GMT",
+ "feed_frissitve": "Wed, 28 Oct 2026 09:50:13 GMT",
  "osszes_termek": 208,
- "raktaron": 74,
+ "raktaron": 73,
  "termekek": [
   {
    "id": "BETKEROSZLOP",
@@ -43,13 +43,13 @@
    "marka": "Orha"
   },
   {
-   "id": "EGK-184",
-   "nev": "Egomkő támfalelem, mosott, kavicsos",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/koves_e1fa42xt.png?v=3",
-   "link": "https://epitoanyag.hu/egomko-tamfalelem-mosott-kavicsos-pRUdLLTE4NA_eq2",
-   "ar": "1 840 Ft",
+   "id": "BETEPFLÓRAMINI",
+   "nev": "EPAG növényi támfal mini szürke",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/betepfloramini_uxekixm5.jpg?v=3",
+   "link": "https://epitoanyag.hu/epag-novenyi-tamfal-mini-szurke-pQkVURVBGTMOTUkFNSU5J",
+   "ar": "1 445 Ft",
    "akcios_ar": "",
-   "marka": "Egomkő"
+   "marka": "betonEPAG"
   },
   {
    "id": "UH-766345",
@@ -70,13 +70,13 @@
    "marka": "Orha"
   },
   {
-   "id": "BETEPFLÓRAMINI",
-   "nev": "EPAG növényi támfal mini szürke",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/betepfloramini_uxekixm5.jpg?v=3",
-   "link": "https://epitoanyag.hu/epag-novenyi-tamfal-mini-szurke-pQkVURVBGTMOTUkFNSU5J",
-   "ar": "1 445 Ft",
+   "id": "UH-186660",
+   "nev": "KK Kavics Aquincum Antik Blokk homok 15x20x40 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-186660-1_5drbt9wj.png?v=3",
+   "link": "https://epitoanyag.hu/kk-kavics-aquincum-antik-blokk-homok-15x20x40-cm-pVUgtMTg2NjYw",
+   "ar": "1 920 Ft",
    "akcios_ar": "",
-   "marka": "betonEPAG"
+   "marka": "KK Kavics Beton"
   },
   {
    "id": "UH-381672",
@@ -97,13 +97,13 @@
    "marka": "Orha"
   },
   {
-   "id": "UH-186660",
-   "nev": "KK Kavics Aquincum Antik Blokk homok 15x20x40 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-186660-1_5drbt9wj.png?v=3",
-   "link": "https://epitoanyag.hu/kk-kavics-aquincum-antik-blokk-homok-15x20x40-cm-pVUgtMTg2NjYw",
+   "id": "UH-003312",
+   "nev": "ABeton Via-Flor támfal beige 40x30x15 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/1_k89pzdrn.png?v=3",
+   "link": "https://epitoanyag.hu/abeton-via-flor-tamfal-beige-40x30x15-cm-pVUgtMDAzMzEy",
    "ar": "1 920 Ft",
    "akcios_ar": "",
-   "marka": "KK Kavics Beton"
+   "marka": "ABeton"
   },
   {
    "id": "UH-422926",
