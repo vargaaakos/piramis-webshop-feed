@@ -1,6 +1,6 @@
 {
- "feed_frissitve": "Wed, 28 Oct 2026 09:50:13 GMT",
- "termek_osszesen": 23835,
+ "feed_frissitve": "Thu, 29 Oct 2026 09:50:14 GMT",
+ "termek_osszesen": 23832,
  "kategoriak": [
   {
    "kategoria": "Egyéb barkácsáru",
@@ -20,7 +20,7 @@
    "kategoria": "Kerti- és kéziszerszám",
    "fokategoria": "Barkács",
    "slug": "kerti-es-keziszerszam",
-   "osszes": 366,
+   "osszes": 364,
    "kirakva": 12
   },
   {
@@ -83,7 +83,7 @@
    "kategoria": "Laminált padló, kiegészítő",
    "fokategoria": "Belsőépítészet",
    "slug": "laminalt-padlo-kiegeszito",
-   "osszes": 47,
+   "osszes": 48,
    "kirakva": 12
   },
   {
@@ -105,7 +105,7 @@
    "fokategoria": "Faanyag",
    "slug": "gerenda",
    "osszes": 16,
-   "kirakva": 11
+   "kirakva": 12
   },
   {
    "kategoria": "Kiegészítők",
@@ -161,7 +161,7 @@
    "fokategoria": "Kert",
    "slug": "ivokut-falikut",
    "osszes": 13,
-   "kirakva": 0
+   "kirakva": 1
   },
   {
    "kategoria": "Kapunyitó, kamerarendszer",
@@ -188,7 +188,7 @@
    "kategoria": "Kerítés és falak",
    "fokategoria": "Kert",
    "slug": "kerites-es-falak",
-   "osszes": 208,
+   "osszes": 209,
    "kirakva": 12
   },
   {
@@ -307,7 +307,7 @@
    "kategoria": "Vakolat, csemperagasztó, habarcs, cement, szilikon",
    "fokategoria": "Építőanyag",
    "slug": "vakolat-csemperagaszto-habarcs-cement-szilikon",
-   "osszes": 13672,
+   "osszes": 13669,
    "kirakva": 12
   },
   {

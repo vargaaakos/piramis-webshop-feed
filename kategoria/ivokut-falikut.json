@@ -2,8 +2,18 @@
  "kategoria": "Ivókút, falikút",
  "fokategoria": "Kert",
  "slug": "ivokut-falikut",
- "feed_frissitve": "Wed, 28 Oct 2026 09:50:13 GMT",
+ "feed_frissitve": "Thu, 29 Oct 2026 09:50:14 GMT",
  "osszes_termek": 13,
- "raktaron": 0,
- "termekek": []
+ "raktaron": 1,
+ "termekek": [
+  {
+   "id": "UH-359588",
+   "nev": "Fabrostone Piccolo falikút",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-359588_l3trxjuq.jpg?v=3",
+   "link": "https://epitoanyag.hu/fabrostone-piccolo-falikut-pVUgtMzU5NTg4",
+   "ar": "29 725 Ft",
+   "akcios_ar": "",
+   "marka": "FabroStone"
+  }
+ ]
 }

@@ -2,9 +2,9 @@
  "kategoria": "Kerti- és kéziszerszám",
  "fokategoria": "Barkács",
  "slug": "kerti-es-keziszerszam",
- "feed_frissitve": "Wed, 28 Oct 2026 09:50:13 GMT",
- "osszes_termek": 366,
- "raktaron": 343,
+ "feed_frissitve": "Thu, 29 Oct 2026 09:50:14 GMT",
+ "osszes_termek": 364,
+ "raktaron": 341,
  "termekek": [
   {
    "id": "UH-775327",
@@ -34,11 +34,11 @@
    "marka": "Milwaukee"
   },
   {
-   "id": "UH-775347",
-   "nev": "Fiskars CarbonMax Snap-off pengekés 18 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-fis-1027227_dcabi1zg.jpg?v=3",
-   "link": "https://epitoanyag.hu/fiskars-carbonmax-snap-off-pengekes-18-mm-pVUgtNzc1MzQ3",
-   "ar": "6 330 Ft",
+   "id": "UH-775348",
+   "nev": "Fiskars CarbonMax Snap-off pengekés 25 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-fis-1027228_8i2mnuoa.jpg?v=3",
+   "link": "https://epitoanyag.hu/fiskars-carbonmax-snap-off-pengekes-25-mm-pVUgtNzc1MzQ4",
+   "ar": "7 040 Ft",
    "akcios_ar": "",
    "marka": "Fiskars"
   },
@@ -70,15 +70,6 @@
    "marka": "Fiskars"
   },
   {
-   "id": "SOL-53031301",
-   "nev": "Sola HKM 1/10 W mérőléc 1 m",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/sol-53031301-1_vwssoh3i.jpg?v=3",
-   "link": "https://epitoanyag.hu/sola-hkm-110-w-merolec-1-m-pU09MLTUzMDMxMzAx",
-   "ar": "2 800 Ft",
-   "akcios_ar": "",
-   "marka": "Sola"
-  },
-  {
    "id": "UH-775343",
    "nev": "Fiskars PowerGear Aviation lemezvágó olló bulldog, balkezes",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-fis-1027212_9orow0lg.jpg?v=3",
@@ -86,6 +77,15 @@
    "ar": "9 670 Ft",
    "akcios_ar": "",
    "marka": "Fiskars"
+  },
+  {
+   "id": "SOL-53031301",
+   "nev": "Sola HKM 1/10 W mérőléc 1 m",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/sol-53031301-1_vwssoh3i.jpg?v=3",
+   "link": "https://epitoanyag.hu/sola-hkm-110-w-merolec-1-m-pU09MLTUzMDMxMzAx",
+   "ar": "2 800 Ft",
+   "akcios_ar": "",
+   "marka": "Sola"
   },
   {
    "id": "UH-775246",
