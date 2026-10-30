@@ -2,9 +2,9 @@
  "kategoria": "Térburkolat",
  "fokategoria": "Kert",
  "slug": "terburkolat",
- "feed_frissitve": "Thu, 29 Oct 2026 09:50:14 GMT",
- "osszes_termek": 1013,
- "raktaron": 118,
+ "feed_frissitve": "Fri, 30 Oct 2026 09:50:15 GMT",
+ "osszes_termek": 1012,
+ "raktaron": 117,
  "termekek": [
   {
    "id": "UH-002954",
@@ -61,13 +61,13 @@
    "marka": "Bergdeck"
   },
   {
-   "id": "BETEJGYÖNGYK40*40*5",
-   "nev": "EPAG gyöngykavicsos járdalap 40x40x5 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/betejgyongyk40405_acntx75l.jpg?v=3",
-   "link": "https://epitoanyag.hu/epag-gyongykavicsos-jardalap-40x40x5-cm-pQkVURUpHWcOWTkdZSzQwKjQwKjU_eq1",
-   "ar": "1 760 Ft",
+   "id": "UH-197416",
+   "nev": "Leier Euroline finommosott lap London 40x40x3,8 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/lond_548zp6kq.png?v=3",
+   "link": "https://epitoanyag.hu/leier-euroline-finommosott-lap-london-40x40x38-cm-pVUgtMTk3NDE2",
+   "ar": "1 260 Ft",
    "akcios_ar": "",
-   "marka": "betonEPAG"
+   "marka": "Leier"
   },
   {
    "id": "BETV-GYEPR40",

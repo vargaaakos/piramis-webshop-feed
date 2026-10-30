@@ -2,9 +2,9 @@
  "kategoria": "Vakolat, csemperagasztó, habarcs, cement, szilikon",
  "fokategoria": "Építőanyag",
  "slug": "vakolat-csemperagaszto-habarcs-cement-szilikon",
- "feed_frissitve": "Thu, 29 Oct 2026 09:50:14 GMT",
+ "feed_frissitve": "Fri, 30 Oct 2026 09:50:15 GMT",
  "osszes_termek": 13669,
- "raktaron": 311,
+ "raktaron": 307,
  "termekek": [
   {
    "id": "UH-518826",
@@ -20,7 +20,7 @@
    "nev": "Baumit Finish Expert Prémium beltéri glett 20 kg",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-xim0041972pngpagespeedicznkaxnsqgk_jzyqedf5.png?v=3",
    "link": "https://epitoanyag.hu/baumit-finish-expert-premium-belteri-glett-20-kg-pVUgtNjc1NTQ0",
-   "ar": "9 065 Ft",
+   "ar": "7 990 Ft",
    "akcios_ar": "",
    "marka": "Baumit"
   },
@@ -52,6 +52,15 @@
    "marka": "Baumit"
   },
   {
+   "id": "UH-001571",
+   "nev": "Duna-Dráva cement 32,5 R, 25 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/ddc-vaci-zsakok_7tqg8wys.png?v=2",
+   "link": "https://epitoanyag.hu/duna-drava-cement-325-r-25-kg-pVUgtMDAxNTcx",
+   "ar": "2 190 Ft",
+   "akcios_ar": "",
+   "marka": "DUNA-DRÁVA CEMENT"
+  },
+  {
    "id": "UH-293288",
    "nev": "újHÁZ Estrich 40 kg",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/estrich_4lxdz7d9.png?v=3",
@@ -68,15 +77,6 @@
    "ar": "7 050 Ft",
    "akcios_ar": "",
    "marka": "Mapei"
-  },
-  {
-   "id": "UH-001571",
-   "nev": "Duna-Dráva cement 32,5 R, 25 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/ddc-vaci-zsakok_7tqg8wys.png?v=2",
-   "link": "https://epitoanyag.hu/duna-drava-cement-325-r-25-kg-pVUgtMDAxNTcx",
-   "ar": "2 190 Ft",
-   "akcios_ar": "",
-   "marka": "DUNA-DRÁVA CEMENT"
   },
   {
    "id": "UH-599607",

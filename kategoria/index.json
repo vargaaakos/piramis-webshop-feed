@@ -1,6 +1,6 @@
 {
- "feed_frissitve": "Thu, 29 Oct 2026 09:50:14 GMT",
- "termek_osszesen": 23832,
+ "feed_frissitve": "Fri, 30 Oct 2026 09:50:15 GMT",
+ "termek_osszesen": 23807,
  "kategoriak": [
   {
    "kategoria": "Egyéb barkácsáru",
@@ -13,7 +13,7 @@
    "kategoria": "Festés",
    "fokategoria": "Barkács",
    "slug": "festes",
-   "osszes": 433,
+   "osszes": 408,
    "kirakva": 12
   },
   {
@@ -41,7 +41,7 @@
    "kategoria": "Szerszám, szerszámgép",
    "fokategoria": "Barkács",
    "slug": "szerszam-szerszamgep",
-   "osszes": 732,
+   "osszes": 731,
    "kirakva": 12
   },
   {
@@ -83,7 +83,7 @@
    "kategoria": "Laminált padló, kiegészítő",
    "fokategoria": "Belsőépítészet",
    "slug": "laminalt-padlo-kiegeszito",
-   "osszes": 48,
+   "osszes": 47,
    "kirakva": 12
   },
   {
@@ -111,7 +111,7 @@
    "kategoria": "Kiegészítők",
    "fokategoria": "Faanyag",
    "slug": "kiegeszitok",
-   "osszes": 169,
+   "osszes": 170,
    "kirakva": 12
   },
   {
@@ -209,7 +209,7 @@
    "kategoria": "Térburkolat",
    "fokategoria": "Kert",
    "slug": "terburkolat",
-   "osszes": 1013,
+   "osszes": 1012,
    "kirakva": 12
   },
   {
@@ -286,7 +286,7 @@
    "kategoria": "Szigetelés",
    "fokategoria": "Építőanyag",
    "slug": "szigeteles",
-   "osszes": 1071,
+   "osszes": 1072,
    "kirakva": 12
   },
   {
@@ -314,7 +314,7 @@
    "kategoria": "Zsalukő",
    "fokategoria": "Építőanyag",
    "slug": "zsaluko",
-   "osszes": 26,
+   "osszes": 27,
    "kirakva": 12
   },
   {

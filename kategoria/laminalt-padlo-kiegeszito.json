@@ -2,9 +2,9 @@
  "kategoria": "Laminált padló, kiegészítő",
  "fokategoria": "Belsőépítészet",
  "slug": "laminalt-padlo-kiegeszito",
- "feed_frissitve": "Thu, 29 Oct 2026 09:50:14 GMT",
- "osszes_termek": 48,
- "raktaron": 21,
+ "feed_frissitve": "Fri, 30 Oct 2026 09:50:15 GMT",
+ "osszes_termek": 47,
+ "raktaron": 20,
  "termekek": [
   {
    "id": "BF-D3880",
@@ -20,24 +20,6 @@
    "nev": "Laminált padló szegőléc MDF 58; AN023-as színkódú; 2,4 m",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-023_p0s8zuqb.jpg?v=3",
    "link": "https://epitoanyag.hu/laminalt-padlo-szegolec-mdf-58-an023-as-szinkodu-24-m-pQkYtNThOL0FOMDIzLzIuNA_eq2",
-   "ar": "1 580 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
-  },
-  {
-   "id": "UH-005088",
-   "nev": "Baudekor ProfiFloor Puzzle XPS padlóalátét 5 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/puzzle_u7pmbecp.png?v=3",
-   "link": "https://epitoanyag.hu/baudekor-profifloor-puzzle-xps-padloalatet-5-mm-pVUgtMDA1MDg4",
-   "ar": "3 900 Ft",
-   "akcios_ar": "",
-   "marka": "baudekor"
-  },
-  {
-   "id": "BF-58N/AN410/2.4",
-   "nev": "Laminált padló szegőléc MDF 58; AN410-es színkódú; 2,4 m",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-410_1o3nlu1r.jpg?v=3",
-   "link": "https://epitoanyag.hu/laminalt-padlo-szegolec-mdf-58-an410-es-szinkodu-24-m-pQkYtNThOL0FONDEwLzIuNA_eq2",
    "ar": "1 580 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
@@ -70,10 +52,10 @@
    "marka": "Egyéb"
   },
   {
-   "id": "BF-58N/AN512/2.4",
-   "nev": "Laminált padló szegőléc MDF 58; AN512-es színkódú; 2,4 m",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-512_ark5xz30.jpg?v=3",
-   "link": "https://epitoanyag.hu/laminalt-padlo-szegolec-mdf-58-an512-es-szinkodu-24-m-pQkYtNThOL0FONTEyLzIuNA_eq2",
+   "id": "BF-58N/AN410/2.4",
+   "nev": "Laminált padló szegőléc MDF 58; AN410-es színkódú; 2,4 m",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-410_1o3nlu1r.jpg?v=3",
+   "link": "https://epitoanyag.hu/laminalt-padlo-szegolec-mdf-58-an410-es-szinkodu-24-m-pQkYtNThOL0FONDEwLzIuNA_eq2",
    "ar": "1 580 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
@@ -88,10 +70,10 @@
    "marka": "Egyéb"
   },
   {
-   "id": "BF-58N/AN514/2.4",
-   "nev": "Laminált padló szegőléc MDF 58; AN514-es színkódú; 2,4 m",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-514_dwkvi2wi.jpg?v=3",
-   "link": "https://epitoanyag.hu/laminalt-padlo-szegolec-mdf-58-an514-es-szinkodu-24-m-pQkYtNThOL0FONTE0LzIuNA_eq2",
+   "id": "BF-58N/AN512/2.4",
+   "nev": "Laminált padló szegőléc MDF 58; AN512-es színkódú; 2,4 m",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-512_ark5xz30.jpg?v=3",
+   "link": "https://epitoanyag.hu/laminalt-padlo-szegolec-mdf-58-an512-es-szinkodu-24-m-pQkYtNThOL0FONTEyLzIuNA_eq2",
    "ar": "1 580 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
@@ -102,6 +84,24 @@
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/14t_gvio76kz.png?v=3",
    "link": "https://epitoanyag.hu/laminalt-szegolec-osszekoto-elem-mdf-58-ac14-szinkodu-pQkYtNTgvQUMxNFQ_eq1",
    "ar": "2 980 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "BF-58N/AN514/2.4",
+   "nev": "Laminált padló szegőléc MDF 58; AN514-es színkódú; 2,4 m",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-514_dwkvi2wi.jpg?v=3",
+   "link": "https://epitoanyag.hu/laminalt-padlo-szegolec-mdf-58-an514-es-szinkodu-24-m-pQkYtNThOL0FONTE0LzIuNA_eq2",
+   "ar": "1 580 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-570981",
+   "nev": "Öko habszivacs parketta alátét 2 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/balobau-5f06c22ce928c_bx86gmvu.png?v=3",
+   "link": "https://epitoanyag.hu/oko-habszivacs-parketta-alatet-2-mm-pVUgtNTcwOTgx",
+   "ar": "165 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   },
