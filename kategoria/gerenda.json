@@ -2,9 +2,9 @@
  "kategoria": "Gerenda",
  "fokategoria": "Faanyag",
  "slug": "gerenda",
- "feed_frissitve": "Fri, 30 Oct 2026 09:50:15 GMT",
+ "feed_frissitve": "Sat, 31 Oct 2026 09:50:12 GMT",
  "osszes_termek": 16,
- "raktaron": 15,
+ "raktaron": 14,
  "termekek": [
   {
    "id": "FA10x10x4",
@@ -12,15 +12,6 @@
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/fa10104_xrdaw3oa.jpg?v=3",
    "link": "https://epitoanyag.hu/gerenda-10x10-cm-4-m-pRkExMHgxMHg0",
    "ar": "7 440 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
-  },
-  {
-   "id": "FA10x10x5",
-   "nev": "Gerenda 10x10 cm 5 m",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/fa10105_ngb8viw8.jpg?v=3",
-   "link": "https://epitoanyag.hu/gerenda-10x10-cm-5-m-pRkExMHgxMHg1",
-   "ar": "9 310 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   },
@@ -111,6 +102,15 @@
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/fa15156_5vk37vny.jpg?v=3",
    "link": "https://epitoanyag.hu/gerenda-15x15-cm-6-m-pRkExNXgxNXg2",
    "ar": "25 120 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "FA7.5x15x4",
+   "nev": "Gerenda 7,5x15 cm 4 m",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/fa75154_0coo0xxg.jpg?v=3",
+   "link": "https://epitoanyag.hu/gerenda-75x15-cm-4-m-pRkE3LjV4MTV4NA_eq2",
+   "ar": "8 370 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   }

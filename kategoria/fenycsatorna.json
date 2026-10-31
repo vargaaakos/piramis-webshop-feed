@@ -2,9 +2,9 @@
  "kategoria": "Fénycsatorna",
  "fokategoria": "Nyílászáró",
  "slug": "fenycsatorna",
- "feed_frissitve": "Fri, 30 Oct 2026 09:50:15 GMT",
+ "feed_frissitve": "Sat, 31 Oct 2026 09:50:12 GMT",
  "osszes_termek": 11,
- "raktaron": 1,
+ "raktaron": 2,
  "termekek": [
   {
    "id": "UH-215083",
@@ -12,6 +12,15 @@
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-215083-2_okcm800d.jpg?v=3",
    "link": "https://epitoanyag.hu/velux-bfx-35-cm-es-alatetfolia-fenycsatornakhoz-pVUgtMjE1MDgz",
    "ar": "27 900 Ft",
+   "akcios_ar": "",
+   "marka": ".VELUX"
+  },
+  {
+   "id": "UH-204820",
+   "nev": "VELUX ZTR 62 cm toldócső 35 cm-es TWR/TLR-hez",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-204820_vad6le87.jpg?v=3",
+   "link": "https://epitoanyag.hu/velux-ztr-62-cm-toldocso-35-cm-es-twrtlr-hez-pVUgtMjA0ODIw",
+   "ar": "32 190 Ft",
    "akcios_ar": "",
    "marka": ".VELUX"
   }
