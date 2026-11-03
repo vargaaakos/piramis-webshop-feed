@@ -2,9 +2,9 @@
  "kategoria": "Kerti- és kéziszerszám",
  "fokategoria": "Barkács",
  "slug": "kerti-es-keziszerszam",
- "feed_frissitve": "Mon, 02 Nov 2026 10:50:12 GMT",
- "osszes_termek": 363,
- "raktaron": 339,
+ "feed_frissitve": "Tue, 03 Nov 2026 10:50:15 GMT",
+ "osszes_termek": 360,
+ "raktaron": 336,
  "termekek": [
   {
    "id": "UH-775327",
@@ -52,20 +52,20 @@
    "marka": "Milwaukee"
   },
   {
-   "id": "UH-775274",
-   "nev": "Fiskars P90 professzionális metszőolló, mellévágó",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-fis-111960_de8p0m6w.jpg?v=3",
-   "link": "https://epitoanyag.hu/fiskars-p90-professzionalis-metszoollo-mellevago-pVUgtNzc1Mjc0",
-   "ar": "7 530 Ft",
-   "akcios_ar": "",
-   "marka": "Fiskars"
-  },
-  {
    "id": "UH-775295",
    "nev": "Fiskars IsoCore kalapács L",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-fis-1020218_qtnc3sf0.jpg?v=3",
    "link": "https://epitoanyag.hu/fiskars-isocore-kalapacs-l-pVUgtNzc1Mjk1",
    "ar": "16 900 Ft",
+   "akcios_ar": "",
+   "marka": "Fiskars"
+  },
+  {
+   "id": "UH-775274",
+   "nev": "Fiskars P90 professzionális metszőolló, mellévágó",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-fis-111960_de8p0m6w.jpg?v=3",
+   "link": "https://epitoanyag.hu/fiskars-p90-professzionalis-metszoollo-mellevago-pVUgtNzc1Mjc0",
+   "ar": "7 530 Ft",
    "akcios_ar": "",
    "marka": "Fiskars"
   },
