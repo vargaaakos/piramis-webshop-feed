@@ -2,9 +2,9 @@
  "kategoria": "Villamosság",
  "fokategoria": "Barkács",
  "slug": "villamossag",
- "feed_frissitve": "Tue, 03 Nov 2026 10:50:15 GMT",
- "osszes_termek": 10,
- "raktaron": 10,
+ "feed_frissitve": "Wed, 04 Nov 2026 10:50:12 GMT",
+ "osszes_termek": 9,
+ "raktaron": 9,
  "termekek": [
   {
    "id": "MWK-4933459440",
@@ -21,15 +21,6 @@
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/mwk-4933479763-2_x8ik7ytr.jpg?v=3",
    "link": "https://epitoanyag.hu/milwaukee-l4fl-301-usb-akkumulatoros-szort-fenyu-zseblampa-pTVdLLTQ5MzM0Nzk3NjM_eq1",
    "ar": "41 050 Ft",
-   "akcios_ar": "",
-   "marka": "Milwaukee"
-  },
-  {
-   "id": "MWK-4933479637",
-   "nev": "Milwaukee L4FL2000-301 akkumulátoros zseblámpa",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/mwk-4933479637-16_i3u7cqor.jpg?v=3",
-   "link": "https://epitoanyag.hu/milwaukee-l4fl2000-301-akkumulatoros-zseblampa-pTVdLLTQ5MzM0Nzk2Mzc_eq1",
-   "ar": "62 520 Ft",
    "akcios_ar": "",
    "marka": "Milwaukee"
   },

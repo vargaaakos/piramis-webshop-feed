@@ -1,6 +1,6 @@
 {
- "feed_frissitve": "Tue, 03 Nov 2026 10:50:15 GMT",
- "termek_osszesen": 23786,
+ "feed_frissitve": "Wed, 04 Nov 2026 10:50:12 GMT",
+ "termek_osszesen": 23779,
  "kategoriak": [
   {
    "kategoria": "Egyéb barkácsáru",
@@ -13,7 +13,7 @@
    "kategoria": "Festés",
    "fokategoria": "Barkács",
    "slug": "festes",
-   "osszes": 405,
+   "osszes": 404,
    "kirakva": 12
   },
   {
@@ -41,7 +41,7 @@
    "kategoria": "Szerszám, szerszámgép",
    "fokategoria": "Barkács",
    "slug": "szerszam-szerszamgep",
-   "osszes": 721,
+   "osszes": 719,
    "kirakva": 12
   },
   {
@@ -55,8 +55,8 @@
    "kategoria": "Villamosság",
    "fokategoria": "Barkács",
    "slug": "villamossag",
-   "osszes": 10,
-   "kirakva": 10
+   "osszes": 9,
+   "kirakva": 9
   },
   {
    "kategoria": "Csempe, járólap, falburkolat",
@@ -76,7 +76,7 @@
    "kategoria": "Gipszkarton, gipszkarton rendszer",
    "fokategoria": "Belsőépítészet",
    "slug": "gipszkarton-gipszkarton-rendszer",
-   "osszes": 336,
+   "osszes": 335,
    "kirakva": 12
   },
   {
@@ -209,7 +209,7 @@
    "kategoria": "Térburkolat",
    "fokategoria": "Kert",
    "slug": "terburkolat",
-   "osszes": 1013,
+   "osszes": 1012,
    "kirakva": 12
   },
   {
@@ -293,7 +293,7 @@
    "kategoria": "Tetőfedés",
    "fokategoria": "Építőanyag",
    "slug": "tetofedes",
-   "osszes": 3277,
+   "osszes": 3276,
    "kirakva": 12
   },
   {

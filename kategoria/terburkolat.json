@@ -2,8 +2,8 @@
  "kategoria": "Térburkolat",
  "fokategoria": "Kert",
  "slug": "terburkolat",
- "feed_frissitve": "Tue, 03 Nov 2026 10:50:15 GMT",
- "osszes_termek": 1013,
+ "feed_frissitve": "Wed, 04 Nov 2026 10:50:12 GMT",
+ "osszes_termek": 1012,
  "raktaron": 117,
  "termekek": [
   {
@@ -16,11 +16,11 @@
    "marka": "ABeton"
   },
   {
-   "id": "BETV-KSZEG",
-   "nev": "BetonLM K-szegély szürke 25x25x15/10 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/k-01_8neg39fa.jpg?v=3",
-   "link": "https://epitoanyag.hu/betonlm-k-szegely-szurke-25x25x1510-cm-pQkVUVi1LU1pFRw_eq2",
-   "ar": "645 Ft",
+   "id": "BETV-KIEMÚTSZ",
+   "nev": "BetonLM kiemelt útszegély, szürke 15x25x30 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/betvutszeg253015_cle08o85.jpg?v=3",
+   "link": "https://epitoanyag.hu/betonlm-kiemelt-utszegely-szurke-15x25x30-cm-pQkVUVi1LSUVNw5pUU1o_eq1",
+   "ar": "700 Ft",
    "akcios_ar": "",
    "marka": "BetonLM 2000"
   },
