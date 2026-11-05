@@ -2,9 +2,9 @@
  "kategoria": "Tetőfedés",
  "fokategoria": "Építőanyag",
  "slug": "tetofedes",
- "feed_frissitve": "Wed, 04 Nov 2026 10:50:12 GMT",
- "osszes_termek": 3276,
- "raktaron": 433,
+ "feed_frissitve": "Thu, 05 Nov 2026 10:50:14 GMT",
+ "osszes_termek": 3274,
+ "raktaron": 434,
  "termekek": [
   {
    "id": "ECX-BB-LS4-BD70",
@@ -79,11 +79,11 @@
    "marka": "Dörken"
   },
   {
-   "id": "UH-420084",
-   "nev": "Leier Toscana alapcserép Basic terra",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-420084_b2p5bh36.jpg?v=3",
-   "link": "https://epitoanyag.hu/leier-toscana-alapcserep-basic-terra-pVUgtNDIwMDg0",
-   "ar": "2 100 Ft",
+   "id": "UH-420080",
+   "nev": "Leier Toscana alapcserép Classic fekete",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-420080_hwiny3lf.jpg?v=3",
+   "link": "https://epitoanyag.hu/leier-toscana-alapcserep-classic-fekete-pVUgtNDIwMDgw",
+   "ar": "2 150 Ft",
    "akcios_ar": "",
    "marka": "Leier"
   },

@@ -2,9 +2,9 @@
  "kategoria": "Kerti- és kéziszerszám",
  "fokategoria": "Barkács",
  "slug": "kerti-es-keziszerszam",
- "feed_frissitve": "Wed, 04 Nov 2026 10:50:12 GMT",
- "osszes_termek": 360,
- "raktaron": 336,
+ "feed_frissitve": "Thu, 05 Nov 2026 10:50:14 GMT",
+ "osszes_termek": 359,
+ "raktaron": 335,
  "termekek": [
   {
    "id": "UH-775327",
@@ -70,15 +70,6 @@
    "marka": "Fiskars"
   },
   {
-   "id": "UH-775343",
-   "nev": "Fiskars PowerGear Aviation lemezvágó olló bulldog, balkezes",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-fis-1027212_9orow0lg.jpg?v=3",
-   "link": "https://epitoanyag.hu/fiskars-powergear-aviation-lemezvago-ollo-bulldog-balkezes-pVUgtNzc1MzQz",
-   "ar": "9 670 Ft",
-   "akcios_ar": "",
-   "marka": "Fiskars"
-  },
-  {
    "id": "SOL-53031301",
    "nev": "Sola HKM 1/10 W mérőléc 1 m",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/sol-53031301-1_vwssoh3i.jpg?v=3",
@@ -86,6 +77,15 @@
    "ar": "2 800 Ft",
    "akcios_ar": "",
    "marka": "Sola"
+  },
+  {
+   "id": "MWK-48224256",
+   "nev": "Milwaukee 2 db vágókerék rézcsővágóhoz",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/mwk-48224256_zxu468nq.jpg?v=3",
+   "link": "https://epitoanyag.hu/milwaukee-2-db-vagokerek-rezcsovagohoz-pTVdLLTQ4MjI0MjU2",
+   "ar": "5 150 Ft",
+   "akcios_ar": "",
+   "marka": "Milwaukee"
   },
   {
    "id": "UH-775246",

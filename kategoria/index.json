@@ -1,6 +1,6 @@
 {
- "feed_frissitve": "Wed, 04 Nov 2026 10:50:12 GMT",
- "termek_osszesen": 23779,
+ "feed_frissitve": "Thu, 05 Nov 2026 10:50:14 GMT",
+ "termek_osszesen": 23777,
  "kategoriak": [
   {
    "kategoria": "Egyéb barkácsáru",
@@ -13,14 +13,14 @@
    "kategoria": "Festés",
    "fokategoria": "Barkács",
    "slug": "festes",
-   "osszes": 404,
+   "osszes": 405,
    "kirakva": 12
   },
   {
    "kategoria": "Kerti- és kéziszerszám",
    "fokategoria": "Barkács",
    "slug": "kerti-es-keziszerszam",
-   "osszes": 360,
+   "osszes": 359,
    "kirakva": 12
   },
   {
@@ -252,7 +252,7 @@
    "fokategoria": "Nyílászáró",
    "slug": "padlasfeljaro",
    "osszes": 14,
-   "kirakva": 6
+   "kirakva": 5
   },
   {
    "kategoria": "Tetőkijárat, tetőkibúvó",
@@ -293,7 +293,7 @@
    "kategoria": "Tetőfedés",
    "fokategoria": "Építőanyag",
    "slug": "tetofedes",
-   "osszes": 3276,
+   "osszes": 3274,
    "kirakva": 12
   },
   {
