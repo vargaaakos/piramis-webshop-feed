@@ -1,6 +1,6 @@
 {
- "feed_frissitve": "Fri, 06 Nov 2026 10:50:13 GMT",
- "termek_osszesen": 23802,
+ "feed_frissitve": "Sat, 07 Nov 2026 09:50:13 GMT",
+ "termek_osszesen": 23804,
  "kategoriak": [
   {
    "kategoria": "Egyéb barkácsáru",
@@ -20,7 +20,7 @@
    "kategoria": "Kerti- és kéziszerszám",
    "fokategoria": "Barkács",
    "slug": "kerti-es-keziszerszam",
-   "osszes": 359,
+   "osszes": 361,
    "kirakva": 12
   },
   {
@@ -41,7 +41,7 @@
    "kategoria": "Szerszám, szerszámgép",
    "fokategoria": "Barkács",
    "slug": "szerszam-szerszamgep",
-   "osszes": 718,
+   "osszes": 717,
    "kirakva": 12
   },
   {
@@ -133,7 +133,7 @@
    "fokategoria": "Faanyag",
    "slug": "stafni-tetolec",
    "osszes": 7,
-   "kirakva": 7
+   "kirakva": 6
   },
   {
    "kategoria": "Egyéb kerti kiegészítő",
@@ -209,7 +209,7 @@
    "kategoria": "Térburkolat",
    "fokategoria": "Kert",
    "slug": "terburkolat",
-   "osszes": 1039,
+   "osszes": 1040,
    "kirakva": 12
   },
   {
