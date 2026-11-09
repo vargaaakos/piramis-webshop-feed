@@ -1,6 +1,6 @@
 {
- "feed_frissitve": "Sun, 08 Nov 2026 09:50:13 GMT",
- "termek_osszesen": 23804,
+ "feed_frissitve": "Mon, 09 Nov 2026 11:50:13 GMT",
+ "termek_osszesen": 23798,
  "kategoriak": [
   {
    "kategoria": "Egyéb barkácsáru",
@@ -20,7 +20,7 @@
    "kategoria": "Kerti- és kéziszerszám",
    "fokategoria": "Barkács",
    "slug": "kerti-es-keziszerszam",
-   "osszes": 361,
+   "osszes": 358,
    "kirakva": 12
   },
   {
@@ -76,7 +76,7 @@
    "kategoria": "Gipszkarton, gipszkarton rendszer",
    "fokategoria": "Belsőépítészet",
    "slug": "gipszkarton-gipszkarton-rendszer",
-   "osszes": 335,
+   "osszes": 334,
    "kirakva": 12
   },
   {
@@ -195,8 +195,8 @@
    "kategoria": "Lábtörlők, rácsok",
    "fokategoria": "Kert",
    "slug": "labtorlok-racsok",
-   "osszes": 27,
-   "kirakva": 1
+   "osszes": 26,
+   "kirakva": 0
   },
   {
    "kategoria": "Növényápolás, kertgondozás",
@@ -293,7 +293,7 @@
    "kategoria": "Tetőfedés",
    "fokategoria": "Építőanyag",
    "slug": "tetofedes",
-   "osszes": 3274,
+   "osszes": 3273,
    "kirakva": 12
   },
   {
