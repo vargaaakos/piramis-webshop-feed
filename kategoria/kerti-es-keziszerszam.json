@@ -2,9 +2,9 @@
  "kategoria": "Kerti- és kéziszerszám",
  "fokategoria": "Barkács",
  "slug": "kerti-es-keziszerszam",
- "feed_frissitve": "Mon, 09 Nov 2026 11:50:13 GMT",
- "osszes_termek": 358,
- "raktaron": 334,
+ "feed_frissitve": "Tue, 10 Nov 2026 10:50:12 GMT",
+ "osszes_termek": 370,
+ "raktaron": 346,
  "termekek": [
   {
    "id": "UH-775327",
@@ -25,15 +25,6 @@
    "marka": "Milwaukee"
   },
   {
-   "id": "UH-775348",
-   "nev": "Fiskars CarbonMax Snap-off pengekés 25 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-fis-1027228_8i2mnuoa.jpg?v=3",
-   "link": "https://epitoanyag.hu/fiskars-carbonmax-snap-off-pengekes-25-mm-pVUgtNzc1MzQ4",
-   "ar": "7 040 Ft",
-   "akcios_ar": "",
-   "marka": "Fiskars"
-  },
-  {
    "id": "MWK-4932459067",
    "nev": "Milwaukee Redstick Backbone vízmérték mágneses, 100 cm",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/mwk-4932459067_dgzfm5c0.jpg?v=3",
@@ -41,6 +32,15 @@
    "ar": "41 010 Ft",
    "akcios_ar": "",
    "marka": "Milwaukee"
+  },
+  {
+   "id": "UH-775348",
+   "nev": "Fiskars CarbonMax Snap-off pengekés 25 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-fis-1027228_8i2mnuoa.jpg?v=3",
+   "link": "https://epitoanyag.hu/fiskars-carbonmax-snap-off-pengekes-25-mm-pVUgtNzc1MzQ4",
+   "ar": "7 040 Ft",
+   "akcios_ar": "",
+   "marka": "Fiskars"
   },
   {
    "id": "MWK-4932471637",

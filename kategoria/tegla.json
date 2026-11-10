@@ -2,9 +2,9 @@
  "kategoria": "Tégla",
  "fokategoria": "Építőanyag",
  "slug": "tegla",
- "feed_frissitve": "Mon, 09 Nov 2026 11:50:13 GMT",
+ "feed_frissitve": "Tue, 10 Nov 2026 10:50:12 GMT",
  "osszes_termek": 91,
- "raktaron": 59,
+ "raktaron": 60,
  "termekek": [
   {
    "id": "UH-198166",
@@ -43,13 +43,13 @@
    "marka": "Egyéb"
   },
   {
-   "id": "UH-831647",
-   "nev": "Porotherm 10 N+F neo tégla",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-uh-756617_5t1il64b.jpg?v=3",
-   "link": "https://epitoanyag.hu/porotherm-10-nf-neo-tegla-pVUgtODMxNjQ3",
-   "ar": "595 Ft",
+   "id": "UH-198170",
+   "nev": "Leier Leiertherm 20 N+F tégla",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-198170_brakwp75.jpg?v=3",
+   "link": "https://epitoanyag.hu/leier-leiertherm-20-nf-tegla-pVUgtMTk4MTcw",
+   "ar": "1 080 Ft",
    "akcios_ar": "",
-   "marka": "Wienerberger"
+   "marka": "Leier"
   },
   {
    "id": "SAMOTT20*50*4",
@@ -79,11 +79,11 @@
    "marka": "Egyéb"
   },
   {
-   "id": "UH-831643",
-   "nev": "Porotherm 20 N+F tégla",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-uh-267890_ouqe8iju.jpg?v=3",
-   "link": "https://epitoanyag.hu/porotherm-20-nf-tegla-pVUgtODMxNjQz",
-   "ar": "54 480 Ft",
+   "id": "UH-831647",
+   "nev": "Porotherm 10 N+F neo tégla",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-uh-756617_5t1il64b.jpg?v=3",
+   "link": "https://epitoanyag.hu/porotherm-10-nf-neo-tegla-pVUgtODMxNjQ3",
+   "ar": "595 Ft",
    "akcios_ar": "",
    "marka": "Wienerberger"
   },
@@ -106,13 +106,13 @@
    "marka": "Egyéb"
   },
   {
-   "id": "UH-198170",
-   "nev": "Leier Leiertherm 20 N+F tégla",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-198170_brakwp75.jpg?v=3",
-   "link": "https://epitoanyag.hu/leier-leiertherm-20-nf-tegla-pVUgtMTk4MTcw",
-   "ar": "1 080 Ft",
+   "id": "UH-831643",
+   "nev": "Porotherm 20 N+F tégla",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-uh-267890_ouqe8iju.jpg?v=3",
+   "link": "https://epitoanyag.hu/porotherm-20-nf-tegla-pVUgtODMxNjQz",
+   "ar": "54 480 Ft",
    "akcios_ar": "",
-   "marka": "Leier"
+   "marka": "Wienerberger"
   }
  ]
 }
