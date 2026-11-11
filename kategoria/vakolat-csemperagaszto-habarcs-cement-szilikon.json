@@ -2,9 +2,9 @@
  "kategoria": "Vakolat, csemperagasztó, habarcs, cement, szilikon",
  "fokategoria": "Építőanyag",
  "slug": "vakolat-csemperagaszto-habarcs-cement-szilikon",
- "feed_frissitve": "Tue, 10 Nov 2026 10:50:12 GMT",
+ "feed_frissitve": "Wed, 11 Nov 2026 10:50:14 GMT",
  "osszes_termek": 13666,
- "raktaron": 310,
+ "raktaron": 312,
  "termekek": [
   {
    "id": "UH-518826",
@@ -70,15 +70,6 @@
    "marka": "ÚjHáz"
   },
   {
-   "id": "UH-599607",
-   "nev": "Revco Vario+ Struktúra gördülőszemcsés vékonyvakolat 2 mm bonbon 4 16 kg",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-599607-2_xjpj64c4.png?v=3",
-   "link": "https://epitoanyag.hu/revco-vario-struktura-gorduloszemcses-vekonyvakolat-2-mm-bonbon-4-16-kg-pVUgtNTk5NjA3",
-   "ar": "14 655 Ft",
-   "akcios_ar": "",
-   "marka": "Revco"
-  },
-  {
    "id": "UH-088540",
    "nev": "Mapei Eporip Turbo kétkomponensű gyorskötő repedésjavító gyanta 0,5 kg",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-088540_524b3kox.png?v=3",
@@ -86,6 +77,15 @@
    "ar": "7 050 Ft",
    "akcios_ar": "",
    "marka": "Mapei"
+  },
+  {
+   "id": "UH-599607",
+   "nev": "Revco Vario+ Struktúra gördülőszemcsés vékonyvakolat 2 mm bonbon 4 16 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-599607-2_xjpj64c4.png?v=3",
+   "link": "https://epitoanyag.hu/revco-vario-struktura-gorduloszemcses-vekonyvakolat-2-mm-bonbon-4-16-kg-pVUgtNTk5NjA3",
+   "ar": "14 655 Ft",
+   "akcios_ar": "",
+   "marka": "Revco"
   },
   {
    "id": "MÉSZOLTOTT25KAL",

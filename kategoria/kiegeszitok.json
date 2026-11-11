@@ -2,9 +2,9 @@
  "kategoria": "Kiegészítők",
  "fokategoria": "Faanyag",
  "slug": "kiegeszitok",
- "feed_frissitve": "Tue, 10 Nov 2026 10:50:12 GMT",
+ "feed_frissitve": "Wed, 11 Nov 2026 10:50:14 GMT",
  "osszes_termek": 171,
- "raktaron": 149,
+ "raktaron": 148,
  "termekek": [
   {
    "id": "UH-125178",
@@ -88,15 +88,6 @@
    "marka": "Egyéb"
   },
   {
-   "id": "UH-129516",
-   "nev": "Bognárszeg 2,0x40 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-copied-copied-copied-copied-uh-129511_t8z6kzpy.jpg?v=2",
-   "link": "https://epitoanyag.hu/bognarszeg-20x40-mm-pVUgtMTI5NTE2",
-   "ar": "150 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
-  },
-  {
    "id": "UH-129517",
    "nev": "Bognárszeg horganyzott 2,0x40 mm",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-copied-copied-copied-copied-copied-uh-129511_d4ypuv8m.jpg?v=2",
@@ -111,6 +102,15 @@
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-copied-copied-copied-copied-copied-copied-copied-uh-129511_qmp5gdac.jpg?v=2",
    "link": "https://epitoanyag.hu/bognarszeg-horganyzott-28x65-mm-pVUgtMTI5NTIx",
    "ar": "187 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
+   "id": "UH-129524",
+   "nev": "Csavartszeg 3,5x40 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-copied-copied-copied-copied-copied-copied-copied-copied-uh-129511_fnqmpuom.jpg?v=2",
+   "link": "https://epitoanyag.hu/csavartszeg-35x40-mm-pVUgtMTI5NTI0",
+   "ar": "140 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   }
