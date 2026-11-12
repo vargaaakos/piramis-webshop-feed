@@ -1,6 +1,6 @@
 {
- "feed_frissitve": "Wed, 11 Nov 2026 10:50:14 GMT",
- "termek_osszesen": 23779,
+ "feed_frissitve": "Thu, 12 Nov 2026 10:50:13 GMT",
+ "termek_osszesen": 23777,
  "kategoriak": [
   {
    "kategoria": "Egyéb barkácsáru",
@@ -13,7 +13,7 @@
    "kategoria": "Festés",
    "fokategoria": "Barkács",
    "slug": "festes",
-   "osszes": 402,
+   "osszes": 401,
    "kirakva": 12
   },
   {
@@ -265,7 +265,7 @@
    "kategoria": "Tetőtéri ablak, tetőtéri ablak kiegészítő",
    "fokategoria": "Nyílászáró",
    "slug": "tetoteri-ablak-tetoteri-ablak-kiegeszito",
-   "osszes": 454,
+   "osszes": 453,
    "kirakva": 12
   },
   {

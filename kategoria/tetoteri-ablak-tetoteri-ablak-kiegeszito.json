@@ -2,17 +2,17 @@
  "kategoria": "Tetőtéri ablak, tetőtéri ablak kiegészítő",
  "fokategoria": "Nyílászáró",
  "slug": "tetoteri-ablak-tetoteri-ablak-kiegeszito",
- "feed_frissitve": "Wed, 11 Nov 2026 10:50:14 GMT",
- "osszes_termek": 454,
- "raktaron": 42,
+ "feed_frissitve": "Thu, 12 Nov 2026 10:50:13 GMT",
+ "osszes_termek": 453,
+ "raktaron": 41,
  "termekek": [
   {
-   "id": "UH-324754",
-   "nev": "VELUX GLL 1061 78x118 cm, billenő fa tetőtéri ablak",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/207-with-stroke-new-3_pai9uplp.png?v=3",
-   "link": "https://epitoanyag.hu/velux-gll-1061-78x118-cm-billeno-fa-tetoteri-ablak-pVUgtMzI0NzU0",
-   "ar": "157 690 Ft",
-   "akcios_ar": "137 930 Ft",
+   "id": "UH-324755",
+   "nev": "VELUX GLL 1061 78x140 cm, billenő fa tetőtéri ablak",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/207-with-stroke-new-3_fmy1lkl1.png?v=3",
+   "link": "https://epitoanyag.hu/velux-gll-1061-78x140-cm-billeno-fa-tetoteri-ablak-pVUgtMzI0NzU1",
+   "ar": "168 690 Ft",
+   "akcios_ar": "147 590 Ft",
    "marka": ".VELUX"
   },
   {
@@ -34,12 +34,12 @@
    "marka": ".VELUX"
   },
   {
-   "id": "UH-324755",
-   "nev": "VELUX GLL 1061 78x140 cm, billenő fa tetőtéri ablak",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/207-with-stroke-new-3_fmy1lkl1.png?v=3",
-   "link": "https://epitoanyag.hu/velux-gll-1061-78x140-cm-billeno-fa-tetoteri-ablak-pVUgtMzI0NzU1",
-   "ar": "168 690 Ft",
-   "akcios_ar": "147 590 Ft",
+   "id": "UH-324753",
+   "nev": "VELUX GLL 1061 78x98 cm, billenő fa tetőtéri ablak",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/207-with-stroke-new-3_84uo5fj8.png?v=3",
+   "link": "https://epitoanyag.hu/velux-gll-1061-78x98-cm-billeno-fa-tetoteri-ablak-pVUgtMzI0NzUz",
+   "ar": "144 990 Ft",
+   "akcios_ar": "126 900 Ft",
    "marka": ".VELUX"
   },
   {
@@ -52,24 +52,6 @@
    "marka": "Fakro"
   },
   {
-   "id": "UH-324753",
-   "nev": "VELUX GLL 1061 78x98 cm, billenő fa tetőtéri ablak",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/207-with-stroke-new-3_84uo5fj8.png?v=3",
-   "link": "https://epitoanyag.hu/velux-gll-1061-78x98-cm-billeno-fa-tetoteri-ablak-pVUgtMzI0NzUz",
-   "ar": "144 990 Ft",
-   "akcios_ar": "126 900 Ft",
-   "marka": ".VELUX"
-  },
-  {
-   "id": "UH-205996",
-   "nev": "VELUX DKL 78x160 cm, fehér fényzáró roló",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-205996-3_npzpmuh4.jpg?v=3",
-   "link": "https://epitoanyag.hu/velux-dkl-78x160-cm-feher-fenyzaro-rolo-pVUgtMjA1OTk2",
-   "ar": "45 990 Ft",
-   "akcios_ar": "",
-   "marka": ".VELUX"
-  },
-  {
    "id": "UH-324778",
    "nev": "VELUX GLU 0061 78x118 cm, billenő műanyag tetőtéri ablak",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/standard-flying-mf-new_lwb1a9qr.png?v=3",
@@ -79,11 +61,11 @@
    "marka": ".VELUX"
   },
   {
-   "id": "UH-205321",
-   "nev": "VELUX DOP 78x140 cm-es csomag: sötétkék fényzáró roló és fekete hővédő roló",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-205321_etv4ftzh.jpg?v=3",
-   "link": "https://epitoanyag.hu/velux-dop-78x140-cm-es-csomag-sotetkek-fenyzaro-rolo-es-fekete-hovedo-rolo-pVUgtMjA1MzIx",
-   "ar": "60 990 Ft",
+   "id": "UH-205996",
+   "nev": "VELUX DKL 78x160 cm, fehér fényzáró roló",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-205996-3_npzpmuh4.jpg?v=3",
+   "link": "https://epitoanyag.hu/velux-dkl-78x160-cm-feher-fenyzaro-rolo-pVUgtMjA1OTk2",
+   "ar": "45 990 Ft",
    "akcios_ar": "",
    "marka": ".VELUX"
   },
@@ -97,11 +79,11 @@
    "marka": "Fakro"
   },
   {
-   "id": "UH-205185",
-   "nev": "VELUX MHL 78 cm-es fekete hővédő roló",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-205185_905ty249.jpg?v=3",
-   "link": "https://epitoanyag.hu/velux-mhl-78-cm-es-fekete-hovedo-rolo-pVUgtMjA1MTg1",
-   "ar": "26 790 Ft",
+   "id": "UH-205321",
+   "nev": "VELUX DOP 78x140 cm-es csomag: sötétkék fényzáró roló és fekete hővédő roló",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-205321_etv4ftzh.jpg?v=3",
+   "link": "https://epitoanyag.hu/velux-dop-78x140-cm-es-csomag-sotetkek-fenyzaro-rolo-es-fekete-hovedo-rolo-pVUgtMjA1MzIx",
+   "ar": "60 990 Ft",
    "akcios_ar": "",
    "marka": ".VELUX"
   },
@@ -113,6 +95,24 @@
    "ar": "141 590 Ft",
    "akcios_ar": "",
    "marka": "Fakro"
+  },
+  {
+   "id": "UH-205185",
+   "nev": "VELUX MHL 78 cm-es fekete hővédő roló",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-205185_905ty249.jpg?v=3",
+   "link": "https://epitoanyag.hu/velux-mhl-78-cm-es-fekete-hovedo-rolo-pVUgtMjA1MTg1",
+   "ar": "26 790 Ft",
+   "akcios_ar": "",
+   "marka": ".VELUX"
+  },
+  {
+   "id": "UH-324748",
+   "nev": "VELUX GLL 1061 55x78 cm, billenő fa tetőtéri ablak",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/207-with-stroke-new-3_4tk83smq.png?v=3",
+   "link": "https://epitoanyag.hu/velux-gll-1061-55x78-cm-billeno-fa-tetoteri-ablak-pVUgtMzI0NzQ4",
+   "ar": "119 790 Ft",
+   "akcios_ar": "",
+   "marka": ".VELUX"
   }
  ]
 }
