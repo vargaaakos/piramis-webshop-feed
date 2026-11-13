@@ -1,6 +1,6 @@
 {
- "feed_frissitve": "Thu, 12 Nov 2026 10:50:13 GMT",
- "termek_osszesen": 23777,
+ "feed_frissitve": "Fri, 13 Nov 2026 10:50:13 GMT",
+ "termek_osszesen": 23788,
  "kategoriak": [
   {
    "kategoria": "Egyéb barkácsáru",
@@ -27,7 +27,7 @@
    "kategoria": "Munkaruházat, védőfelszerelés",
    "fokategoria": "Barkács",
    "slug": "munkaruhazat-vedofelszereles",
-   "osszes": 201,
+   "osszes": 200,
    "kirakva": 12
   },
   {
@@ -41,7 +41,7 @@
    "kategoria": "Szerszám, szerszámgép",
    "fokategoria": "Barkács",
    "slug": "szerszam-szerszamgep",
-   "osszes": 714,
+   "osszes": 722,
    "kirakva": 12
   },
   {
@@ -286,14 +286,14 @@
    "kategoria": "Szigetelés",
    "fokategoria": "Építőanyag",
    "slug": "szigeteles",
-   "osszes": 1035,
+   "osszes": 1041,
    "kirakva": 12
   },
   {
    "kategoria": "Tetőfedés",
    "fokategoria": "Építőanyag",
    "slug": "tetofedes",
-   "osszes": 3273,
+   "osszes": 3271,
    "kirakva": 12
   },
   {
