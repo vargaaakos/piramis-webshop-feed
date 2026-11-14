@@ -2,9 +2,9 @@
  "kategoria": "Szerszám, szerszámgép",
  "fokategoria": "Barkács",
  "slug": "szerszam-szerszamgep",
- "feed_frissitve": "Fri, 13 Nov 2026 10:50:13 GMT",
- "osszes_termek": 722,
- "raktaron": 720,
+ "feed_frissitve": "Sat, 14 Nov 2026 09:50:12 GMT",
+ "osszes_termek": 721,
+ "raktaron": 719,
  "termekek": [
   {
    "id": "HIK-750038",
@@ -61,15 +61,6 @@
    "marka": "Hikoki"
   },
   {
-   "id": "EIN-4310614",
-   "nev": "Einhell MSS 1608 gérvágó állvány",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/ein-4310614_2ufihtdn.jpg?v=3",
-   "link": "https://epitoanyag.hu/einhell-mss-1608-gervago-allvany-pRUlOLTQzMTA2MTQ_eq1",
-   "ar": "32 750 Ft",
-   "akcios_ar": "",
-   "marka": "Einhell"
-  },
-  {
    "id": "EIN-4174230",
    "nev": "Einhell elektronikus átfolyáskapcsoló",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/ein-4174230_bkh4w4n8.jpg?v=3",
@@ -77,6 +68,15 @@
    "ar": "25 440 Ft",
    "akcios_ar": "",
    "marka": "Einhell"
+  },
+  {
+   "id": "HIK-C3607DABASICHSC",
+   "nev": "Hikoki C3607DA-BASIC-HSC akkumulátoros körfűrész 185 mm, Hitboxban",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/hik-c3607dabasichsc_z1rwu4os.jpg?v=3",
+   "link": "https://epitoanyag.hu/hikoki-c3607da-basic-hsc-akkumulatoros-korfuresz-185-mm-hitboxban-pSElLLUMzNjA3REFCQVNJQ0hTQw_eq2",
+   "ar": "119 900 Ft",
+   "akcios_ar": "",
+   "marka": "Hikoki"
   },
   {
    "id": "HIK-GP5V",
@@ -101,7 +101,7 @@
    "nev": "Milwaukee M18 FHET45-802 sövényvágó 45 cm",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/mwk-4933493294-1_ygsxq2md.jpg?v=3",
    "link": "https://epitoanyag.hu/milwaukee-m18-fhet45-802-sovenyvago-45-cm-pTVdLLTQ5MzM0OTMyOTQ_eq1",
-   "ar": "319 360 Ft",
+   "ar": "205 780 Ft",
    "akcios_ar": "",
    "marka": "Milwaukee"
   },
@@ -110,7 +110,7 @@
    "nev": "Milwaukee M18F2BPB-124 dupla akkumulátoros háti lombfúvó",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/mwk-4933493213_c44eskfv.jpg?v=3",
    "link": "https://epitoanyag.hu/milwaukee-m18f2bpb-124-dupla-akkumulatoros-hati-lombfuvo-pTVdLLTQ5MzM0OTMyMTM_eq1",
-   "ar": "927 820 Ft",
+   "ar": "620 000 Ft",
    "akcios_ar": "",
    "marka": "Milwaukee"
   }

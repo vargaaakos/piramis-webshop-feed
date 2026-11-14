@@ -2,9 +2,9 @@
  "kategoria": "Tégla",
  "fokategoria": "Építőanyag",
  "slug": "tegla",
- "feed_frissitve": "Fri, 13 Nov 2026 10:50:13 GMT",
+ "feed_frissitve": "Sat, 14 Nov 2026 09:50:12 GMT",
  "osszes_termek": 91,
- "raktaron": 60,
+ "raktaron": 59,
  "termekek": [
   {
    "id": "UH-198166",
@@ -34,11 +34,11 @@
    "marka": "Bakonytherm"
   },
   {
-   "id": "UH-813164",
-   "nev": "BB Üvegtégla fehér, tiszta 190 x 190 x 80 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-copied-copied-uh-518978_zdi9xdt3.jpg?v=2",
-   "link": "https://epitoanyag.hu/bb-uvegtegla-feher-tiszta-190-x-190-x-80-mm-pVUgtODEzMTY0",
-   "ar": "1 125 Ft",
+   "id": "UH-001215",
+   "nev": "Üvegtégla távtartó 8 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-001215_bd4lzezz.jpg?v=3",
+   "link": "https://epitoanyag.hu/uvegtegla-tavtarto-8-cm-pVUgtMDAxMjE1",
+   "ar": "75 Ft",
    "akcios_ar": "",
    "marka": "Egyéb"
   },
@@ -68,15 +68,6 @@
    "ar": "440 Ft",
    "akcios_ar": "",
    "marka": "Leier"
-  },
-  {
-   "id": "UH-001215",
-   "nev": "Üvegtégla távtartó 8 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-001215_bd4lzezz.jpg?v=3",
-   "link": "https://epitoanyag.hu/uvegtegla-tavtarto-8-cm-pVUgtMDAxMjE1",
-   "ar": "75 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
   },
   {
    "id": "UH-831647",
@@ -113,6 +104,15 @@
    "ar": "54 480 Ft",
    "akcios_ar": "",
    "marka": "Wienerberger"
+  },
+  {
+   "id": "SAMOTT25*12*4",
+   "nev": "Samott tégla 4 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/samott25124_5qdofefc.jpg?v=3",
+   "link": "https://epitoanyag.hu/samott-tegla-4-cm-pU0FNT1RUMjUqMTIqNA_eq2",
+   "ar": "1 145 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
   }
  ]
 }
