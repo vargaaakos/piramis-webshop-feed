@@ -1,6 +1,6 @@
 {
- "feed_frissitve": "Sat, 14 Nov 2026 09:50:12 GMT",
- "termek_osszesen": 23786,
+ "feed_frissitve": "Sun, 15 Nov 2026 10:50:11 GMT",
+ "termek_osszesen": 23785,
  "kategoriak": [
   {
    "kategoria": "Egyéb barkácsáru",
@@ -13,7 +13,7 @@
    "kategoria": "Festés",
    "fokategoria": "Barkács",
    "slug": "festes",
-   "osszes": 401,
+   "osszes": 400,
    "kirakva": 12
   },
   {
