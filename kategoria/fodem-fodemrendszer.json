@@ -2,9 +2,9 @@
  "kategoria": "Födém, födémrendszer",
  "fokategoria": "Építőanyag",
  "slug": "fodem-fodemrendszer",
- "feed_frissitve": "Sun, 15 Nov 2026 10:50:11 GMT",
+ "feed_frissitve": "Mon, 16 Nov 2026 11:50:13 GMT",
  "osszes_termek": 37,
- "raktaron": 32,
+ "raktaron": 34,
  "termekek": [
   {
    "id": "UH-100184",
@@ -97,11 +97,11 @@
    "marka": "Wienerberger"
   },
   {
-   "id": "UH-124155",
-   "nev": "SW Umwelttechnik födémgerenda EU-48, 5 m",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-124155_keo6ygok.jpg?v=3",
-   "link": "https://epitoanyag.hu/sw-umwelttechnik-fodemgerenda-eu-48-5-m-pVUgtMTI0MTU1",
-   "ar": "30 575 Ft",
+   "id": "UH-124143",
+   "nev": "SW Umwelttechnik födémgerenda EU-36, 3,8 m",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-124143_aiixlr5m.jpg?v=3",
+   "link": "https://epitoanyag.hu/sw-umwelttechnik-fodemgerenda-eu-36-38-m-pVUgtMTI0MTQz",
+   "ar": "23 425 Ft",
    "akcios_ar": "",
    "marka": "SW"
   },
