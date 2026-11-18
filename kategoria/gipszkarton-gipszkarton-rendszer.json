@@ -2,9 +2,9 @@
  "kategoria": "Gipszkarton, gipszkarton rendszer",
  "fokategoria": "Belsőépítészet",
  "slug": "gipszkarton-gipszkarton-rendszer",
- "feed_frissitve": "Tue, 17 Nov 2026 11:50:13 GMT",
+ "feed_frissitve": "Wed, 18 Nov 2026 11:50:12 GMT",
  "osszes_termek": 335,
- "raktaron": 115,
+ "raktaron": 118,
  "termekek": [
   {
    "id": "UH-731120",
@@ -43,11 +43,11 @@
    "marka": "DK"
   },
   {
-   "id": "UH-731122",
-   "nev": "DK Profifix akusztikus lengőkengyel 95 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-731122_07hfhols.png?v=3",
-   "link": "https://epitoanyag.hu/dk-profifix-akusztikus-lengokengyel-95-mm-pVUgtNzMxMTIy",
-   "ar": "140 Ft",
+   "id": "UH-731121",
+   "nev": "DK Profifix akusztikus lengőkengyel 65 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-731121_or2uuu2s.png?v=3",
+   "link": "https://epitoanyag.hu/dk-profifix-akusztikus-lengokengyel-65-mm-pVUgtNzMxMTIx",
+   "ar": "105 Ft",
    "akcios_ar": "",
    "marka": "DK"
   },
@@ -79,11 +79,11 @@
    "marka": "DK"
   },
   {
-   "id": "UH-731153",
-   "nev": "DK Profifix beütődübel 6x40 mm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-731153_xts88xf8.jpg?v=3",
-   "link": "https://epitoanyag.hu/dk-profifix-beutodubel-6x40-mm-pVUgtNzMxMTUz",
-   "ar": "15 Ft",
+   "id": "UH-731122",
+   "nev": "DK Profifix akusztikus lengőkengyel 95 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-731122_07hfhols.png?v=3",
+   "link": "https://epitoanyag.hu/dk-profifix-akusztikus-lengokengyel-95-mm-pVUgtNzMxMTIy",
+   "ar": "140 Ft",
    "akcios_ar": "",
    "marka": "DK"
   },
