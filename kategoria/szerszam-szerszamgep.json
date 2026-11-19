@@ -2,7 +2,7 @@
  "kategoria": "Szerszám, szerszámgép",
  "fokategoria": "Barkács",
  "slug": "szerszam-szerszamgep",
- "feed_frissitve": "Wed, 18 Nov 2026 11:50:12 GMT",
+ "feed_frissitve": "Thu, 19 Nov 2026 11:50:13 GMT",
  "osszes_termek": 733,
  "raktaron": 731,
  "termekek": [
@@ -61,6 +61,15 @@
    "marka": "Hikoki"
   },
   {
+   "id": "EIN-4310614",
+   "nev": "Einhell MSS 1608 gérvágó állvány",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/ein-4310614_2ufihtdn.jpg?v=3",
+   "link": "https://epitoanyag.hu/einhell-mss-1608-gervago-allvany-pRUlOLTQzMTA2MTQ_eq1",
+   "ar": "32 750 Ft",
+   "akcios_ar": "",
+   "marka": "Einhell"
+  },
+  {
    "id": "EIN-4174230",
    "nev": "Einhell elektronikus átfolyáskapcsoló",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/ein-4174230_bkh4w4n8.jpg?v=3",
@@ -68,15 +77,6 @@
    "ar": "25 440 Ft",
    "akcios_ar": "",
    "marka": "Einhell"
-  },
-  {
-   "id": "HIK-C3607DABASICHSC",
-   "nev": "Hikoki C3607DA-BASIC-HSC akkumulátoros körfűrész 185 mm, Hitboxban",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/hik-c3607dabasichsc_z1rwu4os.jpg?v=3",
-   "link": "https://epitoanyag.hu/hikoki-c3607da-basic-hsc-akkumulatoros-korfuresz-185-mm-hitboxban-pSElLLUMzNjA3REFCQVNJQ0hTQw_eq2",
-   "ar": "119 900 Ft",
-   "akcios_ar": "",
-   "marka": "Hikoki"
   },
   {
    "id": "HIK-GP5V",

@@ -2,9 +2,9 @@
  "kategoria": "Szigetelés",
  "fokategoria": "Építőanyag",
  "slug": "szigeteles",
- "feed_frissitve": "Wed, 18 Nov 2026 11:50:12 GMT",
+ "feed_frissitve": "Thu, 19 Nov 2026 11:50:13 GMT",
  "osszes_termek": 1042,
- "raktaron": 248,
+ "raktaron": 245,
  "termekek": [
   {
    "id": "UH-816976",
@@ -43,15 +43,6 @@
    "marka": "Cemix"
   },
   {
-   "id": "UH-571065",
-   "nev": "Dilatációs habszivacs csík 0,5 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-001400_twat1wie.jpg?v=3",
-   "link": "https://epitoanyag.hu/dilatacios-habszivacs-csik-05-cm-pVUgtNTcxMDY1",
-   "ar": "3 345 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
-  },
-  {
    "id": "UH-042814",
    "nev": "Aco perforált FF Drain cső D100",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-042814_ruzh4fp0.jpg?v=3",
@@ -59,6 +50,15 @@
    "ar": "67 000 Ft",
    "akcios_ar": "",
    "marka": "ACO"
+  },
+  {
+   "id": "UH-571065",
+   "nev": "Dilatációs habszivacs csík 0,5 cm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-001400_twat1wie.jpg?v=3",
+   "link": "https://epitoanyag.hu/dilatacios-habszivacs-csik-05-cm-pVUgtNTcxMDY1",
+   "ar": "3 345 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
   },
   {
    "id": "UH-754731",
@@ -106,13 +106,13 @@
    "marka": "Henkel"
   },
   {
-   "id": "UH-556407",
-   "nev": "Dilatációs habszivacs csík 1 cm",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-001398_0yi348uv.jpg?v=3",
-   "link": "https://epitoanyag.hu/dilatacios-habszivacs-csik-1-cm-pVUgtNTU2NDA3",
-   "ar": "2 510 Ft",
+   "id": "UH-359646",
+   "nev": "Dörken Berner beütőék 5x50 mm",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-359646_1lmvdg8r.png?v=3",
+   "link": "https://epitoanyag.hu/dorken-berner-beutoek-5x50-mm-pVUgtMzU5NjQ2",
+   "ar": "60 Ft",
    "akcios_ar": "",
-   "marka": "Egyéb"
+   "marka": "Dörken"
   }
  ]
 }
