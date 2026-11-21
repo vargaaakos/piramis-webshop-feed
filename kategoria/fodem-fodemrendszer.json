@@ -2,9 +2,9 @@
  "kategoria": "Födém, födémrendszer",
  "fokategoria": "Építőanyag",
  "slug": "fodem-fodemrendszer",
- "feed_frissitve": "Fri, 20 Nov 2026 11:50:13 GMT",
+ "feed_frissitve": "Sat, 21 Nov 2026 10:50:12 GMT",
  "osszes_termek": 37,
- "raktaron": 33,
+ "raktaron": 32,
  "termekek": [
   {
    "id": "UH-100171",
@@ -88,11 +88,11 @@
    "marka": "SW"
   },
   {
-   "id": "UH-100174",
-   "nev": "Wienerberger Porotherm födémgerenda 3,25 m",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-100174_zegdkcu2.jpg?v=3",
-   "link": "https://epitoanyag.hu/wienerberger-porotherm-fodemgerenda-325-m-pVUgtMTAwMTc0",
-   "ar": "12 900 Ft",
+   "id": "UH-100176",
+   "nev": "Wienerberger Porotherm födémgerenda 3,75 m",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-100176_roassbud.jpg?v=3",
+   "link": "https://epitoanyag.hu/wienerberger-porotherm-fodemgerenda-375-m-pVUgtMTAwMTc2",
+   "ar": "14 900 Ft",
    "akcios_ar": "",
    "marka": "Wienerberger"
   },
