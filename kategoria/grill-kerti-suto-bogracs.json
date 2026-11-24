@@ -2,9 +2,9 @@
  "kategoria": "Grill, kerti sütő, bogrács",
  "fokategoria": "Kert",
  "slug": "grill-kerti-suto-bogracs",
- "feed_frissitve": "Mon, 23 Nov 2026 12:50:12 GMT",
- "osszes_termek": 71,
- "raktaron": 42,
+ "feed_frissitve": "Tue, 24 Nov 2026 13:50:13 GMT",
+ "osszes_termek": 70,
+ "raktaron": 41,
  "termekek": [
   {
    "id": "UH-383364",
@@ -79,15 +79,6 @@
    "marka": "SpaTrend"
   },
   {
-   "id": "SPT-61935",
-   "nev": "Broil King digitális húshőmérő",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/spt-61935_631l31t1.jpg?v=3",
-   "link": "https://epitoanyag.hu/broil-king-digitalis-hushomero-pU1BULTYxOTM1",
-   "ar": "16 175 Ft",
-   "akcios_ar": "",
-   "marka": "SpaTrend"
-  },
-  {
    "id": "SPT-64312",
    "nev": "Broil King fogócsipesz készlet, színes 3 db",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/spt-64312-1_xgchf689.jpg?v=3",
@@ -111,6 +102,15 @@
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/spt-64011-2_vop1bg37.jpg?v=3",
    "link": "https://epitoanyag.hu/broil-king-grill-lapat-pU1BULTY0MDEx",
    "ar": "6 425 Ft",
+   "akcios_ar": "",
+   "marka": "SpaTrend"
+  },
+  {
+   "id": "SPT-62391",
+   "nev": "Broil King grilltisztító külső használatra",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/spt-62391_a3qtli67.jpg?v=3",
+   "link": "https://epitoanyag.hu/broil-king-grilltisztito-kulso-hasznalatra-pU1BULTYyMzkx",
+   "ar": "4 505 Ft",
    "akcios_ar": "",
    "marka": "SpaTrend"
   }

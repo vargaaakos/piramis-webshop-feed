@@ -2,9 +2,9 @@
  "kategoria": "Tetőfedés",
  "fokategoria": "Építőanyag",
  "slug": "tetofedes",
- "feed_frissitve": "Mon, 23 Nov 2026 12:50:12 GMT",
+ "feed_frissitve": "Tue, 24 Nov 2026 13:50:13 GMT",
  "osszes_termek": 3271,
- "raktaron": 424,
+ "raktaron": 426,
  "termekek": [
   {
    "id": "ECX-BB-LS4-BD70",
@@ -88,11 +88,11 @@
    "marka": "Leier"
   },
   {
-   "id": "UH-033634",
-   "nev": "Bramac Veltitech 120 nem páraáteresztő tetőfólia 120 g, 75 m2",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-033634_9dmw3mp3.jpg?v=3",
-   "link": "https://epitoanyag.hu/bramac-veltitech-120-nem-paraatereszto-tetofolia-120-g-75-m2-pVUgtMDMzNjM0",
-   "ar": "48 375 Ft",
+   "id": "UH-033780",
+   "nev": "Bramac Membrán 100 2S belső oldali párazáró tetőfólia két ragasztósávval 148 g, 75 m2",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-uh-032694_1n95jvaw.jpg?v=3",
+   "link": "https://epitoanyag.hu/bramac-membran-100-2s-belso-oldali-parazaro-tetofolia-ket-ragasztosavval-148-g-75-m2-pVUgtMDMzNzgw",
+   "ar": "102 000 Ft",
    "akcios_ar": "",
    "marka": "BMI Bramac"
   },

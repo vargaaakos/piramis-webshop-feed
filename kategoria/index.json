@@ -1,6 +1,6 @@
 {
- "feed_frissitve": "Mon, 23 Nov 2026 12:50:12 GMT",
- "termek_osszesen": 23819,
+ "feed_frissitve": "Tue, 24 Nov 2026 13:50:13 GMT",
+ "termek_osszesen": 23821,
  "kategoriak": [
   {
    "kategoria": "Egyéb barkácsáru",
@@ -13,14 +13,14 @@
    "kategoria": "Festés",
    "fokategoria": "Barkács",
    "slug": "festes",
-   "osszes": 399,
+   "osszes": 406,
    "kirakva": 12
   },
   {
    "kategoria": "Kerti- és kéziszerszám",
    "fokategoria": "Barkács",
    "slug": "kerti-es-keziszerszam",
-   "osszes": 366,
+   "osszes": 365,
    "kirakva": 12
   },
   {
@@ -41,7 +41,7 @@
    "kategoria": "Szerszám, szerszámgép",
    "fokategoria": "Barkács",
    "slug": "szerszam-szerszamgep",
-   "osszes": 730,
+   "osszes": 726,
    "kirakva": 12
   },
   {
@@ -70,7 +70,7 @@
    "fokategoria": "Belsőépítészet",
    "slug": "furdoszoba-szaniter",
    "osszes": 28,
-   "kirakva": 5
+   "kirakva": 6
   },
   {
    "kategoria": "Gipszkarton, gipszkarton rendszer",
@@ -153,7 +153,7 @@
    "kategoria": "Grill, kerti sütő, bogrács",
    "fokategoria": "Kert",
    "slug": "grill-kerti-suto-bogracs",
-   "osszes": 71,
+   "osszes": 70,
    "kirakva": 12
   },
   {
@@ -195,8 +195,8 @@
    "kategoria": "Lábtörlők, rácsok",
    "fokategoria": "Kert",
    "slug": "labtorlok-racsok",
-   "osszes": 26,
-   "kirakva": 0
+   "osszes": 27,
+   "kirakva": 1
   },
   {
    "kategoria": "Növényápolás, kertgondozás",
@@ -259,7 +259,7 @@
    "fokategoria": "Nyílászáró",
    "slug": "tetokijarat-tetokibuvo",
    "osszes": 23,
-   "kirakva": 2
+   "kirakva": 3
   },
   {
    "kategoria": "Tetőtéri ablak, tetőtéri ablak kiegészítő",
