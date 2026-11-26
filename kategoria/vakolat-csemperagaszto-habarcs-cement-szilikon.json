@@ -2,9 +2,9 @@
  "kategoria": "Vakolat, csemperagasztó, habarcs, cement, szilikon",
  "fokategoria": "Építőanyag",
  "slug": "vakolat-csemperagaszto-habarcs-cement-szilikon",
- "feed_frissitve": "Wed, 25 Nov 2026 12:50:12 GMT",
- "osszes_termek": 13666,
- "raktaron": 314,
+ "feed_frissitve": "Thu, 26 Nov 2026 12:50:12 GMT",
+ "osszes_termek": 13667,
+ "raktaron": 316,
  "termekek": [
   {
    "id": "UH-518826",
@@ -79,6 +79,15 @@
    "marka": "ÚjHáz"
   },
   {
+   "id": "MÉSZHIDRÁT25",
+   "nev": "Mészhidrát 25 kg",
+   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/meszhidrat25_1xxg4w4p.jpg?v=3",
+   "link": "https://epitoanyag.hu/meszhidrat-25-kg-pTcOJU1pISURSw4FUMjU_eq1",
+   "ar": "5 350 Ft",
+   "akcios_ar": "",
+   "marka": "Egyéb"
+  },
+  {
    "id": "UH-599607",
    "nev": "Revco Vario+ Struktúra gördülőszemcsés vékonyvakolat 2 mm bonbon 4 16 kg",
    "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/uh-599607-2_xjpj64c4.png?v=3",
@@ -86,15 +95,6 @@
    "ar": "14 655 Ft",
    "akcios_ar": "",
    "marka": "Revco"
-  },
-  {
-   "id": "MÉSZOLTOTT25KAL",
-   "nev": "Oltott mész 25 kg (10 q/vas kaloda)",
-   "kep": "https://file.epitoanyag.hu/product_images/955x500/resize/copied-meszoltott25_kgiiug8m.jpg?v=4",
-   "link": "https://epitoanyag.hu/oltott-mesz-25-kg-10-qvas-kaloda-pTcOJU1pPTFRPVFQyNUtBTA_eq2",
-   "ar": "1 880 Ft",
-   "akcios_ar": "",
-   "marka": "Egyéb"
   },
   {
    "id": "UH-526281",
