@@ -1,6 +1,6 @@
 {
- "feed_frissitve": "Thu, 26 Nov 2026 12:50:12 GMT",
- "termek_osszesen": 23826,
+ "feed_frissitve": "Fri, 27 Nov 2026 12:50:12 GMT",
+ "termek_osszesen": 23846,
  "kategoriak": [
   {
    "kategoria": "Egyéb barkácsáru",
@@ -27,7 +27,7 @@
    "kategoria": "Munkaruházat, védőfelszerelés",
    "fokategoria": "Barkács",
    "slug": "munkaruhazat-vedofelszereles",
-   "osszes": 199,
+   "osszes": 197,
    "kirakva": 12
   },
   {
@@ -41,7 +41,7 @@
    "kategoria": "Szerszám, szerszámgép",
    "fokategoria": "Barkács",
    "slug": "szerszam-szerszamgep",
-   "osszes": 721,
+   "osszes": 720,
    "kirakva": 12
   },
   {
@@ -195,8 +195,8 @@
    "kategoria": "Lábtörlők, rácsok",
    "fokategoria": "Kert",
    "slug": "labtorlok-racsok",
-   "osszes": 27,
-   "kirakva": 1
+   "osszes": 26,
+   "kirakva": 0
   },
   {
    "kategoria": "Növényápolás, kertgondozás",
@@ -209,7 +209,7 @@
    "kategoria": "Térburkolat",
    "fokategoria": "Kert",
    "slug": "terburkolat",
-   "osszes": 1080,
+   "osszes": 1107,
    "kirakva": 12
   },
   {
@@ -307,7 +307,7 @@
    "kategoria": "Vakolat, csemperagasztó, habarcs, cement, szilikon",
    "fokategoria": "Építőanyag",
    "slug": "vakolat-csemperagaszto-habarcs-cement-szilikon",
-   "osszes": 13667,
+   "osszes": 13664,
    "kirakva": 12
   },
   {
